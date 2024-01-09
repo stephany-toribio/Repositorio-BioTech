@@ -32,10 +32,10 @@ En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su d
 ## ¿Quiénes somos?
 ---
 - Stephany Marilyn Toribio Alvarado 
-![]()
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/stephany_marilyn.jpg)
 
 - Mishell Camila Maravi Melgar
-![]()
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/mishel_camila.png)
   
 - Stefano Jesus Ortega Sanchez
 ![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/stefano_ortega.jpg)
