@@ -9,6 +9,26 @@ Bienvenidos al grupo BIOTECH 😎
 - [Software](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Software)
 - [¿Quiénes somos?](#Quiénes-somos)
 
+## Problematica
+---
+Se identificaran los diversos problemas en el proyecto
+
+## Contexto
+---
+Se abordaran los contextos de la problematica presentada, tales como son los siguientes: Cientifica, Económica y Social 
+
+## Hardware
+---
+En esta seccion, abordaremos el Modelado 3D, Protipado y los planos
+
+## Informes
+---
+Se almacenaran las datas usadas en este proyecto
+
+## Software
+---
+En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su desarrollo
+
 ## ¿Quiénes somos?
 ---
 - Stephany Marilyn Toribio Alvarado 
