@@ -1,2 +1,3 @@
-# Fundamentos_Dise-o
-Repositorio del curso de Fundamentos de Diseño
+<h1 align="center">BIOTECH</h1>
+
+Bienvenidos al grupo BIOTECH 😎
