@@ -38,7 +38,7 @@ En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su d
 ![]()
   
 - Stefano Jesus Ortega Sanchez
-![]()
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/stefano_ortega.jpg)
   
 - John Jairo Rodriguez Aguirre
-![]()
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/jhon_jairo.jpg)
