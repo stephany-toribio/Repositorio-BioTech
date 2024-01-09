@@ -8,7 +8,6 @@ Bienvenidos al grupo BIOTECH 😎
 - [Informes](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Informes)
 - [Software](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Software)
 - [¿Quiénes somos?](#Quiénes-somos)
-- [¿Qué es lo que buscamos?](#Que-es-lo-que-buscamos)
 
 ## ¿Quiénes somos?
 ---
