@@ -2,6 +2,6 @@
 
 Bienvenidos al grupo BIOTECH 😎
 
-- [¿Qué es lo que buscamos?](#Que-es-lo-que-buscamos)
 - [Problemática](#Problemática)
 - [¿Quiénes somos?](#Quiénes-somos)
+- [¿Qué es lo que buscamos?](#Que-es-lo-que-buscamos)
