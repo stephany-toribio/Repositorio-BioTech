@@ -7,6 +7,7 @@ Bienvenidos al grupo BIOTECH 😎
 - [¿Qué es lo que buscamos?](#Que-es-lo-que-buscamos)
 
 ## ¿Quiénes somos?
+---
 - Stephany Marilyn Toribio Alvarado 
 ![]()
 
