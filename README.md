@@ -2,7 +2,7 @@
 
 Bienvenidos al grupo BIOTECH 😎
 
-- [Problemática](pProblematica)
+- [Problemática](problematica)
 - [Contexto](#contexto)
 - [Hardware](#hardware)
 - [Informes](#informes)
