@@ -2,11 +2,11 @@
 
 Bienvenidos al grupo BIOTECH 😎
 
-- [Problemática](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Problem%C3%A1tica)
-- [Contexto](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Contexto)
-- [Hardware](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Hardaware/Prototipado)
-- [Informes](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Informes)
-- [Software](https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Software)
+- [Problemática](pProblematica)
+- [Contexto](#contexto)
+- [Hardware](#hardware)
+- [Informes](#informes)
+- [Software](#software)
 - [¿Quiénes somos?](#Quiénes-somos)
 
 ## Problematica
