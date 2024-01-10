@@ -2,14 +2,14 @@
 
 Bienvenidos al grupo BIOTECH 😎
 
-- [Problemática](problematica)
+- [Problemática](#problemática)
 - [Contexto](#contexto)
 - [Hardware](#hardware)
 - [Informes](#informes)
 - [Software](#software)
 - [¿Quiénes somos?](#Quiénes-somos)
 
-## Problematica
+## Problemática
 ---
 Se identificaran los diversos problemas en el proyecto
 
