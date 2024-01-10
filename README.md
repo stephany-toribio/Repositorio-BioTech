@@ -37,7 +37,7 @@ En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su d
 - Mishell Camila Maravi Melgar
 ![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/mishel_camila.png)
   
-- Stefano Jesus Ortega Sanchez
+- Stefano Jesus Ortega Herencia
 ![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/stefano_ortega.jpg)
   
 - John Jairo Rodriguez Aguirre
