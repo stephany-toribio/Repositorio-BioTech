@@ -7,7 +7,7 @@ Bienvenidos al grupo BIOTECH 😎
 - [Hardware](#hardware)
 - [Informes](#informes)
 - [Software](#software)
-- [¿Quiénes somos?](#Quiénes-somos)
+- [Sobre Nosotros](#sobre-nosotros)
 
 ## Problemática
 ---
@@ -29,16 +29,16 @@ Se almacenaran las datas usadas en este proyecto.
 ---
 En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su desarrollo.
 
-## ¿Quiénes somos?
+## Sobre Nosotros
 ---
 - Stephany Marilyn Toribio Alvarado 
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/stephany_marilyn.jpg)
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/stephany_marilyn.jpg)
 
 - Mishell Camila Maravi Melgar
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/mishel_camila.png)
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/mishel_camila.png)
   
 - Stefano Jesús Ortega Herencia
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/stefano_ortega.jpg)
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/stefano_ortega.jpg)
   
 - John Jairo Rodriguez Aguirre
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/Quienes_Somos/jhon_jairo.jpg)
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/jhon_jairo.jpg)
