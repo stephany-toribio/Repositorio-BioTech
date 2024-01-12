@@ -12,7 +12,7 @@ Bienvenido a la carpeta de software, un espacio dedicado al desarrollo de softwa
 
 ## Arduino
 
-1. [**codigo_arduino.ino**](hhttps://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Software/codigo_arduino.ino)
+1. [**codigo_arduino.ino**](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Software/codigo_arduino.ino)
    - **Descripción:**
      Este archivo representa la esencia misma de la implementación práctica en el ámbito del hardware, específicamente diseñado para la plataforma Arduino. Su propósito principal es medir y recopilar datos cruciales para evaluar el progreso hacia ciudades más sostenibles. Abordando factores como humedad, temperatura y otros parámetros relevantes, el código proporciona una herramienta valiosa para la monitorización en tiempo real de condiciones ambientales y la eficacia de las iniciativas sostenibles implementadas.
 
