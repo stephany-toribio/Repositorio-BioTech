@@ -1,8 +1,7 @@
 
 ## Sobre Nosotros
 ---
-- Stephany Marilyn Toribio Alvarado 
-![](https://drive.google.com/file/d/1h3fTnxEBJ7_Qfscdp_85Q-uiaeMHV_pQ/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1h3fTnxEBJ7_Qfscdp_85Q-uiaeMHV_pQ/view?usp=sharing" alt="- Stephany Marilyn Toribio Alvarado">
 
 - Mishell Camila Maravi Melgar
 ![](https://drive.google.com/file/d/1ioOllq0zR6i1L6uMiS1c8tiKDdHAF-pC/view?usp=sharing)
