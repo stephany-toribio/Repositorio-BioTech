@@ -21,7 +21,3 @@ Se abordaran los contextos de la problematica presentada, tales como son los sig
 ## Hardware
 ---
 En esta seccion, abordaremos el Modelado 3D, Protipado y los planos.
-
-## Informes
----
-Se almacenaran las datas usadas en este proyecto.
