@@ -1,6 +1,3 @@
-
-## Sobre Nosotros
----
 - Stephany Marilyn Toribio Alvarado 
 ![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/sobre_nosotros/stephany_marilyn.png)
 

@@ -31,16 +31,5 @@ En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su d
 
 ## Sobre Nosotros
 ---
-Somos un equipo conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia que tiene como propósito impulsar soluciones innovadoras que creen un impacto positivo en nuestro entorno.
-
-- Stephany Marilyn Toribio Alvarado 
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/stephany_marilyn.jpg)
-
-- Mishell Camila Maravi Melgar
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/mishel_camila.png)
-  
-- Stefano Jesús Ortega Herencia
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/stefano_ortega.jpg)
-  
-- John Jairo Rodriguez Aguirre
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/jhon_jairo.jpg)
+Somos un equipo conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia que tiene como propósito impulsar soluciones eficaces y eco sostenibles que creen un impacto positivo en nuestro entorno.
+Si deseas conocer mas sobre nosotros, ![haz click aqui](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/sobre_nosotros.md)
