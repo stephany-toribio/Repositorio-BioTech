@@ -4,9 +4,9 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 
 - Profesor coordinador Mg. Lewis De La Cruz
 
-# Contenido (Informacion proporcionada del silabo)
+## Contenido (Informacion proporcionada del silabo)
 
-## Unidad 1: Identificación de la necesidad o problema
+### Unidad 1: Identificación de la necesidad o problema
 
 1. **Introducción al curso e introducción a Git y GitHub**
 2. **Introducción al laboratorio. Presentación de situación problemática.**
@@ -19,7 +19,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 9. **Introducción al diseño determinístico**
 10. **Descripción del problema identificado**
 
-## Unidad 2: Creación de conceptos de solución
+### Unidad 2: Creación de conceptos de solución
 
 1. **Metodología de diseño VDI 2221 y 2225**
 2. **Estado del arte (contexto comercial y científico) y lista de requerimientos.**
@@ -33,7 +33,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 10. **Matriz morfológica y tabla de valoración**
 11. **Hito 1: bocetos y proyecto ganado**
 
-## Unidad 3: Implementación de la solución
+### Unidad 3: Implementación de la solución
 
 1. **Introducción al modelo 3D**
 2. **Modelado 3D**
@@ -48,7 +48,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 11. **Integración de hardware - software y resolución de errores**
 12. **Hito 2: presentación de prototipo y póster**
 
-# Evaluación y Ponderación
+## Evaluación y Ponderación
 
 | Aspectos por Evaluar               | Ponderación |
 |------------------------------------|-------------|
@@ -56,7 +56,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 | Talleres (TA)                      | 40%         |
 | Autoevaluación (AE)                | 20%         |
 
-## Hito 1 (H1) - 30%
+### Hito 1 (H1) - 30%
 
 | Aspectos                          | Ponderación |
 |------------------------------------|-------------|
@@ -64,7 +64,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 | Presentación Oral (PO)             | 50%         |
 | Autoevaluación (AE)                | 20%         |
 
-## Hito 2 (H2) - 40%
+### Hito 2 (H2) - 40%
 
 | Aspectos                          | Ponderación |
 |------------------------------------|-------------|
@@ -73,4 +73,4 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 | Prototipo (PR)                     | 30%         |
 | Autoevaluación (AE)                | 20%         |
 
-## Total - 100%
+### Total - 100%
