@@ -4,7 +4,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 
 - Profesor coordinador Mg. Lewis De La Cruz
 
-# CONTENIDO
+# CONTENIDO (Informacion proporcionada del silabo)
 
 ## Unidad 1: Identificación de la necesidad o problema
 
@@ -47,3 +47,30 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 10. **Elevator pitch**
 11. **Integración de hardware - software y resolución de errores**
 12. **Hito 2: presentación de prototipo y póster**
+
+# Evaluación y Ponderación
+
+| Aspectos por Evaluar               | Ponderación |
+|------------------------------------|-------------|
+| Evaluación Continua (EC) o Informes (IF) | 40%         |
+| Talleres (TA)                      | 40%         |
+| Autoevaluación (AE)                | 20%         |
+
+## Hito 1 (H1) - 30%
+
+| Aspectos                          | Ponderación |
+|------------------------------------|-------------|
+| Ayuda Visual (AV)                  | 30%         |
+| Presentación Oral (PO)             | 50%         |
+| Autoevaluación (AE)                | 20%         |
+
+## Hito 2 (H2) - 40%
+
+| Aspectos                          | Ponderación |
+|------------------------------------|-------------|
+| Póster (PS)                        | 20%         |
+| Presentación Oral (PO)             | 30%         |
+| Prototipo (PR)                     | 30%         |
+| Autoevaluación (AE)                | 20%         |
+
+## Total - 100%
