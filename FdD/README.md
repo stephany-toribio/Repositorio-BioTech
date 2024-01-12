@@ -4,7 +4,7 @@ El curso "Fundamentos de Diseño" tiene como objetivo desarrollar competencias p
 
 - Profesor coordinador Mg. Lewis De La Cruz
 
-# CONTENIDO (Informacion proporcionada del silabo)
+# Contenido (Informacion proporcionada del silabo)
 
 ## Unidad 1: Identificación de la necesidad o problema
 
