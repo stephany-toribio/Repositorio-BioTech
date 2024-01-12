@@ -25,7 +25,3 @@ En esta seccion, abordaremos el Modelado 3D, Protipado y los planos.
 ## Informes
 ---
 Se almacenaran las datas usadas en este proyecto.
-
-## Software
----
-En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su desarrollo.
