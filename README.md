@@ -3,8 +3,8 @@
 Bienvenidos al grupo BIOTECH 😎
 ---
 Somos un equipo conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia que tiene como propósito impulsar soluciones eficaces y eco sostenibles que creen un impacto positivo en nuestro entorno.
-<a href="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/sobre_nosotros.md" target="_blank">Si deseas conocer mas sobre nosotros consulta nuestra página "Sobre Nosotros"</a>
-
+Si deseas conocer mas sobre nosotros consulta nuestra página
+<a href="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/sobre_nosotros.md" target="_blank">"Sobre Nosotros"</a>
 
 - [Problemática](#problemática)
 - [Contexto](#contexto)
