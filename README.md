@@ -31,6 +31,8 @@ En esta seccion, presentamos el codigo fuente y las librerias utilizadas en su d
 
 ## Sobre Nosotros
 ---
+Somos un equipo conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia que tiene como propósito impulsar soluciones innovadoras que creen un impacto positivo en nuestro entorno.
+
 - Stephany Marilyn Toribio Alvarado 
 ![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Informes/sobre_nosotros/stephany_marilyn.jpg)
 
