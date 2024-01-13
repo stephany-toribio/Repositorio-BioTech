@@ -60,6 +60,17 @@ Para el segundo experimento, encendimos el generador de señales y el osciloscop
 - Tasa de muestreo: 6.25 MS/s  --> Se tomaron tantas muestras 
 - Duración del registro: 2000 puntos --> Refiere a la cantidad de puntos registrados en la medida
 
-- **Evidencia**
+**Evidencia**
 
 ![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tasa.jpg)
+
+
+### 3. Valores medidos de la señal de entrada en un periodo
+
+Se pudo apreciar la amplitud de 0 hasta 2.41 que es lo más alto de la frecuencia. Asimismo, la diferencia de voltaje que cambió a 3,48.
+
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tasa.jpg)
+
+Interpretacion 
+
+El registro en el osciloscopio digital sugiere un error significativo. Posibles causas incluyen configuración incorrecta del osciloscopio, discrepancias de impedancia, o conexiones deficientes. 
