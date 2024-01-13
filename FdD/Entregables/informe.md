@@ -62,4 +62,4 @@ Para el segundo experimento, encendimos el generador de señales y el osciloscop
 
 - **Evidencia**
 
-![]()
+![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tasa.jpg)
