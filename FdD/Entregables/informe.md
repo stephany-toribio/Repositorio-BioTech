@@ -17,7 +17,7 @@
 
 ## Procedimientos
 
-### Uso del multímetro y Fuente de alimentación
+### 1. Uso del multímetro y Fuente de alimentación
 
 Error Absoluto = | Valor Real - Valor Medido |
 
@@ -38,4 +38,4 @@ Error Relativo = (Error Absoluto/Valor Real) * 100%
 | Promedio           |    | | 0.0536    |    0.00625     |
 
 ### - Evidencia
-<img src="Repositorio\Imagenes\voltimetro.jpg" width=600px alt="imagen">
+<img src="C:\Users\steph\OneDrive\Documentos\Fundamentos_Diseño\Repositorio\Imagenes\voltimetro.jpg" width=600px alt="imagen">
