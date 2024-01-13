@@ -14,16 +14,16 @@ Si desea conocer más sobre nosotros, le invitamos a explorar nuestro
 
 Este proyecto tiene como obejtivo analizar y promover el desarrollo urbano sostenible, enfocandose en la ODS 11 "Ciudades y Comunidades Sostenibles". Buscamos entender cómo la planificación urbana permite mejorar la calidad de vida contribuir al desarrollo sostenible y promover la inclusion.
 
-**Visión:**
+- **Visión:**
 Integrar ciudades inclusivas y sostenibles, donde se mejore la calidad de vida de todos los habitantes meidante la planificación urbana equitativa .
 
-**Misión:**
+- **Misión:**
 Promover el desarrollo urbano sostenible, garantizando la inclusión y accesibilidad. 
 
-**Objetivo General:**
+- **Objetivo General:**
 Desarrollar un modelo urbano que promueva la sostenibilidad ambiental, inclusion; abracando los objetivos de la ODS 11.
 
-**Estrategias y Acciones a tomar :**
+- **Estrategias y Acciones a tomar :**
 - Medidas en la calidad de aire y gestion de distintos tipos de desecho. 
 - Acceso a sistemas de transporte seguro, asequible - accesible y eco sostenibles.
 - Mejorar la organizacion y gestion de zonas, tomando en cuenta la reduccion del impacto   ambiental negativo de las ciudades. 
