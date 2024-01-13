@@ -19,6 +19,10 @@
 
 ### Uso del multímetro y Fuente de alimentación
 
+Error Absoluto = | Valor Real - Valor Medido |
+
+Error Relativo = (Error Absoluto/Valor Real) * 100%
+
 | N°  | Valor Real | Valor Medido | Error Absoluto | Error Relativo |
 | --- | ---------- | ------------ | -------------- | -------------- |
 | 1   | 5.00 V     |      5.046 V  |        0.046   |     0.0092     |
@@ -32,3 +36,6 @@
 | 9   | 13.00 V    |       13.03 V |       0.03     |       0.0023   |
 | 10  | 14.00 V    |      14.06 V  |       0.06     |       0.0043   |
 | Promedio           |    | | 0.0536    |    0.00625     |
+
+### - Evidencia
+<img src="Repositorio\Imagenes\voltimetro.jpg" width=600px alt="imagen">
