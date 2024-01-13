@@ -37,5 +37,16 @@ Error Relativo = (Error Absoluto/Valor Real) * 100%
 | 10  | 14.00 V    |      14.06 V  |       0.06     |       0.0043   |
 | Promedio           |    | | 0.0536    |    0.00625     |
 
+**Interpretación de los resultados**
+
+Los resultados demuestran una precisión en las mediciones realizadas. Los errores absolutos, con un promedio de 0.0536, indican una mínima discrepancia entre los valores medidos y los valores reales, mientras que el promedio bajo del error relativo (0.00625) sugiere consistencia y baja variabilidad en las mediciones, con una tendencia de disminución a mayores tensiones.
+
+El experimento se llevo acabo ajustando la fuente a 5V y 1A y se tomaron mediciones con diferentes voltajes, generando una tabla y una grafica que refleja patrones en los datos. 
+
+**Grafica**
+
+
+
+
 ### - Evidencia
 <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/voltimetro.jpg" width=300px alt="imagen">
