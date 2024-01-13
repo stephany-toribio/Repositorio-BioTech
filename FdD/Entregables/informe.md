@@ -37,16 +37,19 @@ Error Relativo = (Error Absoluto/Valor Real) * 100%
 | 10  | 14.00 V    |      14.06 V  |       0.06     |       0.0043   |
 | Promedio           |    | | 0.0536    |    0.00625     |
 
-**Interpretación de los resultados**
+### **Interpretación de los resultados**
 
 Los resultados demuestran una precisión en las mediciones realizadas. Los errores absolutos, con un promedio de 0.0536, indican una mínima discrepancia entre los valores medidos y los valores reales, mientras que el promedio bajo del error relativo (0.00625) sugiere consistencia y baja variabilidad en las mediciones, con una tendencia de disminución a mayores tensiones.
 
 El experimento se llevo acabo ajustando la fuente a 5V y 1A y se tomaron mediciones con diferentes voltajes, generando una tabla y una grafica que refleja patrones en los datos. 
 
-**Grafica**
+### **Grafica**
 
+![]()
 
-
-
-### - Evidencia
+### **Evidencia**
 <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/voltimetro.jpg" width=300px alt="imagen">
+
+### 2. Uso del multímetro y Fuente de alimentación
+
+Para el segundo experimento, encendimos el generador de señales y el osciloscopio, luego configuramos el Generador de Señales para emitir una señal sinusoidal de 10 kHz y 2.5V de amplitud; seguido de ello, conectamos un extremo del cable BNC en el canal 1 del generador de señales y el otro extremo en el canal 1 del osciloscopio. A continuación, ajustamos la visualización de la señal sinusoidal utilizando los controles de Posición Vertical, Horizontal y “Trigger”. Finalmente, calculamos y mostramos en el osciloscopio las medidas de amplitud y período de la señal.
