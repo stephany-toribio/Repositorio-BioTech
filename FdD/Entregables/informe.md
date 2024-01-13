@@ -38,4 +38,4 @@ Error Relativo = (Error Absoluto/Valor Real) * 100%
 | Promedio           |    | | 0.0536    |    0.00625     |
 
 ### - Evidencia
-<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/voltimetro.jpg" width=600px alt="imagen">
+<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/voltimetro.jpg" width=300px alt="imagen">
