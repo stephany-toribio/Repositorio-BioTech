@@ -12,10 +12,12 @@
     }
 
     h1 {
-        Color: #fff; 
-        background-color: #333; 
-        padding: 20px; 
-        text-align: center;
+      color: #fff; 
+      background-color: #333; 
+      padding: 20px; 
+      text-align: center;
     }
-</style>
+  </style>
+</head>
+</body>
 </html>
