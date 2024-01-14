@@ -1,0 +1,1 @@
+- [**grafica.jpg**](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/grafica.jpg) 
