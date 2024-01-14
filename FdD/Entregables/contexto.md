@@ -1,2 +1,0 @@
-Conexto Social
-economico 
