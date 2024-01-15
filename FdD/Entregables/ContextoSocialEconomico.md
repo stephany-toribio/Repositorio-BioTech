@@ -131,7 +131,12 @@ Más de 2 000 millones de hectáreas de superficie boscosa cuenta con planes de 
 
 <p align="center"><strong>PROPIEDAD FORESTAL POR REGION</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/iniciativa.jpg" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/propiedad.png" width="500" style="margin: auto;"></p>
+
+
+<p align="center"><strong>FINANCIACION DE LOS PAISES DE AMERICA LATINA Y EL CARIBE</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/propiedad.png" width="500" style="margin: auto;"></p>
 
 ### C. NIVEL NACIONAL
 
