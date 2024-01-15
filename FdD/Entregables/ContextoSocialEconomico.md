@@ -46,7 +46,7 @@ La concentracion boscosa de los paises varia en cuanto al tamaño y condiciones 
 
 En el ultimo decenio, la tasa de disminucion de concentraciones boscosas se redujo considerablemente debido a que desde 1990 la superficie de bosques plantados ha incrementado en 123 millones de hectareas. En esa linea, América del Sur cuenta con la mayor proporción de bosques introducidos. 
 
- <table>
+<table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>CAMBIO NETO ANUAL DEL AREA DE BOSQUE, POR REGION Y SUBREGION, 1990-2020</strong></p>
@@ -65,6 +65,17 @@ Costa Rica, Cuba, Guyana, El Salavador, Jamaica, Haiti, República Dominicana, U
 
 En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 millones de hectareas), siendo la region amazónica representante de la mayor cantidad de ecosistemas del territorio. 
 
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>MAPA NACIONAL DE ECOSISTEMAS 2019</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_ecosistema.png" alt=""></p>
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>LEYENDA</strong></p>
+            <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_ecos.png" alt="">
+        </td>      
+</table> 
 
 3.7 millones de hectáreas se encuentran en la Costa (5.1%) y 0.22 millones de hectáreas en la Sierra (0.31%) (MINAM).
 
