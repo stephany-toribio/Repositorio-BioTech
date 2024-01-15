@@ -28,6 +28,12 @@ Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la defor
 
 ### B. NIVEL REGIONAL 
 
+La superficie boscosa absorve el dioxido de carbono (CO2) permitiendo la mitigacion del cambio climatico y regula la calidad de aire y agua.
+
+<p align="center"><strong>BOSQUE SANO - PERSONA SANA</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/variacion_anual.png" width="500" style="margin: auto;"></p>
+
 La concentracion boscosa de los paises varia en cuanto al tamaño y condiciones ecosistemicas propias. La tasa de perdida de bosques ha disminuido considerablemente desde 1990 como resultado de las medidas tomadas a lo largo de estos años. En cuanto a America del Sur, se estimo una perdida menor a la mitad de la tasa del 2000-2010 en el perido 2010-2020 (2,6 mill. hectareas). 
 
 <p align="center"><strong>VARIACION NETA ANUAL DE LA CONCENTRACION FORESTAL, POR DECENIO Y REGION, 1990-2020 (REPRESENTACION 1)</strong></p>
