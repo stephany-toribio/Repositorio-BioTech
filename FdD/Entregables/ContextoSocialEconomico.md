@@ -141,3 +141,5 @@ Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Lat
 El estado de los bosques del mundo 2020. (n.d.). Food and Agriculture Organization. Retrieved January 15, 2024, from https://www.fao.org/3/ca8642es/online/ca8642es.html#chapter-2_2
 
 Organización para la Cooperación y el Desarrollo Económicos (2022). Declaración del Secretario General de la OCDE sobre Tendencias del financiamiento climático para 2020. OECD iLibrary. https://www.oecd.org/espanol/noticias/tendencias-del-financiamiento-climatico-para-2020.htm
+
+26th International Congress on Project Management and Engineering Terrassa, 5th-8th July 2022 ©2022 by the authors. Licensee AE. (n.d.). AEIPRO Principal. Retrieved January 15, 2024, from http://dspace.aeipro.com/xmlui/bitstream/handle/123456789/3234/AT04-032_22.pdf?sequence=1&isAllowed=y
