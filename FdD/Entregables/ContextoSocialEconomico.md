@@ -89,14 +89,25 @@ El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representand
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>BOSQUE AMAZONICO POR DEPARTAMENTO AL 2019</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla2.png" alt=""></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla2.png" alt="">
         </td>      
 </table> 
 
-El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestacion. 
+<p align="center"><strong>El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestacion.</strong></p>
 
 <p align="center"><strong>PERDIDA ANUAL DE SUPERIFICIE BOSCOSA POR DEFORESTACION</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/deforestacion.png" width="600" style="margin: auto;"></p>
 
 ### D. BIBLIOGRAFIA
+
+
+
+
+## CONTEXTO ECONOMICO
+
+### A. NIVEL MUNDIAL 
+
+### B. NIVEL REGIONAL
+
+### C. NIVEL NACIONAL
