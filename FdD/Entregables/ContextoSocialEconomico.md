@@ -79,4 +79,24 @@ En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 mi
 
 <p align="center"><strong>3.7 millones de hectáreas se encuentran en la Costa (5.1%) y 0.22 millones de hectáreas en la Sierra (0.31%) (MINAM).</strong></p>
 
+El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representando las regiones de Loreto, Ucayali y Madre de Dios el 75% de los superficie boscosa. 
+
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>PRINCIPALES FORMACIONES BOSCOSAS DEL PERU</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla1.png" alt=""></p>
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>BOSQUE AMAZONICO POR DEPARTAMENTO AL 2019</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla2.png" alt=""></p>
+        </td>      
+</table> 
+
+El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestacion. 
+
+<p align="center"><strong>PERDIDA ANUAL DE SUPERIFICIE BOSCOSA POR DEFORESTACION</strong></p>
+
+<p align="center"><img src="" width="600" style="margin: auto;"></p>
+
 ### D. BIBLIOGRAFIA
