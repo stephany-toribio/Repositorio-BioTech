@@ -146,7 +146,7 @@ Segun el (INEI), el aporte de los bosques a la economía detalla que el 0.15% fu
 
 ### Bibliografía
 
-Organizaion de las Nacionas Unidas. (Bosques sanos), personas sanas. (2023, March 29). Naciones Unidas en Perú. Retrieved January 15, 2024, from https://peru.un.org/es/225392-bosques-sanos-personas-sanas
+Organización de las Nacionas Unidas. (2021). Bosques sanos, personas sanas. Naciones Unidas en Perú. Retrieved January 15, 2024, from https://peru.un.org/es/225392-bosques-sanos-personas-sanas
 
 El estado de los bosques del mundo 2020. (n.d.). Food and Agriculture Organization. Retrieved January 15, 2024, from https://www.fao.org/3/ca8642es/online/ca8642es.html#chapter-2_2
 
