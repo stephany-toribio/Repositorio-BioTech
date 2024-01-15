@@ -143,10 +143,13 @@ Banks, W. V., Schaeffer, J., & Rodrigo, O. (n.d.). Wikipedia, the free encyclope
 
 Bosques sanos, personas sanas. (2023, March 29). Naciones Unidas en Perú. Retrieved January 15, 2024, from https://peru.un.org/es/225392-bosques-sanos-personas-sanas
 
-Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Latina y el Caribe 1990-2020: evidencia estadístic. (2021, July 2). repositorio .cepal .org. Retrieved January 15, 2024, from https://repositorio.cepal.org/server/api/core/bitstreams/550dd2bf-8340-4bab-a313-742800b802fe/content
-
 El estado de los bosques del mundo 2020. (n.d.). Food and Agriculture Organization. Retrieved January 15, 2024, from https://www.fao.org/3/ca8642es/online/ca8642es.html#chapter-2_2
 
+Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Latina y el Caribe 1990-2020: evidencia estadístic. (2021, July 2). repositorio .cepal .org. Retrieved January 15, 2024, from https://repositorio.cepal.org/server/api/core/bitstreams/550dd2bf-8340-4bab-a313-742800b802fe/content
+
+
 Organización para la Cooperación y el Desarrollo Económicos (2022). Declaración del Secretario General de la OCDE sobre Tendencias del financiamiento climático para 2020. OECD iLibrary. https://www.oecd.org/espanol/noticias/tendencias-del-financiamiento-climatico-para-2020.htm
+
+Perú perdió más de 200 mil hectáreas de bosque solo en el 2020: la tasa más alta de los últimos 20 años | Derecho, Ambiente y Recursos Naturales. (2021, September 5). Derecho, Ambiente y Recursos Naturales | DAR. Retrieved January 15, 2024, from https://dar.org.pe/peru-perdio-mas-de-200-mil-hectareas-de-bosque-solo-en-el-2020-la-tasa-mas-alta-de-los-ultimos-20-anos/
 
 26th International Congress on Project Management and Engineering Terrassa, 5th-8th July 2022 ©2022 by the authors. Licensee AE. (n.d.). AEIPRO Principal. Retrieved January 15, 2024, from http://dspace.aeipro.com/xmlui/bitstream/handle/123456789/3234/AT04-032_22.pdf?sequence=1&isAllowed=y
