@@ -145,12 +145,11 @@ plantas medicinales, etc.). Asi como tambien, la regulación hídric y promueve 
 
 <p align="center"><strong>CONTRIBUCION DEL BOSQUE AL PBI, 2007 Y 2019</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/fin.jpg" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/pbi.png" width="500" style="margin: auto;"></p>
 
 Segun el (INEI), el aporte de los bosques a la economia detalla que el 0.15% fue destinado a la silvicultura durante el 2019. Mientras que, la contribucion directa del bosque fue de 7.909 millones de soles (1,04%). 
 
 ### Bibliografía
-Banks, W. V., Schaeffer, J., & Rodrigo, O. (n.d.). Wikipedia, the free encyclopedia. Retrieved January 15, 2024, from https://sites.google.com/upch.pe/fund1-g2/proyecto/entregables/e2-entendiendo-la-problem%C3%A1tica-a-trav%C3%A9s-del-contexto-social-y-herramientas/contexto-social?authuser=0
 
 Bosques sanos, personas sanas. (2023, March 29). Naciones Unidas en Perú. Retrieved January 15, 2024, from https://peru.un.org/es/225392-bosques-sanos-personas-sanas
 
@@ -158,9 +157,43 @@ El estado de los bosques del mundo 2020. (n.d.). Food and Agriculture Organizati
 
 Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Latina y el Caribe 1990-2020: evidencia estadístic. (2021, July 2). repositorio .cepal .org. Retrieved January 15, 2024, from https://repositorio.cepal.org/server/api/core/bitstreams/550dd2bf-8340-4bab-a313-742800b802fe/content
 
-
 Organización para la Cooperación y el Desarrollo Económicos (2022). Declaración del Secretario General de la OCDE sobre Tendencias del financiamiento climático para 2020. OECD iLibrary. https://www.oecd.org/espanol/noticias/tendencias-del-financiamiento-climatico-para-2020.htm
 
 Perú perdió más de 200 mil hectáreas de bosque solo en el 2020: la tasa más alta de los últimos 20 años | Derecho, Ambiente y Recursos Naturales. (2021, September 5). Derecho, Ambiente y Recursos Naturales | DAR. Retrieved January 15, 2024, from https://dar.org.pe/peru-perdio-mas-de-200-mil-hectareas-de-bosque-solo-en-el-2020-la-tasa-mas-alta-de-los-ultimos-20-anos/
 
 26th International Congress on Project Management and Engineering Terrassa, 5th-8th July 2022 ©2022 by the authors. Licensee AE. (n.d.). AEIPRO Principal. Retrieved January 15, 2024, from http://dspace.aeipro.com/xmlui/bitstream/handle/123456789/3234/AT04-032_22.pdf?sequence=1&isAllowed=y
+
+FAO (2022) El estado de los bosques del Mundo 2022. En FAO eBooks. https://doi.org/10.4060/cb9360es 
+
+Evaluación de los Recursos Forestales Mundiales 2020. (s. f.). www.fao.org. https://www.fao.org/forest-resources-assessment/2020/es#:~:text=En%20el%20quinquenio%20m%C3%A1s%20reciente,de%20hect%C3%A1reas%20en%202010%2D2015 
+
+FAO. (2018). El estado de los bosques del mundo - Las vías forestales hacia el desarrollo sostenible. Roma. Licencia: CC BY-NC-SA 3.0 IGO https://www.fao.org/3/I9535ES/i9535es.pdf 
+
+FAO. (2022). El estado de los bosques del mundo 2022. Vías forestales hacia la recuperación verde y la creación de economías inclusivas, resilientes y sostenibles. Roma, FAO. https://doi.org/10.4060/cb9360es
+
+FAO. (2021). Evaluación de los recursos forestales mundiales 2020 - Informe principal. Roma. https://doi.org/10.4060/ca9825es
+
+Organización de las Naciones Unidas (2023). Bosques sanos, personas sanas. Perú. https://peru.un.org/es/225392-bosques-sanos-personas-sanas 
+
+Organización para la Cooperación y el Desarrollo Económicos (2022). Declaración del Secretario General de la OCDE sobre Tendencias del financiamiento climático para 2020. OECD iLibrary. https://www.oecd.org/espanol/noticias/tendencias-del-financiamiento-climatico-para-2020.htm
+
+Organización para la Cooperación y el Desarrollo Económicos (2023). Climate Finance and the USD 100 Billion Goal. OECD iLibrary. https://www.oecd.org/climate-change/finance-usd-100-billion-goal/ 
+
+Quiroga R., et al. (2021) La pérdida de los bosques de América Latina y el Caribe 1990–2020: evidencia estadística.CEPAL. https://hdl.handle.net/11362/47151
+
+SERFOR.(2021). Cuenta de Bosques del Perú. Lima, 78 pp. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1811/libro.pdf 
+State of Finance for Nature 2023. (2023). UNEP - UN Environment Programme. https://www.unep.org/resources/state-finance-nature-2023#:~:text=The%20State%20of%20Finance%20for,climate%2C%20biodiversity%20and%20degradation%20challenges 
+
+The State of the World’s Forests 2020. (2020). En FAO and UNEP eBooks. https://doi.org/10.4060/ca8642en 
+
+Vizzuality. (s. f.). Peru deforestation Rates & Statistics | GFW. https://n9.cl/84r1h
+
+Iniciativa 20×20: Restauración de 24.8 millones de hectáreas de bosques con una inversión de $730 millones en América Latina y el Caribe. (s. f.). Ministerio del Ambiente. https://www.minam.gob.pe/notas-de-prensa/iniciativa-20x20-restauracion-de-24-8-millones-de-hectareas-de-bosques-con-una-inversion-de-730-millones-en-america-latina-y-el-caribe/#:~:text=2015%2D12%2D07-,Iniciativa%2020%C3%9720%3A%20Restauraci%C3%B3n%20de%2024.8%20millones%20de%20hect%C3%A1reas,Am%C3%A9rica%20Latina%20y%20el%20Caribe 
+
+Cómo financian sus objetivos climáticos los países de América Latina y el Caribe. (s. f.). UNDP Climate Promise. https://climatepromise.undp.org/es/news-and-stories/como-financian-sus-objetivos-climaticos-los-paises-de-america-latina-y-el-caribe 
+
+Blackman, A. (2020). Latin American and Caribbean forests in the 2020s: Trends, challenges, and opportunities. Washington: IDB monograph, 864.https://repositorio.catie.ac.cr/bitstream/handle/11554/10529/Latin_American_and_Caribbean_Forests_in_the_2020s.pdf?sequence=5&isAllowed=y 
+
+Vizzuality. (s/f). Peru deforestation rates & statistics. Globalforestwatch.org. Recuperado el 15 de enero de 2024, de https://www.globalforestwatch.org/dashboards/country/PER/?category=summary&dashboardPrompts=eyJzaG93UHJvbXB0cyI6dHJ1ZSwicHJvbXB0c1ZpZXdlZCI6WyJzaGFyZVdpZGdldCJdLCJzZXR0aW5ncyI6eyJzaG93UHJvbXB0cyI6dHJ1ZSwicHJvbXB0c1ZpZXdlZCI6W10sInNldHRpbmdzIjp7Im9wZW4iOmZhbHNlLCJzdGVwSW5kZXgiOjAsInN0ZXBzS2V5IjoiIn0sIm9wZW4iOnRydWUsInN0ZXBJbmRleCI6MCwic3RlcHNLZXkiOiJzaGFyZVdpZGdldCJ9LCJvcGVuIjp0cnVlLCJzdGVwc0tleSI6ImRvd25sb2FkRGFzaGJvYXJkU3RhdHMifQ%3D%3D&firesAlerts=eyJpbnRlcmFjdGlvbiI6e319&gladAlerts=eyJpbnRlcmFjdGlvbiI6e319&lang=es_MX&mainMap=eyJzaG93QW5hbHlzaXMiOnRydWUsImhpZGVMZWdlbmQiOmZhbHNlfQ%3D%3D&map=eyJjZW50ZXIiOnsibGF0IjotOC42MDI4NzMwNTcyODE5NTQsImxuZyI6LTc3LjA5NzE5MDI4NzEyNTcxfSwiem9vbSI6NS4wNDU4ODEwNTIzMDA2MDYsImNhbkJvdW5kIjpmYWxzZSwiZGF0YXNldHMiOlt7ImRhdGFzZXQiOiJwb2xpdGljYWwtYm91bmRhcmllcyIsImxheWVycyI6WyJkaXNwdXRlZC1wb2xpdGljYWwtYm91bmRhcmllcyIsInBvbGl0aWNhbC1ib3VuZGFyaWVzIl0sImJvdW5kYXJ5Ijp0cnVlLCJvcGFjaXR5IjoxLCJ2aXNpYmlsaXR5Ijp0cnVlfSx7ImRhdGFzZXQiOiJOZXQtQ2hhbmdlLVNUQUdJTkciLCJsYXllcnMiOlsiZm9yZXN0LW5ldC1jaGFuZ2UiXSwib3BhY2l0eSI6MSwidmlzaWJpbGl0eSI6dHJ1ZSwicGFyYW1zIjp7InZpc2liaWxpdHkiOnRydWUsImFkbV9sZXZlbCI6ImFkbTAifX1dfQ%3D%3D&menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiIiLCJtZW51U2VjdGlvbiI6IiJ9&treeCoverLocated=eyJwYWdlIjowfQ%3D%3D&treeLoss=eyJpbnRlcmFjdGlvbiI6e319&treeLossLocated=eyJwYWdlIjowLCJ1bml0IjoiJSJ9&treeLossPct=eyJoaWdobGlnaHRlZCI6ZmFsc2UsImludGVyYWN0aW9uIjp7fX0%3D&treeLossTsc=eyJpbnRlcmFjdGlvbiI6e319&widget=treeLoss
+
+Prohibida la reproducción de este libro por cualquier medio, total o parcialmente, sin permiso expreso. (s/f). Gob.pe. Recuperado el 15 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1811/libro.pdf
