@@ -63,6 +63,10 @@ Costa Rica, Cuba, Guyana, El Salavador, Jamaica, Haiti, República Dominicana, U
 
 ### C. NIVEL NACIONAL
 
+En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 millones de hectareas), siendo la region amazónica representante de la mayor cantidad de ecosistemas del territorio. 
+
+
+3.7 millones de hectáreas se encuentran en la Costa (5.1%) y 0.22 millones de hectáreas en la Sierra (0.31%) (MINAM).
 
 
 ### D. BIBLIOGRAFIA
