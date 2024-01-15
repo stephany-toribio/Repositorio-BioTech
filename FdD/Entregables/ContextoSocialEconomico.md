@@ -77,6 +77,19 @@ En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 mi
         </td>      
 </table> 
 
+<div class="container">
+  <div class="table-container">
+    <div class="table-cell">
+      <p align="center"><strong>MAPA NACIONAL DE ECOSISTEMAS 2019</strong></p>
+      <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_ecosistema.png" alt=""></p>
+    </div>
+    <div class="table-cell">
+      <p align="center"><strong>LEYENDA</strong></p>
+      <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_ecos.png" alt=""></p>
+    </div>
+  </div>
+</div>
+
 3.7 millones de hectáreas se encuentran en la Costa (5.1%) y 0.22 millones de hectáreas en la Sierra (0.31%) (MINAM).
 
 
