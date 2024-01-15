@@ -34,12 +34,12 @@ La concentracion boscosa de los paises varia en cuanto al tamaño y condiciones 
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/variacion_anual.png" width="500" style="margin: auto;"></p>
 
-<p align="center"><strong>VARIACION NETA ANUAL DE LA CONCENTRACION FORESTAL, POR DECENIO Y REGION, 1990-2020 (REPRESENTACION 2)</strong></p>
-
-En el ultimo decenio, la tasa de disminucion de concentraciones boscosas se redujo considerablemente debido a que desde 1990 la superficie de bosques plantados ha incrementado en 123 millones de hectareas. En esa linea, América del Sur cuenta con la mayor proporción de bosques introducidos. Los paises que presentaron una considerbale perdida durante los ultimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: (Chile,
-Costa Rica, Cuba, Guyana, El Salavador, Jamaica, Haiti, República Dominicana, Uruguay, San Vicente y Granadinas). 
+<p align="center"><strong>VARIACION NETA ANUAL DE LA CONCENTRACION FORESTAL, POR DECENIO Y REGION, 1990-2020 (REPRESENTACION 2)</strong></p> 
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/regional.png" width="500" style="margin: auto;"></p>
+
+En el ultimo decenio, la tasa de disminucion de concentraciones boscosas se redujo considerablemente debido a que desde 1990 la superficie de bosques plantados ha incrementado en 123 millones de hectareas. En esa linea, América del Sur cuenta con la mayor proporción de bosques introducidos. Los paises que presentaron una considerbale perdida durante los ultimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: (Chile,
+Costa Rica, Cuba, Guyana, El Salavador, Jamaica, Haiti, República Dominicana, Uruguay, San Vicente y Granadinas).
 
  <table>
     <tr>
