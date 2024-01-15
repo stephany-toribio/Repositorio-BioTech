@@ -95,7 +95,6 @@ El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representand
 
 <p align="center"><strong>El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestacion.</strong></p>
 
-### D. BIBLIOGRAFIA
 
 
 
@@ -121,6 +120,20 @@ Según un informe de la Organización para la Cooperación y el Desarrollo Econ�
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL
+A nivel regional se manifiesta como un aumento constante de la superficie deforestada, una disminución de la productividad de la superficie total deforestada, la preservación de la producción de determinados cultivos a expensas del uso regular de nuevas tierras. y un aumento. en la producción regional sólo mediante la expansión continua de nuevos territorios colonizados. La implementación de módulos de producción basados ​​en zonas de potencial homogéneo, utilizando tecnologías adaptadas a la vulnerabilidad de los recursos naturales de la Amazonía y herramientas de apoyo adecuadas, tiene como objetivo detener o reducir significativamente el ritmo de desmonte de propiedades en las instalaciones de producción atendidas y lograr un objetivo importante. . Mejoras en el rendimiento y la productividad a nivel de finca.
+El programa intervendrá directamente en 183.000 hectáreas de terreno, equivalentes a 4.800 unidades de producción. Para mantener una operación sustentable y al mismo tiempo lograr rentabilidad en estas unidades estructurales, será necesario ajustar significativamente la composición interna de la finca, con mayor énfasis en cultivos perennes, con excepción del café, que se reducirá. debido al mercado. condiciones y precios internacionales. Según estas recomendaciones, durante los doce años de intervención, los bosques familiares permanecerían prácticamente sin cambios, disminuyendo sólo un 2 por ciento, y los ingresos agrícolas familiares aumentarían entre 1.200 y 3.650 dólares por año, o un 46 y un 310 por ciento, respectivamente. A nivel regional, el programa atenderá directamente a aprox. 12% unidades de producción de colonos y 25% indígenas en los primeros seis años, con un importante efecto multiplicador regional esperado a través de proyectos de asistencia técnica y capacitación productiva, así como capacitación comunitaria y planificación organizacional. 
+
+
+### C. NIVEL NACIONAL
+
+Antes de 2020, el nivel más alto de deforestación se registró en 2014 con 177.566 hectáreas. La deforestación muestra una ligera disminución desde 2016, y las pérdidas forestales alcanzaron 148.426 hectáreas en 2019. A mediados de 2020, el Ministerio de Medio Ambiente (Minam) informó que la deforestación en la Amazonía había disminuido más de un 28% respecto al año anterior, debido a las medidas de distanciamiento social como medida preventiva contra el COVID-19.
+Según el plan forestal, desde el 15 de marzo de 2020 (fecha de inicio de la emergencia nacional) hasta el 15 de mayo del mismo año, la superficie total de deforestación identificada fue de 7.119 hectáreas, una disminución del 28,7% respecto al mismo período. , según el informe Alerta Temprana de Forestación (ATD), 2019 (9981 hectáreas). Desde entonces, la deforestación en 2020 pareció seguir la misma tendencia a la baja observada en los últimos años, pero la pérdida de bosques alcanzó las 203.272 hectáreas, la mayor cantidad de deforestación en 2020, según Minam Geoforests. En los últimos 20 años, respecto a 2019, ha habido un aumento de 54.846 hectáreas.
+
+Estimaciones de la Oficina Nacional de Estadísticas y
+Tecnologías de la Información (INEI) sobre el aporte de los bosques al Producto Interno Bruto (PIB) se documenta a continuación
+La contribución de la silvicultura al PIB en 2019 fue del 0,15%
+En el mismo año, la inversión forestal (incluidas las acciones directas)
+relacionados) fue de 7.909 millones de soles, correspondiente al 1,04% del PBI.
 
 Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landscapes Forum de Paris con la finalidad de anunciar nuevos compromisos para la mitagacion del cambio climatico en America Latina y El Caribe. Se comprometieron por un valor de US$730millones a la restauracion de 24.8 milllones de hectareas dañadas para el 2020. Hasta el 2015, la iniciativa contaba con 6.18 millones de hectareas para la restauracion de Niacaragua, Argentina, Costa Rica, Honduras, Chile, Estado de Espirito Santo (Brasil), American Bird Conservancy (programa regional), Estado de São Paulo (Brasil).
 
@@ -129,4 +142,19 @@ Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landsca
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
 
 
-### C. NIVEL NACIONAL
+
+### Bibliografía
+Banks, W. V., Schaeffer, J., & Rodrigo, O. (n.d.). Wikipedia, the free encyclopedia. Retrieved January 15, 2024, from https://sites.google.com/upch.pe/fund1-g2/proyecto/entregables/e2-entendiendo-la-problem%C3%A1tica-a-trav%C3%A9s-del-contexto-social-y-herramientas/contexto-social?authuser=0
+
+Bosques sanos, personas sanas. (2023, March 29). Naciones Unidas en Perú. Retrieved January 15, 2024, from https://peru.un.org/es/225392-bosques-sanos-personas-sanas
+
+El estado de los bosques del mundo 2020. (n.d.). Food and Agriculture Organization. Retrieved January 15, 2024, from https://www.fao.org/3/ca8642es/online/ca8642es.html#chapter-2_2
+
+Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Latina y el Caribe 1990-2020: evidencia estadístic. (2021, July 2). repositorio .cepal .org. Retrieved January 15, 2024, from https://repositorio.cepal.org/server/api/core/bitstreams/550dd2bf-8340-4bab-a313-742800b802fe/content
+
+
+Organización para la Cooperación y el Desarrollo Económicos (2022). Declaración del Secretario General de la OCDE sobre Tendencias del financiamiento climático para 2020. OECD iLibrary. https://www.oecd.org/espanol/noticias/tendencias-del-financiamiento-climatico-para-2020.htm
+
+Perú perdió más de 200 mil hectáreas de bosque solo en el 2020: la tasa más alta de los últimos 20 años | Derecho, Ambiente y Recursos Naturales. (2021, September 5). Derecho, Ambiente y Recursos Naturales | DAR. Retrieved January 15, 2024, from https://dar.org.pe/peru-perdio-mas-de-200-mil-hectareas-de-bosque-solo-en-el-2020-la-tasa-mas-alta-de-los-ultimos-20-anos/
+
+26th International Congress on Project Management and Engineering Terrassa, 5th-8th July 2022 ©2022 by the authors. Licensee AE. (n.d.). AEIPRO Principal. Retrieved January 15, 2024, from http://dspace.aeipro.com/xmlui/bitstream/handle/123456789/3234/AT04-032_22.pdf?sequence=1&isAllowed=y
