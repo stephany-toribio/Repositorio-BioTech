@@ -125,11 +125,13 @@ Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landsca
 
 <p align="center"><strong>INICIATIVA 20X20, PARIS 2015</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/iniciativa.jpg" width="500" style="margin: auto;"></p>
 
-A nivel regional se manifiesta como un aumento constante de la superficie deforestada, una disminución de la productividad de la superficie total deforestada, la preservación de la producción de determinados cultivos a expensas del uso regular de nuevas tierras. y un aumento. en la producción regional sólo mediante la expansión continua de nuevos territorios colonizados. La implementación de módulos de producción basados ​​en zonas de potencial homogéneo, utilizando tecnologías adaptadas a la vulnerabilidad de los recursos naturales de la Amazonía y herramientas de apoyo adecuadas, tiene como objetivo detener o reducir significativamente el ritmo de desmonte de propiedades en las instalaciones de producción atendidas y lograr un objetivo importante. . Mejoras en el rendimiento y la productividad a nivel de finca.
-El programa intervendrá directamente en 183.000 hectáreas de terreno, equivalentes a 4.800 unidades de producción. Para mantener una operación sustentable y al mismo tiempo lograr rentabilidad en estas unidades estructurales, será necesario ajustar significativamente la composición interna de la finca, con mayor énfasis en cultivos perennes, con excepción del café, que se reducirá. debido al mercado. condiciones y precios internacionales. Según estas recomendaciones, durante los doce años de intervención, los bosques familiares permanecerían prácticamente sin cambios, disminuyendo sólo un 2 por ciento, y los ingresos agrícolas familiares aumentarían entre 1.200 y 3.650 dólares por año, o un 46 y un 310 por ciento, respectivamente. A nivel regional, el programa atenderá directamente a aprox. 12% unidades de producción de colonos y 25% indígenas en los primeros seis años, con un importante efecto multiplicador regional esperado a través de proyectos de asistencia técnica y capacitación productiva, así como capacitación comunitaria y planificación organizacional. 
+Más de 2 000 millones de hectáreas de superficie boscosa cuenta con planes de gestión. En tal sentido, America del Sur tiene menos del 20% de los planes a comparacion de Europa que cuenta con planes en la mayoria de sus bosques. 
 
+<p align="center"><strong>PROPIEDAD FORESTAL POR REGION</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/iniciativa.jpg" width="500" style="margin: auto;"></p>
 
 ### C. NIVEL NACIONAL
 
