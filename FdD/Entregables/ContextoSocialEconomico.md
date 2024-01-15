@@ -4,7 +4,8 @@
 
 Desde tiempos remotos, el ser humano ha adquirido alimentos y medicina por medio de la siembra y cosecha. Se estima que la alimentacion de alrededor de 1000 millones de personas en todo el mundo proviene principalmente de forma silvestre. La diversidad biologica forestal desempeña un papel fundamental actuando como un  indicador de calidad de vida al proporcionar una mejora en la calidad del agua y aire por medio del ciclo de carbono. 
 
-<span>DISTRIBUCIÓN MUNDIAL DE LOS BOSQUES, POR ZONA CLIMÁTICA, 2020</span>
+<p align="center"><strong>DISTRIBUCIÓN MUNDIAL DE LOS BOSQUES, POR ZONA CLIMÁTICA, 2020</strong></p>
+
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL 
