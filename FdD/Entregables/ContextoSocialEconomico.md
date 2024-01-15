@@ -14,11 +14,11 @@ A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectár
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="400" style="margin: auto;"></p>
 
-Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. 
+Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentracion boscosa se distribuye entre el resto del mundo. 
 
 <p align="center"><strong>REPRESENTACION DE LA DISTRIBUCION DE LOS CINCO PAISES Y EL RSTO DEL MUNDO EN CUANTO A CONCENTRACION BOSCOSA</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="400" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="400" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL 
 
