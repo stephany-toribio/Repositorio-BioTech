@@ -20,6 +20,8 @@ Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federaci
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="600" style="margin: auto;"></p>
 
+Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestacion en todo el mundo, lo cual represento una merma de 420 millones de hectareas. 
+
 ### B. NIVEL REGIONAL 
 
 ### C. NIVEL NACIONAL
