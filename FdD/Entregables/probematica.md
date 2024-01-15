@@ -2,7 +2,7 @@
 
 ## 1. CAMPO DE INVESTIGACIÓN
 ### **Departamento:** Lima
-### **Distrito:**Villa María del Triunfo
+### **Distrito:** Villa María del Triunfo
 
 
 ## 2. DESCRIPCIÓN DEL PROBLEMA
