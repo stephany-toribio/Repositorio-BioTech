@@ -112,12 +112,16 @@ La inversion en proyectos forestales en este contexto alcanzo $12.1 mil millones
 
 Según un informe de la Organización para la Cooperación y el Desarrollo Económico (OCDE) 2018, la inversion pública total para la adaptacion del cambio climático relacionada con las superficies boscosas fue de US $2.8 mil millones. Sin embargo, los paises en desarollo solo reciben el 6% de la financiamiento global. Por otro lado, el financiamiento privado aumento cerca al 30% durante el periodo 2016-2020. A pesa de ello, el financiamiento privado es considerablemente bajo en comparacion con el publico. 
 
-<p align="center"><strong>FINANCIAMIENTO PARA PAISES EN DESARROLLO</strong></p>
+<p align="center"><strong>FINANCIAMIENTO PUBLICO PARA PAISES EN DESARROLLO</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/financiamiento.png" width="500" style="margin: auto;"></p>
+
+<p align="center"><strong>FINANCIAMIENTO PRIVADO, 2023</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/financiamiento.png" width="500" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL
 
-esto aún está lejos de los US $26-33 mil millones necesarios cada año para lograr una gestión forestal sostenible y cumplir con los Objetivos de Desarrollo Sostenible (ODS) relacionados con los bosques.
+
 
 ### C. NIVEL NACIONAL
