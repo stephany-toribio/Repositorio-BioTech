@@ -95,8 +95,7 @@ El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representand
 
 <p align="center"><strong>El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestacion.</strong></p>
 
-### D. BIBLIOGRAFIA
-Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Latina y el Caribe 1990-2020: evidencia estadístic. (2021, July 2). repositorio .cepal .org. Retrieved January 15, 2024, from https://repositorio.cepal.org/server/api/core/bitstreams/550dd2bf-8340-4bab-a313-742800b802fe/content
+
 
 
 
