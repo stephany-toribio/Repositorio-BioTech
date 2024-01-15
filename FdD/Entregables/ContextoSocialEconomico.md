@@ -132,3 +132,12 @@ El programa intervendrá directamente en 183.000 hectáreas de terreno, equivale
 
 
 ### Bibliografía
+Banks, W. V., Schaeffer, J., & Rodrigo, O. (n.d.). Wikipedia, the free encyclopedia. Retrieved January 15, 2024, from https://sites.google.com/upch.pe/fund1-g2/proyecto/entregables/e2-entendiendo-la-problem%C3%A1tica-a-trav%C3%A9s-del-contexto-social-y-herramientas/contexto-social?authuser=0
+
+Bosques sanos, personas sanas. (2023, March 29). Naciones Unidas en Perú. Retrieved January 15, 2024, from https://peru.un.org/es/225392-bosques-sanos-personas-sanas
+
+Temas Estadísticos de la CEPAL No 2. La pérdida de los bosques de América Latina y el Caribe 1990-2020: evidencia estadístic. (2021, July 2). repositorio .cepal .org. Retrieved January 15, 2024, from https://repositorio.cepal.org/server/api/core/bitstreams/550dd2bf-8340-4bab-a313-742800b802fe/content
+
+El estado de los bosques del mundo 2020. (n.d.). Food and Agriculture Organization. Retrieved January 15, 2024, from https://www.fao.org/3/ca8642es/online/ca8642es.html#chapter-2_2
+
+Organización para la Cooperación y el Desarrollo Económicos (2022). Declaración del Secretario General de la OCDE sobre Tendencias del financiamiento climático para 2020. OECD iLibrary. https://www.oecd.org/espanol/noticias/tendencias-del-financiamiento-climatico-para-2020.htm
