@@ -120,6 +120,13 @@ Según un informe de la Organización para la Cooperación y el Desarrollo Econ�
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL
+
+Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landscapes Forum de Paris con la finalidad de anunciar nuevos compromisos para la mitagacion del cambio climatico en America Latina y El Caribe. Se comprometieron por un valor de US$730millones a la restauracion de 24.8 milllones de hectareas dañadas para el 2020. Hasta el 2015, la iniciativa contaba con 6.18 millones de hectareas para la restauracion de Niacaragua, Argentina, Costa Rica, Honduras, Chile, Estado de Espirito Santo (Brasil), American Bird Conservancy (programa regional), Estado de São Paulo (Brasil).
+
+<p align="center"><strong>INICIATIVA 20X20, PARIS 2015</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
+
 A nivel regional se manifiesta como un aumento constante de la superficie deforestada, una disminución de la productividad de la superficie total deforestada, la preservación de la producción de determinados cultivos a expensas del uso regular de nuevas tierras. y un aumento. en la producción regional sólo mediante la expansión continua de nuevos territorios colonizados. La implementación de módulos de producción basados ​​en zonas de potencial homogéneo, utilizando tecnologías adaptadas a la vulnerabilidad de los recursos naturales de la Amazonía y herramientas de apoyo adecuadas, tiene como objetivo detener o reducir significativamente el ritmo de desmonte de propiedades en las instalaciones de producción atendidas y lograr un objetivo importante. . Mejoras en el rendimiento y la productividad a nivel de finca.
 El programa intervendrá directamente en 183.000 hectáreas de terreno, equivalentes a 4.800 unidades de producción. Para mantener una operación sustentable y al mismo tiempo lograr rentabilidad en estas unidades estructurales, será necesario ajustar significativamente la composición interna de la finca, con mayor énfasis en cultivos perennes, con excepción del café, que se reducirá. debido al mercado. condiciones y precios internacionales. Según estas recomendaciones, durante los doce años de intervención, los bosques familiares permanecerían prácticamente sin cambios, disminuyendo sólo un 2 por ciento, y los ingresos agrícolas familiares aumentarían entre 1.200 y 3.650 dólares por año, o un 46 y un 310 por ciento, respectivamente. A nivel regional, el programa atenderá directamente a aprox. 12% unidades de producción de colonos y 25% indígenas en los primeros seis años, con un importante efecto multiplicador regional esperado a través de proyectos de asistencia técnica y capacitación productiva, así como capacitación comunitaria y planificación organizacional. 
 
@@ -134,14 +141,6 @@ Tecnologías de la Información (INEI) sobre el aporte de los bosques al Product
 La contribución de la silvicultura al PIB en 2019 fue del 0,15%
 En el mismo año, la inversión forestal (incluidas las acciones directas)
 relacionados) fue de 7.909 millones de soles, correspondiente al 1,04% del PBI.
-
-Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landscapes Forum de Paris con la finalidad de anunciar nuevos compromisos para la mitagacion del cambio climatico en America Latina y El Caribe. Se comprometieron por un valor de US$730millones a la restauracion de 24.8 milllones de hectareas dañadas para el 2020. Hasta el 2015, la iniciativa contaba con 6.18 millones de hectareas para la restauracion de Niacaragua, Argentina, Costa Rica, Honduras, Chile, Estado de Espirito Santo (Brasil), American Bird Conservancy (programa regional), Estado de São Paulo (Brasil).
-
-<p align="center"><strong>INICIATIVA 20X20, PARIS 2015</strong></p>
-
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
-
-
 
 ### Bibliografía
 Banks, W. V., Schaeffer, J., & Rodrigo, O. (n.d.). Wikipedia, the free encyclopedia. Retrieved January 15, 2024, from https://sites.google.com/upch.pe/fund1-g2/proyecto/entregables/e2-entendiendo-la-problem%C3%A1tica-a-trav%C3%A9s-del-contexto-social-y-herramientas/contexto-social?authuser=0
