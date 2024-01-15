@@ -32,19 +32,19 @@ La investigación sobre esta problemática es esencial para comprender las causa
 
 <p align="center"><strong>MAPA EMPATIA</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_empat%C3%ADa.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_empat%C3%ADa.png" width="900" style="margin: auto;"></p>
 
 ### b. Mapa de viaje del cliente (Customer journey map)
 
 <p align="center"><strong>CUSTOMER JOURNEY MAP</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_empat%C3%ADa.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_viaje.jpg" width="900" style="margin: auto;"></p>
 
 ### c. Diagrama causa - efecto (Ishikawa diagram)
 
 <p align="center"><strong>DIAGRAMA DE ISHIKAWA</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/causa_efecto.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_viaje.jpg" width="900" style="margin: auto;"></p>
 
 ## BIBLIOGRAFIA
 
