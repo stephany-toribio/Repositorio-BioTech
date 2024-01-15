@@ -122,6 +122,11 @@ Según un informe de la Organización para la Cooperación y el Desarrollo Econ�
 
 ### B. NIVEL REGIONAL
 
+Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landscapes Forum de Paris con la finalidad de anunciar nuevos compromisos para la mitagacion del cambio climatico en America Latina y El Caribe. Se comprometieron por un valor de US$730millones a la restauracion de 24.8 milllones de hectareas dañadas para el 2020. Hasta el 2015, la iniciativa contaba con 6.18 millones de hectareas para la restauracion de Niacaragua, Argentina, Costa Rica, Honduras, Chile, Estado de Espirito Santo (Brasil), American Bird Conservancy (programa regional), Estado de São Paulo (Brasil).
+
+<p align="center"><strong>INICIATIVA 20X20, PARIS 2015</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
 
 
 ### C. NIVEL NACIONAL
