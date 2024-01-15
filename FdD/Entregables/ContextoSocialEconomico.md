@@ -38,9 +38,15 @@ La concentracion boscosa de los paises varia en cuanto al tamaño y condiciones 
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/regional.png" width="500" style="margin: auto;"></p>
 
-<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro1.png" style="display: inline-block;">
-
-<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro2.png" style="display: inline-block;">
+ <table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro1.png" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro2.png" alt="">
+        </td>      
+</table>  
 
 ### C. NIVEL NACIONAL
 
