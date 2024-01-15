@@ -136,18 +136,18 @@ Más de 2 000 millones de hectáreas de superficie boscosa cuenta con planes de 
 
 <p align="center"><strong>FINANCIACION DE LOS PAISES DE AMERICA LATINA Y EL CARIBE</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/propiedad.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/fin.jpg" width="500" style="margin: auto;"></p>
 
 ### C. NIVEL NACIONAL
 
-Antes de 2020, el nivel más alto de deforestación se registró en 2014 con 177.566 hectáreas. La deforestación muestra una ligera disminución desde 2016, y las pérdidas forestales alcanzaron 148.426 hectáreas en 2019. A mediados de 2020, el Ministerio de Medio Ambiente (Minam) informó que la deforestación en la Amazonía había disminuido más de un 28% respecto al año anterior, debido a las medidas de distanciamiento social como medida preventiva contra el COVID-19.
-Según el plan forestal, desde el 15 de marzo de 2020 (fecha de inicio de la emergencia nacional) hasta el 15 de mayo del mismo año, la superficie total de deforestación identificada fue de 7.119 hectáreas, una disminución del 28,7% respecto al mismo período. , según el informe Alerta Temprana de Forestación (ATD), 2019 (9981 hectáreas). Desde entonces, la deforestación en 2020 pareció seguir la misma tendencia a la baja observada en los últimos años, pero la pérdida de bosques alcanzó las 203.272 hectáreas, la mayor cantidad de deforestación en 2020, según Minam Geoforests. En los últimos 20 años, respecto a 2019, ha habido un aumento de 54.846 hectáreas.
+Los bosques proveen servicios ecosistémicos para el desarrollo de la economía nacional (la extracción de madera o leña, productos del bosque no maderables,
+plantas medicinales, etc.). Asi como tambien, la regulación hídric y promueve el ciclo de nitrógeno (MINAM 2015).
 
-Estimaciones de la Oficina Nacional de Estadísticas y
-Tecnologías de la Información (INEI) sobre el aporte de los bosques al Producto Interno Bruto (PIB) se documenta a continuación
-La contribución de la silvicultura al PIB en 2019 fue del 0,15%
-En el mismo año, la inversión forestal (incluidas las acciones directas)
-relacionados) fue de 7.909 millones de soles, correspondiente al 1,04% del PBI.
+<p align="center"><strong>CONTRIBUCION DEL BOSQUE AL PBI, 2007 Y 2019</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/fin.jpg" width="500" style="margin: auto;"></p>
+
+Segun el (INEI), el aporte de los bosques a la economia detalla que el 0.15% fue destinado a la silvicultura durante el 2019. Mientras que, la contribucion directa del bosque fue de 7.909 millones de soles (1,04%). 
 
 ### Bibliografía
 Banks, W. V., Schaeffer, J., & Rodrigo, O. (n.d.). Wikipedia, the free encyclopedia. Retrieved January 15, 2024, from https://sites.google.com/upch.pe/fund1-g2/proyecto/entregables/e2-entendiendo-la-problem%C3%A1tica-a-trav%C3%A9s-del-contexto-social-y-herramientas/contexto-social?authuser=0
