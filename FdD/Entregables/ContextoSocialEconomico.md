@@ -85,7 +85,7 @@ El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representand
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>PRINCIPALES FORMACIONES BOSCOSAS DEL PERU</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla1.png" alt=""></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla1.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>BOSQUE AMAZONICO POR DEPARTAMENTO AL 2019</strong></p>
