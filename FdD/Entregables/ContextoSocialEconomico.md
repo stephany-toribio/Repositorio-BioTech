@@ -118,7 +118,7 @@ Según un informe de la Organización para la Cooperación y el Desarrollo Econ�
 
 <p align="center"><strong>FINANCIAMIENTO PRIVADO, 2023</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/financiamiento.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_privada.png" width="500" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL
 
