@@ -12,7 +12,7 @@ A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectár
 
 <p align="center"><strong>REPRESENTACION ENTRE UNA PERSONA Y LA DIVERSIDAD BIOLÓGICA</strong></p>
 
-<p align="center"><img src="https://www.fao.org/fileadmin/templates/FRA/FRA2020/src/images/hectare.svg" width="400" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="400" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL 
 
