@@ -41,12 +41,12 @@ La concentracion boscosa de los paises varia en cuanto al tamaño y condiciones 
  <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>CAMBIO NETO ANUAL DEL AREA DE BOSQUE, POR REGION Y SUBREGION, 1990-2020</strong></p>
             <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro1.png" alt="">
-            <p align="center"><strong>CAMBIO NETO ANUAL DEL AREA DE BOSQUE, POR REGION Y SUBREGION, 1990-2020</strong></p>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>LOS 10 PAISES CON MAYOR AREA DE BOSQUE 2020</strong></p>
-            <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro2.png" alt="LOS 10 PAISES CON MAYOR AREA DE BOSQUE 2020">
+            <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro2.png" alt="">
         </td>      
 </table>  
 
