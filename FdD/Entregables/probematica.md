@@ -1,8 +1,8 @@
 # La falta de áreas verdes y el incremento de gases de efecto invernadero (GEI) en Villa María del Triunfo
 
 ## 1. CAMPO DE INVESTIGACIÓN
-   **Departamento:** Lima
-   **Distrito:** Villa María del Triunfo
+**Departamento:** Lima
+**Distrito:** Villa María del Triunfo
 
 
 ## 2. DESCRIPCIÓN DEL PROBLEMA
@@ -17,7 +17,7 @@ A pesar de pertenecer al área metropolitana de Lima, Villa María del Triunfo e
 
 
 ## 3. FORMULACIÓN DEL PROBLEMA
-   **Problema general:**
+**Problema general:**
 -
 
 
