@@ -8,58 +8,57 @@ Desde tiempos remotos, el ser humano ha adquirido alimentos y medicina por medio
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
 
-A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectáreas de bosque por persona, sin embargo esta distribucion no se presenta de manera uniforme. 
+A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectáreas de bosque por persona, sin embargo esta distribución no se presenta de manera uniforme. 
 
-<p align="center"><strong>REPRESENTACION ENTRE UNA PERSONA Y LA DIVERSIDAD BIOLÓGICA</strong></p>
+<p align="center"><strong>REPRESENTACIÓN ENTRE UNA PERSONA Y LA DIVERSIDAD BIOLÓGICA</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="400" style="margin: auto;"></p>
 
-Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentracion boscosa se distribuye entre el resto del mundo. 
+Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentración boscosa se distribuye entre el resto del mundo. 
 
-<p align="center"><strong>REPRESENTACION DE LA DISTRIBUCION DE LOS CINCO PAISES Y EL RSTO DEL MUNDO EN CUANTO A CONCENTRACION BOSCOSA</strong></p>
+<p align="center"><strong>REPRESENTACIÓN DE LA DISTRIBUCIÓN DE LOS CINCO PAISES Y EL RESTO DEL MUNDO EN CUANTO A CONCENTRACIÓN BOSCOSA</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="600" style="margin: auto;"></p>
 
-Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestacion en todo el mundo, lo cual represento una merma de 420 millones de hectareas. 
+Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestación en todo el mundo, lo cual represento una merma de 420 millones de hectáreas. 
 
-<p align="center"><strong>CONCENTRACION MUNDIAL CON CUBIERTA DE ÁRBOLES, 1990-2020</strong></p>
+<p align="center"><strong>CONCENTRACIÓN MUNDIAL CON CUBIERTA DE ÁRBOLES, 1990-2020</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_a%C3%B1os.jpg" width="500" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL 
 
-La superficie boscosa absorve el dioxido de carbono (CO2) permitiendo la mitigacion del cambio climatico y regula la calidad de aire y agua.
+La superficie boscosa absorve el dióxido de carbono (CO2) permitiendo la mitigación del cambio climático y regula la calidad de aire y agua.
 
 <p align="center"><strong>BOSQUE SANO - PERSONA SANA</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_sano.jpg" width="720" style="margin: auto;"></p>
 
-La concentracion boscosa de los paises varia en cuanto al tamaño y condiciones ecosistemicas propias. La tasa de perdida de bosques ha disminuido considerablemente desde 1990 como resultado de las medidas tomadas a lo largo de estos años. En cuanto a America del Sur, se estimo una perdida menor a la mitad de la tasa del 2000-2010 en el perido 2010-2020 (2,6 mill. hectareas). 
+La concentración boscosa de los países varia en cuanto al tamaño y condiciones ecosistémicas propias. La tasa de pérdida de bosques ha disminuido considerablemente desde 1990 como resultado de las medidas tomadas a lo largo de estos años. En cuanto a América del Sur, se estimo una pérdida menor a la mitad de la tasa del 2000-2010 en el periodo 2010-2020 (2,6 mill. hectareas). 
 
-<p align="center"><strong>VARIACION NETA ANUAL DE LA CONCENTRACION FORESTAL, POR DECENIO Y REGION, 1990-2020 (REPRESENTACION 1)</strong></p>
+<p align="center"><strong>VARIACION NETA ANUAL DE LA CONCENTRACIÓN FORESTAL, POR DECENIO Y REGIÓN, 1990-2020 (REPRESENTACIÓN 1)</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/variacion_anual.png" width="500" style="margin: auto;"></p>
 
-<p align="center"><strong>VARIACION NETA ANUAL DE LA CONCENTRACION FORESTAL, POR DECENIO Y REGION, 1990-2020 (REPRESENTACION 2)</strong></p> 
+<p align="center"><strong>VARIACIÓN NETA ANUAL DE LA CONCENTRACIÓN FORESTAL, POR DECENIO Y REGION, 1990-2020 (REPRESENTACIÓN 2)</strong></p> 
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/regional.png" width="500" style="margin: auto;"></p>
 
-En el ultimo decenio, la tasa de disminucion de concentraciones boscosas se redujo considerablemente debido a que desde 1990 la superficie de bosques plantados ha incrementado en 123 millones de hectareas. En esa linea, América del Sur cuenta con la mayor proporción de bosques introducidos. 
+En el último decenio, la tasa de disminución de concentraciones boscosas se redujo considerablemente debido a que desde 1990 la superficie de bosques plantados ha incrementado en 123 millones de hectareas. En esa línea, América del Sur cuenta con la mayor proporción de bosques introducidos. 
 
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>CAMBIO NETO ANUAL DEL AREA DE BOSQUE, POR REGION Y SUBREGION, 1990-2020</strong></p>
+        <p align="center"><strong>CAMBIO NETO ANUAL DEL ÁREA DE BOSQUE, POR REGIÓN Y SUBREGIÓN, 1990-2020</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro1.png" alt=""></p>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>LOS 10 PAISES CON MAYOR AREA DE BOSQUE 2020</strong></p>
+        <p align="center"><strong>LOS 10 PAÍSES CON MAYOR ÁREA DE BOSQUE 2020</strong></p>
             <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cuadro2.png" alt="">
         </td>      
 </table>  
 
-Los paises que presentaron una considerbale perdida durante los ultimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: (Chile,
-Costa Rica, Cuba, Guyana, El Salavador, Jamaica, Haiti, República Dominicana, Uruguay, San Vicente y Granadinas).
+Los países que presentaron una considerbale perdida durante los ultimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: (Chile, Costa Rica, Cuba, Guyana, El Salavador, Jamaica, Haiti, República Dominicana, Uruguay, San Vicente y Granadinas).
 
 ### C. NIVEL NACIONAL
 
@@ -84,34 +83,30 @@ El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representand
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>PERDIDA ANUAL DE SUPERIFICIE BOSCOSA POR DEFORESTACION</strong></p>
+        <p align="center"><strong>PERDIDA ANUAL DE SUPERIFICIE BOSCOSA POR DEFORESTACIÓN</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/deforestacion.png" width="600" style="margin: auto;"></p>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>BOSQUE AMAZONICO POR DEPARTAMENTO AL 2019</strong></p>
+        <p align="center"><strong>BOSQUE AMAZÓNICO POR DEPARTAMENTO AL 2019</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla2.png" alt="">
         </td>      
 </table> 
 
-<p align="center"><strong>El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestacion.</strong></p>
-
-
-
-
+<p align="center"><strong>El 19% de la pérdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestación.</strong></p>
 
 ## CONTEXTO ECONOMICO
 
 ### A. NIVEL MUNDIAL 
 
-La inversion en proyectos forestales en este contexto alcanzo $12.1 mil millones en 2020 (UNEP). Sin embargo, el informe "Estado de los Bosques del Mundo 2022" (FAO) menciona que los servicios proporcionados de la superficie boscosa representa 84,4 billones de dolares en 2020 para la economia mundial. 
+La inversión en proyectos forestales en este contexto alcanzo $12.1 mil millones en 2020 (UNEP). Sin embargo, el informe "Estado de los Bosques del Mundo 2022" (FAO) menciona que los servicios proporcionados de la superficie boscosa representa 84,4 billones de dolares en 2020 para la economía mundial. 
 
-<p align="center"><strong>INVERSION ANUAL EN FORESTACION</strong></p>
+<p align="center"><strong>INVERSIÓN ANUAL EN FORESTACIÓN</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_anual.png" width="500" style="margin: auto;"></p>
 
-Según un informe de la Organización para la Cooperación y el Desarrollo Económico (OCDE) 2018, la inversion pública total para la adaptacion del cambio climático relacionada con las superficies boscosas fue de US $2.8 mil millones. Sin embargo, los paises en desarollo solo reciben el 6% de la financiamiento global. Por otro lado, el financiamiento privado aumento cerca al 30% durante el periodo 2016-2020. A pesa de ello, el financiamiento privado es considerablemente bajo en comparacion con el publico. 
+Según un informe de la Organización para la Cooperación y el Desarrollo Económico (OCDE) 2018, la inversión pública total para la adaptación del cambio climático relacionada con las superficies boscosas fue de US $2.8 mil millones. Sin embargo, los países en desarollo solo reciben el 6% de la financiamiento global. Por otro lado, el financiamiento privado aumento cerca al 30% durante el periodo 2016-2020. A pesa de ello, el financiamiento privado es considerablemente bajo en comparacion con el publico. 
 
-<p align="center"><strong>FINANCIAMIENTO PUBLICO PARA PAISES EN DESARROLLO</strong></p>
+<p align="center"><strong>FINANCIAMIENTO PÚBLICO PARA PAISES EN DESARROLLO</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/financiamiento.png" width="500" style="margin: auto;"></p>
 
@@ -121,33 +116,33 @@ Según un informe de la Organización para la Cooperación y el Desarrollo Econ�
 
 ### B. NIVEL REGIONAL
 
-Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landscapes Forum de Paris con la finalidad de anunciar nuevos compromisos para la mitagacion del cambio climatico en America Latina y El Caribe. Se comprometieron por un valor de US$730millones a la restauracion de 24.8 milllones de hectareas dañadas para el 2020. Hasta el 2015, la iniciativa contaba con 6.18 millones de hectareas para la restauracion de Niacaragua, Argentina, Costa Rica, Honduras, Chile, Estado de Espirito Santo (Brasil), American Bird Conservancy (programa regional), Estado de São Paulo (Brasil).
+Los gobiernos, sector privado y sociedad civil se reunieron en el Global Landscapes Forum de Paris con la finalidad de anunciar nuevos compromisos para la mitagacion del cambio climatico en América Latina y El Caribe. Se comprometieron por un valor de US$ 730millones a la restauración de 24.8 milllones de hectáreas dañadas para el 2020. Hasta el 2015, la iniciativa contaba con 6.18 millones de hectáreas para la restauración de Niacaragua, Argentina, Costa Rica, Honduras, Chile, Estado de Espirito Santo (Brasil), American Bird Conservancy (programa regional), Estado de São Paulo (Brasil).
 
 <p align="center"><strong>INICIATIVA 20X20, PARIS 2015</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/iniciativa.jpg" width="500" style="margin: auto;"></p>
 
-Más de 2 000 millones de hectáreas de superficie boscosa cuenta con planes de gestión. En tal sentido, America del Sur tiene menos del 20% de los planes a comparacion de Europa que cuenta con planes en la mayoria de sus bosques. 
+Más de 2 000 millones de hectáreas de superficie boscosa cuenta con planes de gestión. En tal sentido, America del Sur tiene menos del 20% de los planes a comparacion de Europa que cuenta con planes en la mayoría de sus bosques. 
 
-<p align="center"><strong>PROPIEDAD FORESTAL POR REGION</strong></p>
+<p align="center"><strong>PROPIEDAD FORESTAL POR REGIÓN</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/propiedad.png" width="500" style="margin: auto;"></p>
 
 
-<p align="center"><strong>FINANCIACION DE LOS PAISES DE AMERICA LATINA Y EL CARIBE</strong></p>
+<p align="center"><strong>FINANCIACIÓN DE LOS PAÍSES DE AMÉRICA LATINA Y EL CARIBE</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/fin.jpg" width="500" style="margin: auto;"></p>
 
 ### C. NIVEL NACIONAL
 
 Los bosques proveen servicios ecosistémicos para el desarrollo de la economía nacional (la extracción de madera o leña, productos del bosque no maderables,
-plantas medicinales, etc.). Asi como tambien, la regulación hídric y promueve el ciclo de nitrógeno (MINAM 2015).
+plantas medicinales, etc.). Asi como tambien, la regulación hídrica y promueve el ciclo de nitrógeno (MINAM 2015).
 
-<p align="center"><strong>CONTRIBUCION DEL BOSQUE AL PBI, 2007 Y 2019</strong></p>
+<p align="center"><strong>CONTRIBUCIÓN DEL BOSQUE AL PBI, 2007 Y 2019</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/pbi.png" width="500" style="margin: auto;"></p>
 
-Segun el (INEI), el aporte de los bosques a la economia detalla que el 0.15% fue destinado a la silvicultura durante el 2019. Mientras que, la contribucion directa del bosque fue de 7.909 millones de soles (1,04%). 
+Segun el (INEI), el aporte de los bosques a la economía detalla que el 0.15% fue destinado a la silvicultura durante el 2019. Mientras que, la contribución directa del bosque fue de 7.909 millones de soles (1,04%). 
 
 ### Bibliografía
 
