@@ -97,6 +97,6 @@ El 19% de la perdida de superficie forestal del 2001 al 2022 tuvo como principal
 
 <p align="center"><strong>PERDIDA ANUAL DE SUPERIFICIE BOSCOSA POR DEFORESTACION</strong></p>
 
-<p align="center"><img src="" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/deforestacion.png" width="600" style="margin: auto;"></p>
 
 ### D. BIBLIOGRAFIA
