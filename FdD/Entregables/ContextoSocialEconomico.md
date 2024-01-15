@@ -18,7 +18,7 @@ Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federaci
 
 <p align="center"><strong>REPRESENTACION DE LA DISTRIBUCION DE LOS CINCO PAISES Y EL RSTO DEL MUNDO EN CUANTO A CONCENTRACION BOSCOSA</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="400" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="600" style="margin: auto;"></p>
 
 ### B. NIVEL REGIONAL 
 
