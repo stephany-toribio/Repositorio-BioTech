@@ -112,7 +112,7 @@ El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representand
 
 La inversión en proyectos forestales en este contexto alcanzo $12.1 mil millones en 2020 (UNEP). Sin embargo, el informe "Estado de los Bosques del Mundo 2022" (FAO) menciona que los servicios proporcionados de la superficie boscosa representa 84,4 billones de dolares en 2020 para la economía mundial.
 
-  ### Figura 13: 
+<p align="center"><strong>Figura 13:</strong></p>
 <p align="center"><strong>INVERSIÓN ANUAL EN FORESTACIÓN</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/inv_anual.png" width="500" style="margin: auto;"></p>
