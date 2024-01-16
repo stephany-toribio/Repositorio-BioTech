@@ -9,7 +9,7 @@ Desde tiempos remotos, el ser humano ha adquirido alimentos y medicina por medio
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
 
-<p class="note text-center note-white">FUENTE: FAO. 2020. _Evaluación de los recursos forestales mundiales 2020 - Informe principal._ FAO. Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
+<p align="center" class="note text-center note-white">FUENTE: FAO. 2020. _Evaluación de los recursos forestales mundiales 2020 - Informe principal._ FAO. Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
 
 A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectáreas de bosque por persona, sin embargo esta distribución no se presenta de manera uniforme (FAO, 2020). 
 
@@ -17,7 +17,7 @@ A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectár
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="500" style="margin: auto;"></p>
 
-<p class="note text-center note-white">Fuente: FAO</p>
+<p align="center" class="note text-center note-white">Fuente: FAO</p>
 
 Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentración boscosa se distribuye entre el resto del mundo (FAO, 2020). 
 
@@ -25,7 +25,7 @@ Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federaci
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="600" style="margin: auto;"></p>
 
-<p class="note text-center note-white">Fuente: FAO</p>
+<p align="center" class="note text-center note-white">Fuente: FAO</p>
 
 Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestación en todo el mundo, lo cual represento una merma de 420 millones de hectáreas (FAO, 2020). 
 
@@ -33,7 +33,7 @@ Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la defor
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_a%C3%B1os.jpg" width="500" style="margin: auto;"></p>
 
-<p class="note text-center note-white">FUENTE: FAO. 2020. _Evaluación de los recursos forestales mundiales 2020 - Informe principal. Roma._ Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
+<p align="center" class="note text-center note-white">FUENTE: FAO. 2020. _Evaluación de los recursos forestales mundiales 2020 - Informe principal. Roma._ Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
 
 ### B. NIVEL REGIONAL 
 
