@@ -155,6 +155,8 @@ plantas medicinales, etc.). Asi como tambien, la regulación hídrica y promueve
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/pbi.png" width="500" style="margin: auto;"></p>
 
+<p align="center"><strong>Fuente: INEI.(2021).Cuenta de Bosques del Perú|Documento metodológico|https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1811/libro.pdf  </strong></p>
+
 Segun el (INEI), el aporte de los bosques a la economía detalla que el 0.15% fue destinado a la silvicultura durante el 2019. Mientras que, la contribución directa del bosque fue de 7.909 millones de soles (1,04%). 
 
 ### Bibliografía
