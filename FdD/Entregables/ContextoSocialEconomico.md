@@ -151,7 +151,7 @@ Más de 2 000 millones de hectáreas de superficie boscosa cuenta con planes de 
 Los bosques proveen servicios ecosistémicos para el desarrollo de la economía nacional (la extracción de madera o leña, productos del bosque no maderables,
 plantas medicinales, etc.). Asi como tambien, la regulación hídrica y promueve el ciclo de nitrógeno (MINAM 2015).
 
-<p align="center"><strong>CONTRIBUCIÓN DEL BOSQUE AL PBI, 2007 Y 2019</strong></p>
+<p align="center"><strong>Figura 19: Contribución del bosque al PBI, 2007 Y 2019</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/pbi.png" width="500" style="margin: auto;"></p>
 
