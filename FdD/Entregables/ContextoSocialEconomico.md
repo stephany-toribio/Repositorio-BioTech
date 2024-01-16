@@ -2,29 +2,38 @@
 
 ### A. NIVEL MUNDIAL 
 
-Desde tiempos remotos, el ser humano ha adquirido alimentos y medicina por medio de la siembra y cosecha. Se estima que la alimentacion de alrededor de 1000 millones de personas en todo el mundo proviene principalmente de forma silvestre. La diversidad biologica forestal desempeña un papel fundamental actuando como un  indicador de calidad de vida al proporcionar una mejora en la calidad del agua y aire por medio del ciclo de carbono. 
+La diversidad biologica forestal desempeña un papel fundamental actuando como un  indicador de calidad de vida al proporcionar una mejora en la calidad del agua y aire por medio del ciclo de carbono.
+Desde tiempos remotos, el ser humano ha adquirido alimentos y medicina por medio de la siembra y cosecha. Se estima que la alimentacion de alrededor de 1000 millones de personas en todo el mundo proviene principalmente de forma silvestre (FAO, 2020).
 
-<p align="center"><strong>DISTRIBUCIÓN MUNDIAL DE LOS BOSQUES, POR ZONA CLIMÁTICA, 2020</strong></p>
+<p align="center"><strong>Figura 1: Distribución mundial de los bosques, por zona climática, 2020</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
 
-A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectáreas de bosque por persona, sin embargo esta distribución no se presenta de manera uniforme. 
+<p class="note text-center note-white">FUENTE: FAO. 2020. _Evaluación de los recursos forestales mundiales 2020 - Informe principal._ FAO. Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
 
-<p align="center"><strong>REPRESENTACIÓN ENTRE UNA PERSONA Y LA DIVERSIDAD BIOLÓGICA</strong></p>
+A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectáreas de bosque por persona, sin embargo esta distribución no se presenta de manera uniforme (FAO, 2020). 
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="400" style="margin: auto;"></p>
+<p align="center"><strong>Figura 2: Representación entre una Persona y la superficie boscosa</strong></p>
 
-Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentración boscosa se distribuye entre el resto del mundo. 
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/hectarea.png" width="500" style="margin: auto;"></p>
 
-<p align="center"><strong>REPRESENTACIÓN DE LA DISTRIBUCIÓN DE LOS CINCO PAISES Y EL RESTO DEL MUNDO EN CUANTO A CONCENTRACIÓN BOSCOSA</strong></p>
+<p class="note text-center note-white">Fuente: FAO</p>
+
+Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentración boscosa se distribuye entre el resto del mundo (FAO, 2020). 
+
+<p align="center"><strong>Figura 3: Distribución de los cinco países y el resto del mundo, en cuanto a concentración boscosa</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="600" style="margin: auto;"></p>
 
-Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestación en todo el mundo, lo cual represento una merma de 420 millones de hectáreas. 
+<p class="note text-center note-white">Fuente: FAO</p>
 
-<p align="center"><strong>CONCENTRACIÓN MUNDIAL CON CUBIERTA DE ÁRBOLES, 1990-2020</strong></p>
+Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestación en todo el mundo, lo cual represento una merma de 420 millones de hectáreas (FAO, 2020). 
+
+<p align="center"><strong>Figura 4: Concentración mundial con cubierta de árboles, 1990-2020</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_a%C3%B1os.jpg" width="500" style="margin: auto;"></p>
+
+<p class="note text-center note-white">FUENTE: FAO. 2020. _Evaluación de los recursos forestales mundiales 2020 - Informe principal. Roma._ Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
 
 ### B. NIVEL REGIONAL 
 
