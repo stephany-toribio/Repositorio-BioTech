@@ -69,7 +69,8 @@ En el último decenio, la tasa de disminución de concentraciones boscosas se re
         </td>      
 </table>  
 
-Los países que presentaron una considerable perdida durante los últimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: (Chile, Costa Rica, Cuba, Guyana, El Salvador, Jamaica, Haití, República Dominicana, Uruguay, San Vicente y Granadinas) (La pérdida de los bosques de América Latina y el Caribe 1990–2020, 2021). 
+
+Los países que presentaron una considerable perdida durante los últimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: Chile, Costa Rica, Cuba, Guyana, El Salvador, Jamaica, Haití, República Dominicana, Uruguay, San Vicente y Granadinas (La pérdida de los bosques de América Latina y el Caribe 1990–2020, 2021). 
 
 ### C. NIVEL NACIONAL
 
