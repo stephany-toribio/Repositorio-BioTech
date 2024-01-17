@@ -39,7 +39,7 @@ Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la defor
 
 <p align="center"><strong>Figura 4: Concentración mundial de emisiones de CO2, 1990 - 2020</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_a%C3%B1os.jpg" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/emisiones.png" width="500" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: BANCO MUNDIAL. (s. f.). World Bank Open Data. World Bank Open Data. Recuperado 16 de enero de 2024, de https://data.worldbank.org</p>
 
@@ -55,7 +55,7 @@ La superficie boscosa absorbe el dióxido de carbono, responsable del aumento de
 
 <p align="center"><strong>Figura 6: Cambios en el clima medio y extremo de regiones por encima de la media, 1850 - 1990</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_sano.jpg" width="720" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temperatura.png" width="720" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: IPCC, «SYNTHESIS REPORT OF THE IPCC SIXTH ASSESSMENT REPORT (AR6),» The Intergovernmental Panel on Climate Change, 2023</p>
 
