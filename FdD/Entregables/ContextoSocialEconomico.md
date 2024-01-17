@@ -117,7 +117,7 @@ A nivel nacional, entre 2001 y 2022, la cobertura arborea disminuyo 4.9%, lo que
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 12: Flujos de gas invernadero relacionado con bosques en Lima, Perú</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/deforestacion.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/co2.png" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">GFW. (s. f.). Peru Deforestation Rates & Statistics | GFW. Recuperado 16 de enero de 2024, de https://www.globalforestwatch.org/dashboards/country/PER?category=undefined</p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
