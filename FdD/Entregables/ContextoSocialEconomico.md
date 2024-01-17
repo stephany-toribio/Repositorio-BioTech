@@ -11,6 +11,8 @@ Desde tiempos remotos, el ser humano ha adquirido alimentos y medicina por medio
 
 <p align="center" class="note text-center note-white">FUENTE: FAO. 2020. Evaluación de los recursos forestales mundiales 2020 - Informe principal. FAO. Disponible en: https://www.fao.org/documents/card/es/c/ca9825es</p>
 
+
+
 A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectáreas de bosque por persona, sin embargo esta distribución no se presenta de manera uniforme (FAO, 2020). 
 
 <p align="center"><strong>Figura 2: Representación entre una Persona y la superficie boscosa</strong></p>
@@ -19,6 +21,8 @@ A nivel mundial, los bosques cubren 1/3 de la tierra que representa 0.52 hectár
 
 <p align="center" class="note text-center note-white">FUENTE: FAO. (2020). Evaluación de los recursos forestales mundiales 2020. Www.Fao.Org. http://www.fao.org/forest-resources-assessment/2020/es</p>
 
+
+
 Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federación de Rusia, Brasil, Canadá, los Estados Unidos de América y China. Mientras que el 46 % de la concentración boscosa se distribuye entre el resto del mundo (FAO, 2020). 
 
 <p align="center"><strong>Figura 3: Distribución de los cinco países y el resto del mundo, en cuanto a concentración boscosa</strong></p>
@@ -26,6 +30,8 @@ Más del 54% de los bosques del mundo lo abarcan solo cinco países: la Federaci
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mundo_bosque.png" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: FAO. (2020). Evaluación de los recursos forestales mundiales 2020. Www.Fao.Org. http://www.fao.org/forest-resources-assessment/2020/es</p>
+
+
 
 Desde 1990 se ha evidenciado una perdida de la biodiversidad a causa de la deforestación en todo el mundo, lo cual represento una merma de 420 millones de hectáreas (FAO, 2020). 
 
@@ -46,6 +52,7 @@ La superficie boscosa absorbe el dióxido de carbono, responsable del aumento de
 <p align="center" class="note text-center note-white">FUENTE: ONU. (2023). Bosques sanos, personas sanas | Naciones Unidas en Perú. https://peru.un.org/es/225392-bosques-sanos-personas-sanas</p>
 
 
+
 La concentración boscosa de los países varia en cuanto al tamaño y condiciones ecosistémicas propias. La tasa de pérdida de bosques ha disminuido considerablemente desde 1990 como resultado de las medidas tomadas a lo largo de estos años. En cuanto a América del Sur, se estimo una pérdida menor a la mitad de la tasa del 2000-2010 en el periodo 2010-2020 (2,6 mill. hectareas) (FAO, 2020). 
 
 <p align="center"><strong>Figura 6: Variación neta anual de la distribución forestal, por decenio, 1990-2020</strong></p>
@@ -53,6 +60,8 @@ La concentración boscosa de los países varia en cuanto al tamaño y condicione
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/variacion_anual.png" width="500" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: FAO. (2020). Evaluación de los recursos forestales mundiales 2020. Www.Fao.Org. http://www.fao.org/forest-resources-assessment/2020/es</p>
+
+
 
 En el último decenio, la tasa de disminución de concentraciones boscosas se redujo considerablemente debido a que desde 1990 la superficie de bosques plantados ha incrementado en 123 millones de hectáreas. En esa línea, América del Sur cuenta con la mayor proporción de bosques introducidos (FAO and UNEP, 2020). 
 
@@ -70,11 +79,12 @@ En el último decenio, la tasa de disminución de concentraciones boscosas se re
 </table>  
 
 
+
 Los países que presentaron una considerable perdida durante los últimos 30 años, son los siguientes: Brasil (92,3 millones de hectáreas de bosque), Bolivia (7 millones), Argentina (6,6 millones), Colombia (5,8 millones) y Paraguay (9,4 millones de hectáreas). Por otro lado, los países donde ha aumentado la superficie boscosa durante el mismo tiempo, son los siguientes: Chile, Costa Rica, Cuba, Guyana, El Salvador, Jamaica, Haití, República Dominicana, Uruguay, San Vicente y Granadinas (La pérdida de los bosques de América Latina y el Caribe 1990–2020, 2021). 
 
 ### C. NIVEL NACIONAL
 
-En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 millones de hectáreas), siendo la región amazónica representante de la mayor cantidad de ecosistemas del territorio, abarcando el 91% de los ecosistemas(SERFOR and INEI, 2021). 
+En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 millones de hectáreas), siendo la región amazónica representante de la mayor cantidad de ecosistemas del territorio, abarcando el 91% de los ecosistemas (SERFOR and INEI, 2021). 
 
 <table>
     <tr>
@@ -112,7 +122,7 @@ A nivel nacional, entre 2001 y 2022, la cobertura arborea disminuyo 4.9%, lo que
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 13: Emisiones de gases de efecto invernadero vinculados con los bosques en Lima, Perú</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla2.png" alt="">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/perdida.png" alt="">
         <p align="center" class="note text-center note-white">GFW. (s. f.). Lima, Peru Deforestation Rates & Statistics | GFW. Recuperado 16 de enero de 2024, de https://www.globalforestwatch.org/dashboards/country/PER/16?category=climate</p>
         </td>      
 </table> 
