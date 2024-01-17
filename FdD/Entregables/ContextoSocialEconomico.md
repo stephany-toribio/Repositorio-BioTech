@@ -74,37 +74,48 @@ Los países que presentaron una considerable perdida durante los últimos 30 añ
 
 ### C. NIVEL NACIONAL
 
-En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 millones de hectareas), siendo la region amazónica representante de la mayor cantidad de ecosistemas del territorio. 
+En el Perú, la superficie boscosa ocupa el 57.3% (aproximadamente 72 083 263 millones de hectáreas), siendo la región amazónica representante de la mayor cantidad de ecosistemas del territorio, abarcando el 91% de los ecosistemas(SERFOR and INEI, 2021). 
 
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>MAPA NACIONAL DE ECOSISTEMAS 2019</strong></p>
+        <p align="center"><strong>Figura 9: Mapa nacional de ecosistemas 2019</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_ecosistema.png" alt=""></p>
+        <p align="center" class="note text-center note-white">FUENTE: MINAM. (2019). Sexto Informe Nacional sobre Diversidad Biológica. https://www.gob.pe/institucion/minam/informes-publicaciones/281709-sexto-informe-nacional-sobre-diversidad-biologica</p>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>LEYENDA</strong></p>
+        <p align="center"><strong>Figura 10: Leyenda</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_ecos.png" alt=""></p>
+        <p align="center" class="note text-center note-white">FUENTE: MINAM. (2019). Sexto Informe Nacional sobre Diversidad Biológica. https://www.gob.pe/institucion/minam/informes-publicaciones/281709-sexto-informe-nacional-sobre-diversidad-biologica</p>
         </td>      
 </table> 
 
-<p align="center"><strong>3.7 millones de hectáreas se encuentran en la Costa (5.1%) y 0.22 millones de hectáreas en la Sierra (0.31%) (MINAM).</strong></p>
+<p align="center"><strong>3.7 millones de hectáreas se encuentran en la Costa representando el 5.1% y 0.22 millones de hectáreas en la Sierra representando el 0.31% (MINAM, 2019). </strong></p>
+ 
 
-El 91% de los ecosistemas de bosque del Peru lo abarca la Amazonia, representando las regiones de Loreto, Ucayali y Madre de Dios el 75% de los superficie boscosa. 
+A nivel nacional, entre 2001 y 2022, la cobertura arborea disminuyo 4.9%, lo que corresponde a una pérdida de 3.86M de hectáreas (2.44Gt emisiones de CO2). El 19% de la pérdida de superficie forestal tuvo como principal causante la deforestación. Durante ese periodo, Lima emitio 408 toneladas de CO2 por año y elimino 89.5 kilotoneladas de CO2 por año, equivalente a una eliminacion neta de 89.1 kilotoneladas de CO2 por año (GFW, s.f.).
+
+<p align="center"><strong>Figura 11: Perdida de las superficie boscosa y su principal causante durante el periodo 2001-2022</strong></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/deforestacion.png" width="600" style="margin: auto;"></p>
+
+<p align="center" class="note text-center note-white">GFW. (s. f.). Peru Deforestation Rates & Statistics | GFW. Recuperado 16 de enero de 2024, de https://www.globalforestwatch.org/dashboards/country/PER?category=undefined</p>
+
+
 
 <table>
-    <tr>
+    <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>PERDIDA ANUAL DE SUPERIFICIE BOSCOSA POR DEFORESTACIÓN</strong></p>
+        <p align="center"><strong>Figura 12: Flujos de gas invernadero relacionado con bosques en Lima, Perú</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/deforestacion.png" width="600" style="margin: auto;"></p>
-        </td>
+        <p align="center" class="note text-center note-white">GFW. (s. f.). Peru Deforestation Rates & Statistics | GFW. Recuperado 16 de enero de 2024, de https://www.globalforestwatch.org/dashboards/country/PER?category=undefined</p>
+        </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>BOSQUE AMAZÓNICO POR DEPARTAMENTO AL 2019</strong></p>
+        <p align="center"><strong>Figura 13: Emisiones de gases de efecto invernadero vinculados con los bosques en Lima, Perú</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tabla2.png" alt="">
+        <p align="center" class="note text-center note-white">GFW. (s. f.). Lima, Peru Deforestation Rates & Statistics | GFW. Recuperado 16 de enero de 2024, de https://www.globalforestwatch.org/dashboards/country/PER/16?category=climate</p>
         </td>      
 </table> 
-
-<p align="center"><strong>El 19% de la pérdida de superficie forestal del 2001 al 2022 tuvo como principal causante la deforestación.</strong></p>
 
 ## CONTEXTO ECONOMICO
 
