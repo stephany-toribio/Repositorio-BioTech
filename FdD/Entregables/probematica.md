@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ishikawa.png" width="1000" style="margin: auto;"></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ishikawa.png" width="1000" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/sol.png" width="1200" style="margin: auto;"></p>
 
 ### Bibliografia
 
