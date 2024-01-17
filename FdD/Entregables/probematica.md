@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/viaje.png" width="1000" style="margin: auto;"></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ishikawa.png" width="900" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ishikawa.png" width="1000" style="margin: auto;"></p>
 
 ### Bibliografia
 
