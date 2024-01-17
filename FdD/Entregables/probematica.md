@@ -1,12 +1,12 @@
 <h1 align="center">Alta concentración de dióxido de carbono y temperatura en la Av. Habich</h1>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_empat%C3%ADa.png" width="1000" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/problema.png" width="1000" style="margin: auto;"></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_empat%C3%ADa.png" width="1000" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/empatia.png" width="1000" style="margin: auto;"></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapa_viaje.jpg" width="1000" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/viaje.png" width="1000" style="margin: auto;"></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/causa_efecto.png" width="900" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ishikawa.png" width="900" style="margin: auto;"></p>
 
 ### Bibliografia
 
