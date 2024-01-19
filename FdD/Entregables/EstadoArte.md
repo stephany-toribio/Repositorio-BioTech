@@ -112,20 +112,19 @@ El sensor de dióxido de carbono IOT-S300CO2 destaca por su capacidad para detec
 
 ## BIBLIOGRAFÍA
 
-- Saini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6
-
-- Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479
-
-- Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738
+- Amazon. (s.f). Awair Element Monitor de calidad del aire interior - AQM8002A. Amazon.com.
+https://www.amazon.com/-/es/Awair-Element-Monitor-calidad-interior/dp/B082ZF4H37?th=1 
 
 - Desrochers, E. M., & Sharp, G. P. (2017). Sistema de muestreo de aire de múltiples puntos que tiene sensores comunes para proporcionar información de parámetros de calidad de aire mezclada para monitoreo y control de construcción (EP 1856454). European Patent Office. https://patents.google.com/patent/ES2639539T3/es
 
+- LinoVision. (s.f). RS485 CO2 Sensor for Carbon Dioxide Detection. Linovision.com. https://linovision.com/products/rs485-co2-sensor-for-carbon-dioxide-detection?_pos=1&_sid=71941e661&_ss=r 
+
+- Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479
+
+- Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738 
+
+- Reeder, A. L. (2015). Carbon dioxide monitoring system and associated methods and devices (Patent No. US9182751). United States Patent. https://patents.google.com/patent/US9182751B1/en?q=(sensor+co2)&oq=sensor+co2 
+
+- Saini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6 
+
 - Sales Lerida, D., Sales Marquez, D., Hernández Molina, R., & Cueto Ancela, J. L. (2018). Sistema de telemedición de calidad del aire para la visualización en tiempo real de una red de dispositivos compactos. European Patent Office. https://patents.google.com/patent/ES2638715B1/es?q=(SISTEMA+DE+TELEMEDICI%C3%93N+DE+CALIDAD+DEL+AIRE+PARA+LA+VISUALIZACI%C3%93N+EN+TIEMPO+REAL+DE+UNA+RED+DE+DISPOSITIVOS+COMPACTOS.)&oq=SISTEMA+DE+TELEMEDICI%C3%93N+DE+CALIDAD+DEL+AIRE+PARA+LA+VISUALIZACI%C3%93N+EN+TIEMPO+REAL+DE+UNA+RED+DE+DISPOSITIVOS+COMPACTOS
-
-- Reeder, A. L. (2015). Carbon dioxide monitoring (United States Patent US9182751B1). https://patents.google.com/patent/US9182751B1/en?q=(sensor+co2)&oq=sensor+co2
-
-- Tech Peru. (s.f). [Detector de CO2 RH AZ7755]. https://techperuindustrial.com/producto/detector-de-co2-rh/
-
-- Amazon. (s.f). [Awair Element Monitor de calidad del aire interior - AQM8002A].https://www.amazon.com/-/es/Awair-Element-Monitor-calidad-interior/dp/B082ZF4H37?th=1
-
-- LinoVision. (s.f). [RS485 CO2 Sensor for Carbon Dioxide Detection] https://linovision.com/products/rs485-co2-sensor-for-carbon-dioxide-detection?_pos=1&_sid=71941e661&_ss=r
