@@ -10,7 +10,7 @@ Se realizó una evaluación cualitativa y cuantitativa de estos sensores económ
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
 
-<p align="center" class="note text-center note-white">FUENTE: HolaSaini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6</p>
+<p align="center" class="note text-center note-white">FUENTE: Saini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6</p>
 
 ### ARTÍCULO 2: Sensores para el monitoreo y evaluación de la calidad del aire interior a través del Internet de las Cosas: una revisión sistemática
 
@@ -37,7 +37,7 @@ Se realizó una evaluación cualitativa y cuantitativa de estos sensores económ
 
 ### EQUIPOS O DISPOSITIVOS EN EL MERCADO 
 
-- <p align="center"><strong>Medidor de CO2 7755 AZ </strong></p>
+- <p><strong>Medidor de CO2 7755 AZ </strong></p>
 
 PRECIO: S/ 2,200.00
 
@@ -45,7 +45,7 @@ El medidor de CO2 7755 AZ cuantifica CO2, temperatura, humedad, punto de rocío 
 
 https://www.kusitest.pe/medidor-de-co2-portatil-dioxido-de-carbono-temperatura-y-humedad-con-sensor-ndir-sensor-7755 
 
-- <p align="center"><strong>Awair Element Monitor de calidad del aire interior - AQM8002A</strong></p>
+- <p><strong>Awair Element Monitor de calidad del aire interior - AQM8002A</strong></p>
 
 PRECIO: $199.00
 
@@ -53,7 +53,7 @@ Es un monitor de calidad de aire que está diseñado para lugares cerrados, mide
 
 https://www.amazon.com/-/es/Awair-Element-Monitor-calidad-interior/dp/B082ZF4H37?th=1 
 
-- <p align="center"><strong>RS485 CO2 Sensor</strong></p>
+- <p><strong>RS485 CO2 Sensor</strong></p>
 
 PRECIO:$149.00
 
