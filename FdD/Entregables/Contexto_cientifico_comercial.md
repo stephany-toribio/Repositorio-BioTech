@@ -18,7 +18,7 @@ Describe el diseño e implementación de un sistema de monitoreo ambiental basad
 
 <p align="center"><strong>Figura 2: Topología de la propuesta</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/topologia.png" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479</p>
 
