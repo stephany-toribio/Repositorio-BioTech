@@ -24,14 +24,42 @@ Describe el diseño e implementación de un sistema de monitoreo ambiental basad
 
 ### ARTÍCULO 3:
 
+El artículo aborda la relación entre el cambio climático y la salud humana, destacando sus efectos en diferentes grupos de edad y específicamente en enfermedades respiratorias, cardiovasculares e infecciosas. Los gases de efecto invernadero, originados en actividades humanas, intensifican condiciones adversas como sequías y temperaturas elevadas, afectando de manera más pronunciada a asmáticos y personas mayores. Se evidencia un impacto en enfermedades cardiovasculares con una relación en forma de "V" entre temperatura y mortalidad cardiovascular durante olas de calor. En la edad pediátrica, los niños son particularmente vulnerables, exhibiendo mayor susceptibilidad a enfermedades, contaminantes y alergias con consecuencias a largo plazo. El aumento de enfermedades alérgicas y respiratorias en niños se atribuye a cambios en temperatura, polen y contaminación.
+
+<table>
+    <tr>   
+        <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>Figura 3: Relación entre temperatura ambiental y riesgo relativo (RR) de mortalidad cardiovascular.</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/co2.png" width="600" style="margin: auto;"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738</p>
+        </td>  
+        <td style="border: 0px solid #ddd; padding: 8px;">
+        <p align="center"><strong>Figura 4: Eventuales consecuencias del cambio climático sobre la severidad e incidencia de enfermedades infecciosas. </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/perdida.png" alt="">
+        <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738 (Adaptado de: Dennis S, Fisher D. Climate Change and Infectious Diseases: The Next 50 Years. Annals Academy of Medicine 2018; 47 (10): 402-4.)</p>
+        </td>      
+</table>
 
 ## CONTEXTO COMERCIAL
 
-<p align="center"><strong>Figura 2:</strong></p>
+### PATENTES
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
+- PATENTE DE INVENCIÓN
 
-<p align="center" class="note text-center note-white">FUENTE: </p>
+<p align="center"><strong>S2639539T3 - Sistema de muestreo de aire de múltiples puntos que tiene sensores comunes para proporcionar información de parámetros de calidad de aire mezclada para monitoreo y control de construcción</strong></p>
+
+Se describe un sistema de muestreo de aire de múltiples puntos 	que utiliza sensores de parámetros de calidad del aire para monitorear y controlar la calidad del aire en edificaciones. Los sensores detectan una variedad de parámetros, como el dióxido de carbono y la humedad, y la información se combina para crear una señal que represente la calidad del aire en un determinado espacio. Esta capacidad de detección y análisis de múltiples parámetros del aire hace que el sistema sea adecuado para aplicaciones de monitorización y control en diversos entornos.
+
+<p align="center"><strong>ES2638715B1 - Sistema de telemedición de calidad del aire para la visualización en tiempo real de una red de dispositivos compactos</strong></p>
+
+El sistema de telemedición de calidad del aire consiste en una red de dispositivos compactos equipados con sensores para medir parámetros ambientales como monóxido de carbono (CO), dióxido de nitrógeno (NO2) y ozono (O3), entre otros. Estos dispositivos, llamados "dispositivos finales", transmiten la información de los sensores a un servidor web para su visualización en tiempo real a través de una red inalámbrica ZigBee. Esta tecnología permite conocer el estado de salud ambiental en municipios o puntos interurbanos en tiempo real a través de mapas con niveles cuantitativos o cualitativos asociados a vías.
+
+- PATENTE DE UTILIDAD
+
+<p align="center"><strong>US9182751 - CARBON DIOXIDE MONITORING </strong></p>
+
+El sistema descrito en la patente incluye una unidad de monitoreo de CO2 que puede detectar la concentración de este gas dentro de una propiedad, analizar los datos y controlar los dispositivos o componentes del sistema HVAC para mantener una adecuada concentración de CO2, garantizando así el control efectivo de la calidad del aire y la seguridad en el entorno. También tiene la capacidad de detectar cambios significativos en la concentración del gas, determinar las ubicaciones y los niveles de actividad de los usuarios dentro de la propiedad e integrarse con sistemas de alarma para mejorar el monitoreo y la automatización.
+
 
 ### EQUIPOS O DISPOSITIVOS EN EL MERCADO 
 
@@ -73,9 +101,9 @@ https://linovision.com/products/rs485-co2-sensor-for-carbon-dioxide-detection?_p
 
 - Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479
 
-- 
+- Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738
 
-- 
+- Dennis S, Fisher D. Climate Change and Infectious Diseases: The Next 50 Years. Annals Academy of Medicine 2018; 47 (10): 402-4.
 
 - 
 
