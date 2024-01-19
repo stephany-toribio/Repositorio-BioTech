@@ -22,7 +22,7 @@ Describe el diseño e implementación de un sistema de monitoreo ambiental basad
 
 <p align="center" class="note text-center note-white">FUENTE: Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479</p>
 
-### ARTÍCULO 3:
+### ARTÍCULO 3: Impacto del cambio climático en la salud
 
 El artículo aborda la relación entre el cambio climático y la salud humana, destacando sus efectos en diferentes grupos de edad y específicamente en enfermedades respiratorias, cardiovasculares e infecciosas. Los gases de efecto invernadero, originados en actividades humanas, intensifican condiciones adversas como sequías y temperaturas elevadas, afectando de manera más pronunciada a asmáticos y personas mayores. Se evidencia un impacto en enfermedades cardiovasculares con una relación en forma de "V" entre temperatura y mortalidad cardiovascular durante olas de calor. En la edad pediátrica, los niños son particularmente vulnerables, exhibiendo mayor susceptibilidad a enfermedades, contaminantes y alergias con consecuencias a largo plazo. El aumento de enfermedades alérgicas y respiratorias en niños se atribuye a cambios en temperatura, polen y contaminación.
 
