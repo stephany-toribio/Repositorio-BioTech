@@ -10,6 +10,12 @@
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/sol.png" width="1200" style="margin: auto;"></p>
 
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/sol.png" width="1200" style="margin: auto;"></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/sol.png" width="1200" style="margin: auto;"></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/sol.png" width="1200" style="margin: auto;"></p>
+
 ### Bibliografia
 
 - Ana, A. C. (2023). Infraestructura verde urbana en zonas áridas. Estudio de casos en usuarios y profesionales de la Plaza Andrés Avelino Cáceres del distrito de San Isidro, 2021. https://hdl.handle.net/20.500.14138/6255
