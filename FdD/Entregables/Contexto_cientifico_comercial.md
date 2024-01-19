@@ -2,7 +2,7 @@
 
 ### ARTÍCULO 1: Sensors for indoor air quality monitoring and assessment through Internet of Things: a systematic review
 
-La revisión sistemática aborda la preocupación por la contaminación del aire, tanto en espacios cerrados como abiertos, y destaca que 4.3 millones de personas mueren anualmente debido a la contaminación del aire en el hogar (OMS, 2015). En respuesta a esto, se han desarrollado sensores de bajo costo para monitorear la contaminación del aire en interiores utilizando tecnologías de Internet de las Cosas (IoT).
+La revisión sistemática aborda la preocupación por la contaminación del aire, tanto en espacios cerrados como abiertos. En respuesta a esto, se han desarrollado sensores de bajo costo para monitorear la contaminación del aire en interiores utilizando tecnologías de Internet de las Cosas (IoT).
 
 Se realizó una evaluación cualitativa y cuantitativa de estos sensores económicos, revelando que de los 71 sensores estudiados, el 70% se utilizó para evaluar el confort térmico en interiores, mientras que el 65% y el 30% incorporaron sensores de CO2 y CO, respectivamente. Además, el 45.7% de los sensores analizados costaba menos de $20 en plataformas en línea, pero el 77.5% no proporcionaba detalles de calibración y el 39.4% carecía de especificaciones de precisión. El estudio resalta las limitaciones en términos de precisión, rango nominal y tiempo de respuesta de los sensores, recalcando la necesidad de una mayor investigación para superar estos desafíos en el diseño e implementación de sistemas de monitoreo en tiempo real. Asi como también, información relevante sobre las opciones disponibles para los sensores de calidad del aire en interiores, sus parámetros asociados, especificaciones técnicas, análisis de costos y requisitos de calibración, para guiar a los futuros investigadores en la selección de sensores apropiados.
 
@@ -36,7 +36,7 @@ El artículo aborda la relación entre el cambio climático y la salud humana, d
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 4: Eventuales consecuencias del cambio climático sobre la severidad e incidencia de enfermedades infecciosas. </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
-        <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738 (Adaptado de: Dennis S, Fisher D. Climate Change and Infectious Diseases: The Next 50 Years. Annals Academy of Medicine 2018; 47 (10): 402-4.)</p>
+        <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738</p>
         </td>      
 </table>
 
@@ -117,8 +117,6 @@ El sensor de dióxido de carbono IOT-S300CO2 destaca por su capacidad para detec
 - Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479
 
 - Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738
-
-- Dennis S, Fisher D. Climate Change and Infectious Diseases: The Next 50 Years. Annals Academy of Medicine 2018; 47 (10): 402-4.
 
 - Desrochers, E. M., & Sharp, G. P. (2017). Sistema de muestreo de aire de múltiples puntos que tiene sensores comunes para proporcionar información de parámetros de calidad de aire mezclada para monitoreo y control de construcción (EP 1856454). European Patent Office. https://patents.google.com/patent/ES2639539T3/es
 
