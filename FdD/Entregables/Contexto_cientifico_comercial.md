@@ -1,6 +1,6 @@
 ## CONTEXTO CIENTÍFICO
 
-### ARTÍCULO 1: Sensores para el monitoreo y evaluación de la calidad del aire interior a través del Internet de las Cosas: una revisión sistemática
+### ARTÍCULO 1: Sensors for indoor air quality monitoring and assessment through Internet of Things: a systematic review
 
 La revisión sistemática aborda la preocupación por la contaminación del aire, tanto en espacios cerrados como abiertos, y destaca que 4.3 millones de personas mueren anualmente debido a la contaminación del aire en el hogar (OMS, 2015). En respuesta a esto, se han desarrollado sensores de bajo costo para monitorear la contaminación del aire en interiores utilizando tecnologías de Internet de las Cosas (IoT).
 
@@ -8,21 +8,19 @@ Se realizó una evaluación cualitativa y cuantitativa de estos sensores económ
 
 <p align="center"><strong>Figura 1: Recomendaciones para la selección del mejor sensor para sistemas de monitoreo de la calidad del aire interior (IAQ)</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/sensor_requer.png" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Saini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6</p>
 
-### ARTÍCULO 2: Sensores para el monitoreo y evaluación de la calidad del aire interior a través del Internet de las Cosas: una revisión sistemática
+### ARTÍCULO 2: On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks
 
-La revisión sistemática aborda la preocupación por la contaminación del aire, tanto en espacios cerrados como abiertos, y destaca que 4.3 millones de personas mueren anualmente debido a la contaminación del aire en el hogar (OMS, 2015). En respuesta a esto, se han desarrollado sensores de bajo costo para monitorear la contaminación del aire en interiores utilizando tecnologías de Internet de las Cosas (IoT).
+Describe el diseño e implementación de un sistema de monitoreo ambiental basado en redes de sensores inalámbricos (WSN) con enfoque en IoT. Se emplearon sensores analógicos (sensor MQ) y digitales para medir gases y partículas en la Universidad San Francisco de Quito, Ecuador, encontrando concentraciones más altas de CO2 y partículas en el estacionamiento subterráneo. Los datos, obtenidos con sensores analógicos y digitales, se almacenan localmente y se visualizan en tiempo real a través de una aplicación web con un servidor Apache para datos históricos. A pesar del rango limitado de los sensores de bajo costo, detectaron situaciones anómalas cuando la concentración de gas superaba un límite tolerable. La implementación incluyó la configuración de nodos, el Gateway con Raspberry Pi y la comunicación inalámbrica con módulos Xbee Pro S1.
 
-Se realizó una evaluación cualitativa y cuantitativa de estos sensores económicos, revelando que de los 71 sensores estudiados, el 70% se utilizó para evaluar el confort térmico en interiores, mientras que el 65% y el 30% incorporaron sensores de CO2 y CO, respectivamente. Además, el 45.7% de los sensores analizados costaba menos de $20 en plataformas en línea, pero el 77.5% no proporcionaba detalles de calibración y el 39.4% carecía de especificaciones de precisión. El estudio resalta las limitaciones en términos de precisión, rango nominal y tiempo de respuesta de los sensores, recalcando la necesidad de una mayor investigación para superar estos desafíos en el diseño e implementación de sistemas de monitoreo en tiempo real. Asi como también, información relevante sobre las opciones disponibles para los sensores de calidad del aire en interiores, sus parámetros asociados, especificaciones técnicas, análisis de costos y requisitos de calibración, para guiar a los futuros investigadores en la selección de sensores apropiados.
-
-<p align="center"><strong>Figura 1: Recomendaciones para la selección del mejor sensor para sistemas de monitoreo de la calidad del aire interior (IAQ)</strong></p>
+<p align="center"><strong>Figura 2: Topología de la propuesta</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
 
-<p align="center" class="note text-center note-white">FUENTE: Saini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6</p>
+<p align="center" class="note text-center note-white">FUENTE: Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479</p>
 
 ### ARTÍCULO 3:
 
@@ -73,7 +71,7 @@ https://linovision.com/products/rs485-co2-sensor-for-carbon-dioxide-detection?_p
 
 - Saini, J., Dutta, M., & Marques, G. (2021). Sensors for indoor air quality monitoring and assessment through Internet of Things: A systematic review. Environmental Monitoring and Assessment, 193(2), 66. https://doi.org/10.1007/s10661-020-08781-6
 
-- 
+- Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479
 
 - 
 
