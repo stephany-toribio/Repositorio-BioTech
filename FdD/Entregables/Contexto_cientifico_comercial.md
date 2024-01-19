@@ -74,9 +74,7 @@ El sistema descrito en la patente incluye una unidad de monitoreo de CO2 que pue
 
 ### EQUIPOS O DISPOSITIVOS EN EL MERCADO 
 
-- <p><strong>Medidor de CO2 7755 AZ </strong></p>
-
-PRECIO: S/ 2,200.00
+### Medidor de CO2 7755 AZ (PRECIO: S/ 2,200.00)
 
 El medidor de CO2 7755 AZ cuantifica CO2, temperatura, humedad, punto de rocío y temperatura de bulbo húmedo. Presenta una alarma de alto riesgo de CO2 y calibración manual, ofrece estadísticas ponderadas como TWA y STEL. Portátil y recargable con baterías.
 
@@ -86,9 +84,7 @@ El medidor de CO2 7755 AZ cuantifica CO2, temperatura, humedad, punto de rocío 
 
 <p align="center" class="note text-center note-white">FUENTE: Tech Peru. (s.f). [Detector de CO2 RH AZ7755]. https://techperuindustrial.com/producto/detector-de-co2-rh/</p>
 
-- <p><strong>Awair Element Monitor de calidad del aire interior - AQM8002A</strong></p>
-
-PRECIO: $199.00
+### Awair Element Monitor de calidad del aire interior - AQM8002A (PRECIO: $199.00)
 
 Es un monitor de calidad de aire que está diseñado para lugares cerrados, mide diversos parámetros, entre ellos el CO2, PM2.5, COVs, temperatura y humedad. Además, a través de su conectividad Bluetooth y Wi-Fi, se vincula a una página web que proporciona información en tiempo real sobre la calidad del aire y da recomendaciones para mejorar la salud del espacio en el que se encuentra.
 
@@ -98,9 +94,7 @@ Es un monitor de calidad de aire que está diseñado para lugares cerrados, mide
 
 <p align="center" class="note text-center note-white">FUENTE: Amazon. (s.f). [Awair Element Monitor de calidad del aire interior - AQM8002A].https://www.amazon.com/-/es/Awair-Element-Monitor-calidad-interior/dp/B082ZF4H37?th=1</p>
 
-- <p><strong>RS485 CO2 Sensor</strong></p>
-
-PRECIO:$149.00
+### RS485 CO2 Sensor (PRECIO:$149.00)
 
 El sensor de dióxido de carbono IOT-S300CO2 destaca por su capacidad para detectar con precisión la concentración de dióxido de carbono en el entorno. Es una herramienta usada para el monitoreo de la calidad del aire en interiores y exteriores, como invernaderos agrícolas, cultivo de plantas en crecimiento y otros. Cuenta con almacenamiento automático de datos ambientales y análisis y seguimiento online.
 
