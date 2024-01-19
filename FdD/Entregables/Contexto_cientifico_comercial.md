@@ -48,7 +48,7 @@ Se describe un sistema de muestreo de aire de múltiples puntos que utiliza sens
 
 <p align="center"><strong>Figura 5: Diagrama esquemático en la que una unidad de tratamiento de aire de edificio que incorpora aire de retorno está siendo monitoreada por un sistema de muestreo de aire de múltiples puntos</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/patente1.png" width="800" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/patente1.png" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Desrochers, E. M., & Sharp, G. P. (2017). Sistema de muestreo de aire de múltiples puntos que tiene sensores comunes para proporcionar información de parámetros de calidad de aire mezclada para monitoreo y control de construcción (EP 1856454). European Patent Office. https://patents.google.com/patent/ES2639539T3/es</p>
 
@@ -58,7 +58,7 @@ El sistema de telemedición de calidad del aire consiste en una red de dispositi
 
 <p align="center"><strong>Figura 6: Esquema del sistema de telemedición de calidad del aire para la visualización en tiempo real de una red de dispositivos compactos</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/patente2.png" width="500" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/patente2.png" width="400" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Sales Lerida, D., Sales Marquez, D., Hernández Molina, R., & Cueto Ancela, J. L. (2018). Sistema de telemedición de calidad del aire para la visualización en tiempo real de una red de dispositivos compactos. European Patent Office. https://patents.google.com/patent/ES2638715B1/es?q=(SISTEMA+DE+TELEMEDICI%C3%93N+DE+CALIDAD+DEL+AIRE+PARA+LA+VISUALIZACI%C3%93N+EN+TIEMPO+REAL+DE+UNA+RED+DE+DISPOSITIVOS+COMPACTOS.)&oq=SISTEMA+DE+TELEMEDICI%C3%93N+DE+CALIDAD+DEL+AIRE+PARA+LA+VISUALIZACI%C3%93N+EN+TIEMPO+REAL+DE+UNA+RED+DE+DISPOSITIVOS+COMPACTOS</p>
 
@@ -68,7 +68,7 @@ El sistema descrito en la patente incluye una unidad de monitoreo de CO2 que pue
 
 <p align="center"><strong>Figura 7: Ejemplo del sistema</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/patente3.jpg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/patente3.jpg" width="550" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Reeder, A. L. (2015). Carbon dioxide monitoring (United States Patent US9182751B1). https://patents.google.com/patent/US9182751B1/en?q=(sensor+co2)&oq=sensor+co2</p>
 
@@ -82,7 +82,7 @@ El medidor de CO2 7755 AZ cuantifica CO2, temperatura, humedad, punto de rocío 
 
 <p align="center"><strong>Figura 8: Medidor de CO2 7755 AZ</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/calidad3.jpg" width="400" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/calidad3.jpg" width="300" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Tech Peru. (s.f). [Detector de CO2 RH AZ7755]. https://techperuindustrial.com/producto/detector-de-co2-rh/</p>
 
@@ -94,7 +94,7 @@ Es un monitor de calidad de aire que está diseñado para lugares cerrados, mide
 
 <p align="center"><strong>Figura 9: Awair Element Monitor de calidad del aire interior - AQM8002A</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/calidad1.jpg" width="300" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/calidad1.jpg" width="400" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Amazon. (s.f). [Awair Element Monitor de calidad del aire interior - AQM8002A].https://www.amazon.com/-/es/Awair-Element-Monitor-calidad-interior/dp/B082ZF4H37?th=1</p>
 
@@ -106,7 +106,7 @@ El sensor de dióxido de carbono IOT-S300CO2 destaca por su capacidad para detec
 
 <p align="center"><strong>Figura 9: Awair Element Monitor de calidad del aire interior - AQM8002A</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/calidad2.jpg" width="300" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/calidad2.jpg" width="400" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: LinoVision. (s.f). [RS485 CO2 Sensor for Carbon Dioxide Detection] https://linovision.com/products/rs485-co2-sensor-for-carbon-dioxide-detection?_pos=1&_sid=71941e661&_ss=r</p>
 
