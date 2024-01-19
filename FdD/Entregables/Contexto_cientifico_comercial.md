@@ -106,9 +106,9 @@ El sensor de dióxido de carbono IOT-S300CO2 destaca por su capacidad para detec
 
 ## LISTA DE REQUERIMIENTOS
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="1200" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapas.png" width="1200" style="margin: auto;"></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mapas.png" width="1200" style="margin: auto;"></p>
 
 ## BIBLIOGRAFÍA
 
