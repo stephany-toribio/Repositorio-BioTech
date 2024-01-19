@@ -18,7 +18,7 @@ Describe el diseño e implementación de un sistema de monitoreo ambiental basad
 
 <p align="center"><strong>Figura 2: Topología de la propuesta</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/topologia.png" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/topologia.png" width="900" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479</p>
 
@@ -30,12 +30,12 @@ El artículo aborda la relación entre el cambio climático y la salud humana, d
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 3: Relación entre temperatura ambiental y riesgo relativo (RR) de mortalidad cardiovascular.</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/co2.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738</p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 4: Eventuales consecuencias del cambio climático sobre la severidad e incidencia de enfermedades infecciosas. </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/perdida.png" alt="">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
         <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738 (Adaptado de: Dennis S, Fisher D. Climate Change and Infectious Diseases: The Next 50 Years. Annals Academy of Medicine 2018; 47 (10): 402-4.)</p>
         </td>      
 </table>
@@ -44,7 +44,7 @@ El artículo aborda la relación entre el cambio climático y la salud humana, d
 
 ### PATENTES
 
-- PATENTE DE INVENCIÓN
+### -  PATENTE DE INVENCIÓN
 
 <p align="center"><strong>S2639539T3 - Sistema de muestreo de aire de múltiples puntos que tiene sensores comunes para proporcionar información de parámetros de calidad de aire mezclada para monitoreo y control de construcción</strong></p>
 
@@ -54,7 +54,7 @@ Se describe un sistema de muestreo de aire de múltiples puntos 	que utiliza sen
 
 El sistema de telemedición de calidad del aire consiste en una red de dispositivos compactos equipados con sensores para medir parámetros ambientales como monóxido de carbono (CO), dióxido de nitrógeno (NO2) y ozono (O3), entre otros. Estos dispositivos, llamados "dispositivos finales", transmiten la información de los sensores a un servidor web para su visualización en tiempo real a través de una red inalámbrica ZigBee. Esta tecnología permite conocer el estado de salud ambiental en municipios o puntos interurbanos en tiempo real a través de mapas con niveles cuantitativos o cualitativos asociados a vías.
 
-- PATENTE DE UTILIDAD
+### - PATENTE DE UTILIDAD
 
 <p align="center"><strong>US9182751 - CARBON DIOXIDE MONITORING </strong></p>
 
