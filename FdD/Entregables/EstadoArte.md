@@ -3,6 +3,7 @@
 ### ARTÍCULO 1: Sensors for indoor air quality monitoring and assessment through Internet of Things: a systematic review
 
 La revisión sistemática aborda la preocupación por la contaminación del aire, tanto en espacios cerrados como abiertos. En respuesta a esto, se han desarrollado sensores de bajo costo para monitorear la contaminación del aire en interiores utilizando tecnologías de Internet de las Cosas (IoT).
+hola prueba
 
 Se realizó una evaluación cualitativa y cuantitativa de estos sensores económicos, revelando que de los 71 sensores estudiados, el 70% se utilizó para evaluar el confort térmico en interiores, mientras que el 65% y el 30% incorporaron sensores de CO2 y CO, respectivamente. Además, el 45.7% de los sensores analizados costaba menos de $20 en plataformas en línea, pero el 77.5% no proporcionaba detalles de calibración y el 39.4% carecía de especificaciones de precisión. El estudio resalta las limitaciones en términos de precisión, rango nominal y tiempo de respuesta de los sensores, recalcando la necesidad de una mayor investigación para superar estos desafíos en el diseño e implementación de sistemas de monitoreo en tiempo real. Asi como también, información relevante sobre las opciones disponibles para los sensores de calidad del aire en interiores, sus parámetros asociados, especificaciones técnicas, análisis de costos y requisitos de calibración, para guiar a los futuros investigadores en la selección de sensores apropiados.
 
