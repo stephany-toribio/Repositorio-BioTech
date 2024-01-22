@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://seeklogo.com/images/U/u-cayetano-heredia-logo-CA435ADF8C-seeklogo.com.png" width="200">
-  <h1 align="center">Manejo de Protoboard: Circuitos útiles/h1>
+  <h1 align="center">Manejo de Protoboard: Circuitos útiles</h1>
 </p>
 
 ## Ejercicios: 
