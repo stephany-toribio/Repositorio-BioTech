@@ -10,14 +10,20 @@
 En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivalentes a 100kΩ cada una. Se observa que las resistencias R1 y R2 están dispuestas en serie, mientras que la resistencia R3 se encuentra en paralelo con ambas. En primer lugar, calculamos la resistencia total sumando R1 (100kΩ) y R2 (100kΩ), obteniendo 200kΩ. Luego, sumamos este resultado con la inversa de R3, dando como resultado final 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 3). El dispositivo arrojó un resultado aproximado a 66,7kΩ (Figura 2), corroborando así nuestras estimaciones.
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <div style="margin: 10px;">
-    <p><strong>Figura 1: </strong></p>
-    <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="350" height="300">
+  <div style="position: relative; margin: 10px;">
+    <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="350" height="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; flex-direction: column; justify-content: space-between; color: white; text-align: center;">
+      <p style="background: rgba(0, 0, 0, 0.5); padding: 10px;"><strong>Figura 1</strong></p>
+      <p style="background: rgba(0, 0, 0, 0.5); padding: 10px;">Fuente</p>
+    </div>
   </div>
-  
-  <div style="margin: 10px;">
-    <p><strong>Figura 2: </strong></p>
-    <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="350" height="300">
+
+  <div style="position: relative; margin: 10px;">
+    <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="350" height="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; flex-direction: column; justify-content: space-between; color: white; text-align: center;">
+      <p style="background: rgba(0, 0, 0, 0.5); padding: 10px;"><strong>Figura 2</strong></p>
+      <p style="background: rgba(0, 0, 0, 0.5); padding: 10px;">Fuente</p>
+    </div>
   </div>
 </div>
 
