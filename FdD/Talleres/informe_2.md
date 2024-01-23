@@ -22,28 +22,28 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 1: </strong></p>
+        <p align="center"><strong>Figura 1: Gráfico proporcionado de la guía</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 1. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato".</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 2: </strong></p>
+        <p align="center"><strong>Figura 2: Resultado experimental del multimetro</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="300">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 2. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>
 </table>
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 3: </strong></p>
+        <p align="center"><strong>Figura 3: Circuito en el protoboard</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="370" height="380"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 4: </strong></p>
+        <p align="center"><strong>Figura 4: Diagrama y resolución del ejercicio</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="400" height="400">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 4. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>
 </table>
 
@@ -54,28 +54,28 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 5: </strong></p>
+        <p align="center"><strong>Figura 5: Gráfico proporcionado de la guía</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="370" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 5. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato".</p>
         </td>  
         <td style="border: 0px">
-        <p align="center"><strong>Figura 6: </strong></p>
+        <p align="center"><strong>Figura 6: Resultado experimental del multimetro</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="350" height="320">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 6. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>      
 </table>
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 7: </strong></p>
+        <p align="center"><strong>Figura 7: Circuito en el protoboard</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis2.jpg" width="380" height="350"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 7. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 8: </strong></p>
+        <p align="center"><strong>Figura 8: Diagrama y resolución del ejercicio</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="420" height="400">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 8. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>
 </table>
 
@@ -86,28 +86,28 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 9: </strong></p>
+        <p align="center"><strong>Figura 9: Gráfico proporcionado de la guía</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="380" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 9. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón".</p>
         </td>  
         <td style="border: 0px">
-        <p align="center"><strong>Figura 10: </strong></p>
+        <p align="center"><strong>Figura 10: Resultado experimental del multimetro</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="400" height="380">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 10. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
         </td>      
 </table>
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 11: </strong></p>
+        <p align="center"><strong>Figura 11: Circuito en el protoboard</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="400" height="350"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 11. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 12: </strong></p>
+        <p align="center"><strong>Figura 12: Diagrama y resolución del ejercicio</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag3.jpg" width="440" height="370"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 12. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
         </td>
 </table>
 
@@ -117,23 +117,23 @@ En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo 
 
 En este ejercicio, se llevó a cabo la implementación de resistencias con el objetivo de obtener una salida de 1.1V a partir de una entrada de 5V. Se empleó el "Circuito Divisor de Tensión", basado en la Ley de Ohm, para calcular el voltaje de salida reducido. El procedimiento teórico se desarrolló de la siguiente manera (Figura 13):
 
-<p align="center"><strong>Figura 13: </strong></p>
+<p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="400" height="400"></p>
-<p align="center" class="note text-center note-white">FUENTE: </p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
 
-Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 14), confirmando la precisión del cálculo y la validez del diseño del circuito (Figura 15).
+Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito (Figura 14) en el protoboard para verificar nuestros cálculos con un multímetro (Figura 15), confirmando la precisión del cálculo y la validez del diseño del circuito.
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 14: </strong></p>
+        <p align="center"><strong>Figura 14: Circuito en el protoboard</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis4.jpg" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 14. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
         </td>
         <td style="border: 0px"> 
-        <p align="center"><strong>Figura 15: </strong></p>
+        <p align="center"><strong>Figura 15: Resultado experimental del multimetro</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 15. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
         </td>
 </table>
 
