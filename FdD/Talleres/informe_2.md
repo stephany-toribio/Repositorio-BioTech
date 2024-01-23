@@ -23,12 +23,12 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 1: Gráfico proporcionado de la guía</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="360" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="370" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 1. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato".</p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 2: Resultado experimental del multimetro</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="320">
         <p align="center" class="note text-center note-white">FUENTE: Figura 2. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>
 </table>
@@ -42,7 +42,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: Diagrama y resolución del ejercicio</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="400" height="400">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="420" height="400">
         <p align="center" class="note text-center note-white">FUENTE: Figura 4. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
         </td>
 </table>
