@@ -13,12 +13,12 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 1: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="340" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="340" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 2: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="340" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="340" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -27,12 +27,12 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 3: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="200" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="340" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="400" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="340" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
