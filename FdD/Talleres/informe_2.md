@@ -18,6 +18,32 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
   <p class="note text-center note-white">FUENTE: </p>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+        <p><strong>Figura 1: </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="350">
+        <p class="note text-center note-white">FUENTE: </p>
+    </div>
+    <div>
+        <p><strong>Figura 2: </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="350">
+        <p class="note text-center note-white">FUENTE: </p>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+        <p><strong>Figura 1: </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="300" height="200">
+        <p class="note text-center note-white">FUENTE: </p>
+    </div>
+    <div>
+        <p><strong>Figura 2: </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="300" height="200">
+        <p class="note text-center note-white">FUENTE: </p>
+    </div>
+</div>
+
 <table>
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
