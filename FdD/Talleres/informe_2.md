@@ -69,7 +69,7 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
 
 ### Ejercicio 3
 
-En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias equivalentes a 100kΩ cada una. En primer lugar, determinamos la resistencia total mediante la suma de las resistencias en serie, considerando las combinaciones de (R1 con R3), (R5 con R6) y (R2 con R4). Luego, sumamos las inversas de cada resultado en serie, obteniendo una resistencia total de 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 11), que arrojó un resultado de 66,67kΩ (Figura 10).
+En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias equivalentes a 100kΩ cada una. En primer lugar, determinamos la resistencia total mediante la suma de las resistencias en serie, considerando las combinaciones de (R1 con R3), (R5 con R6) y (R2 con R4). Luego, sumamos las inversas de cada resultado en serie, obteniendo una resistencia total de 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 11), que arrojó un resultado de 67,00kΩ (Figura 10).
 
 <table>
     <tr>   
