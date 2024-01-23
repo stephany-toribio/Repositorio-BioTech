@@ -143,6 +143,19 @@ El "Circuito Divisor de Tensión" se define como un arreglo de resistencias que 
 
 En el ejercicio de reducción de señal, al operar con una fuente de 5V y aplicar la ley de Ohm para calcular la resistencia óptima para el LED, se obtiene un resultado de 300 Ω. Este cálculo se basa en la relación entre la tensión de la fuente, la caída de tensión a través del LED y la corriente que se desea pasar a través del LED.
 
+Al momento de incorporar las resistencias, nos encontramos con la limitación de no disponer de una resistencia con el valor exacto necesario para nuestro circuito. En consecuencia, optamos por utilizar tres resistencias de 220 Ω cada una. La estrategia consistió en conectar dos resistencias en serie y una en paralelo, como se ilustra en la imagen adjunta.
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="360" height="300"></p>
+
+
+
+
+Sin embargo, al realizar los cálculos, se obtuvo un valor total de 330 Ω, superando ligeramente el requisito de 300 Ω necesario para el funcionamiento adecuado del LED. Este resultado nos lleva a replantear la configuración de resistencias o a considerar la adquisición de resistencias con valores más precisos para cumplir con las especificaciones del circuito.
+
+
+
+
+
 ### Ejercicios desarrollados en Tinkercad
 
 <table>
