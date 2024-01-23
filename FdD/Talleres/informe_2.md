@@ -143,42 +143,23 @@ El "Circuito Divisor de Tensión" se define como un arreglo de resistencias que 
 
 En el ejercicio de reducción de señal, al operar con una fuente de 5V y aplicar la ley de Ohm para calcular la resistencia óptima para el LED, se obtiene un resultado de 300 Ω. Este cálculo se basa en la relación entre la tensión de la fuente, la caída de tensión a través del LED y la corriente que se desea pasar a través del LED.
 
-<table>
-    <tr>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 16: Divisor de tensión con potenciómetro en el ejercicio 1</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 18. Ejercicio de diseño titulado "Ejercicios Nivel Pollito - Gato" elaborado en Tinkercad. Captura de pantalla propia.</p>
-        </td>  
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 17: Divisor de tensión con potenciómetro en el ejercicio 2</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="360" height="300">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 19. Ejercicio de diseño titulado "Ejercicios Nivel Pollito - Gato" elaborado en Tinkercad. Captura de pantalla propia.</p>
-        </td>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 20: Divisor de tensión con potenciómetro en el ejercicio 3</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="360" height="300">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 20. Ejercicio de diseño titulado "Ejercicios Nivel Dragón" elaborado en Tinkercad. Captura de pantalla propia.</p>
-        </td>      
-</table>
-
 ### Ejercicios desarrollados en Tinkercad
 
 <table>
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 18: Divisor de tensión con potenciómetro en el ejercicio 1</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="360" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink1.jpg" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 18. Ejercicio de diseño titulado "Ejercicios Nivel Pollito - Gato" elaborado en Tinkercad. Captura de pantalla propia.</p>
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 19: Divisor de tensión con potenciómetro en el ejercicio 2</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="360" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink2.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 19. Ejercicio de diseño titulado "Ejercicios Nivel Pollito - Gato" elaborado en Tinkercad. Captura de pantalla propia.</p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 20: Divisor de tensión con potenciómetro en el ejercicio 3</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="360" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink3.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 20. Ejercicio de diseño titulado "Ejercicios Nivel Dragón" elaborado en Tinkercad. Captura de pantalla propia.</p>
         </td>      
 </table>
