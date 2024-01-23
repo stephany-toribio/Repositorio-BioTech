@@ -13,12 +13,12 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 1: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 2: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="400" style="margin: auto;">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
@@ -27,7 +27,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 3: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
 </table>
@@ -40,12 +40,12 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 4: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 5: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="600" style="margin: auto;">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
@@ -54,7 +54,7 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 6: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
 </table>
@@ -67,24 +67,19 @@ En base al gráfico proporcionado (Figura 7). Se optó por utilizar resistencias
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 7: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 8: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="600" style="margin: auto;">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
 
-<table>
-    <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 9: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="600" style="margin: auto;"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
-        </td>   
-</table>
+<p align="center"><strong>Figura 9: </strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="400" style="margin: auto;"></p>
+<p align="center" class="note text-center note-white">FUENTE: </p>
 
 ### Ejercicio 4
 
@@ -99,7 +94,7 @@ En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo 
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 11: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="600" style="margin: auto;">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
@@ -108,12 +103,12 @@ En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo 
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 12: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="400" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
 </table>
 
-### Ejercicio 4
+### Ejercicio 5
 
 etc
 
