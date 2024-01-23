@@ -28,7 +28,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 2: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="340" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -37,12 +37,12 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 3: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="340" height="400"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="370" height="380"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="360" height="400">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="400" height="400">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -55,12 +55,12 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 5: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="360" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="370" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 6: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="360" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="350" height="320">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
@@ -69,12 +69,12 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 7: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis2.jpg" width="360" height="350"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis2.jpg" width="380" height="350"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 8: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="360" height="400">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="420" height="400">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -87,12 +87,12 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 9: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="360" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="380" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 10: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="400" height="400">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="400" height="380">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
@@ -106,7 +106,7 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 12: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag3.jpg" width="400" height="350"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag3.jpg" width="440" height="370"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -118,7 +118,7 @@ En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo 
 En este ejercicio, se llevó a cabo la implementación de resistencias con el objetivo de obtener una salida de 1.1V a partir de una entrada de 5V. Se empleó el "Circuito Divisor de Tensión", basado en la Ley de Ohm, para calcular el voltaje de salida reducido. El procedimiento teórico se desarrolló de la siguiente manera (Figura 13):
 
 <p align="center"><strong>Figura 13: </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="400" height="350"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="400" height="400"></p>
 <p align="center" class="note text-center note-white">FUENTE: </p>
 
 Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 14), confirmando la precisión del cálculo y la validez del diseño del circuito (Figura 15).
