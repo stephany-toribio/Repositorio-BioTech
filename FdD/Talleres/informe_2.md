@@ -118,7 +118,7 @@ En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo 
 En este ejercicio, se llevó a cabo la implementación de resistencias con el objetivo de obtener una salida de 1.1V a partir de una entrada de 5V. Se empleó el "Circuito Divisor de Tensión", basado en la Ley de Ohm, para calcular el voltaje de salida reducido. El procedimiento teórico se desarrolló de la siguiente manera (Figura 13):
 
 <p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="400" height="400"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="600" height="500"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
 
 Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito (Figura 14) en el protoboard para verificar nuestros cálculos con un multímetro (Figura 15), confirmando la precisión del cálculo y la validez del diseño del circuito.
