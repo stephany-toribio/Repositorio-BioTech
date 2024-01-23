@@ -10,8 +10,8 @@
 En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivalentes a 100kΩ cada una. Se observa que las resistencias R1 y R2 están dispuestas en serie, mientras que la resistencia R3 se encuentra en paralelo con ambas. En primer lugar, calculamos la resistencia total sumando R1 (100kΩ) y R2 (100kΩ), obteniendo 200kΩ. Luego, sumamos este resultado con la inversa de R3, dando como resultado final 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 3). El dispositivo arrojó un resultado aproximado a 66,7kΩ (Figura 2), corroborando así nuestras estimaciones.
 
 <div align="center">
-  <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="350px" style="margin-right: 20px;" />
-  <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="350px" />
+  <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="350px" height="200">
+  <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="350px" height="200">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
