@@ -27,7 +27,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 3: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/tree/main/Imagenes" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
 </table>
