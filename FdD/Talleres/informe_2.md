@@ -81,14 +81,14 @@ En base al gráfico proporcionado (Figura 7). Se optó por utilizar resistencias
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 9: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
 </table>
 
 ### Ejercicio 4
 
-etc
+En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo aplicando de la ley de Ohm para calcular la resistencia que se de adecue al led, finalizando las operaciones se puede apreciar que el resultado de dicha operación es de 300 Ω. pasamos a la parte experimental como se puede observar en la siguiente imagen:
 
 <table>
     <tr>   
