@@ -12,12 +12,12 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
 <div style="text-align: center;">
     <div style="display: inline-block; margin-right: 20px;">
         <p><strong>Figura 1: </strong></p>
-        <p><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="400"></p>
+        <p><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="350"></p>
         <p class="note text-center note-white">FUENTE: </p>
     </div>
     <div style="display: inline-block;">
         <p><strong>Figura 2: </strong></p>
-        <p><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="300"></p>
+        <p><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="350"></p>
         <p class="note text-center note-white">FUENTE: </p>
     </div>
 </div>
