@@ -9,19 +9,19 @@
 
 En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivalentes a 100kΩ cada una. Se observa que las resistencias R1 y R2 están dispuestas en serie, mientras que la resistencia R3 se encuentra en paralelo con ambas. En primer lugar, calculamos la resistencia total sumando R1 (100kΩ) y R2 (100kΩ), obteniendo 200kΩ. Luego, sumamos este resultado con la inversa de R3, dando como resultado final 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 3). El dispositivo arrojó un resultado aproximado a 66,7kΩ (Figura 2), corroborando así nuestras estimaciones.
 
-<table>
-    <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 1: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="400" style="margin: auto;"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
-        </td>  
-        <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 2: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="500" style="margin: auto;">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
-        </td>      
-</table>
+<div style="text-align: center;">
+    <div style="display: inline-block; margin-right: 20px;">
+        <p><strong>Figura 1: </strong></p>
+        <p><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="400"></p>
+        <p class="note text-center note-white">FUENTE: </p>
+    </div>
+    <div style="display: inline-block;">
+        <p><strong>Figura 2: </strong></p>
+        <p><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="300"></p>
+        <p class="note text-center note-white">FUENTE: </p>
+    </div>
+</div>
+
 
 <table>
     <tr>   
