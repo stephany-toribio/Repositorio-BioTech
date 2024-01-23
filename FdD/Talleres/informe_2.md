@@ -3,7 +3,18 @@
   <h1 align="center">Práctica 1: Manejo de Protoboard</h1>
 </p>
 
-## Ejercicios: 
+## Introducción
+
+El protoboard es una herramienta esencial en electrónica con características clave que lo hacen valioso para la creación y prueba de circuitos. Permite una interconexión eficiente de componentes electrónicos de manera rápida y sin requerir conexiones permanentes, brindando una plataforma versátil para el desarrollo de circuitos.
+
+Su importancia radica en su capacidad para agilizar el proceso de diseño y prueba de circuitos electrónicos y un prototipado rapido. 
+
+## Materiales
+
+Kit de electrónica básica (Arduino UNO, luz led, cables, resistencias, protoboard)
+multimetro
+
+## Implementación y desarrollo de los ejercicios: 
 
 ### Ejercicio 1
 
@@ -13,7 +24,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 1: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="340" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
         <td style="border: 0px">
@@ -32,7 +43,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="340" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -43,28 +54,28 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
 
 <table>
     <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
+        <td style="border: 0px">
         <p align="center"><strong>Figura 5: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="400" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 6: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="500" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
 
 <table>
     <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
+        <td style="border: 0px">
         <p align="center"><strong>Figura 7: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="200" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 8: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="300" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -75,28 +86,28 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
 
 <table>
     <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
+        <td style="border: 0px">
         <p align="center"><strong>Figura 9: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="400" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>  
-        <td style="border: 0px solid #ddd; padding: 8px;">
+        <td style="border: 0px">
         <p align="center"><strong>Figura 10: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="300" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>      
 </table>
 
 <table>
     <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
+        <td style="border: 0px">
         <p align="center"><strong>Figura 11: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="400" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
+        <td style="border: 0px">
         <p align="center"><strong>Figura 12: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="300" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag3.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: </p>
         </td>
 </table>
@@ -105,28 +116,23 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
 
 En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo aplicando de la ley de Ohm para calcular la resistencia que se de adecue al led, finalizando las operaciones se puede apreciar que el resultado de dicha operación es de 300 Ω. pasamos a la parte experimental como se puede observar en la siguiente imagen:
 
-<table>
-    <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 13: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
-        </td>  
-        <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 14: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="600" style="margin: auto;">
-        <p align="center" class="note text-center note-white">FUENTE: </p>
-        </td>      
-</table>
+En este ejercicio, se llevó a cabo la implementación de resistencias con el objetivo de obtener una salida de 1.1V a partir de una entrada de 5V. Se empleó el "Circuito Divisor de Tensión", basado en la Ley de Ohm, para calcular el voltaje de salida reducido. El procedimiento teórico se desarrolló de la siguiente manera (Figura 13):
 
-<table>
-    <tr>   
-        <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 15: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="400" style="margin: auto;"></p>
-        <p align="center" class="note text-center note-white">FUENTE: </p>
-        </td>   
-</table>
+<p align="center"><strong>Figura 13: </strong></p>
+<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="360" height="300">
+<p align="center" class="note text-center note-white">FUENTE: </p>
+
+Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 14), confirmando la precisión del cálculo y la validez del diseño del circuito (Figura 15).
+
+<p align="center"><strong>Figura 14: </strong></p>
+<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="360" height="300">
+<p align="center" class="note text-center note-white">FUENTE: </p>
+
+<p align="center"><strong>Figura 15: </strong></p>
+<img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="360" height="300">
+<p align="center" class="note text-center note-white">FUENTE: </p>
+
+El "Circuito Divisor de Tensión" se define como un arreglo de resistencias que divide un voltaje de entrada en una proporción específica. La relación con la Ley de Ohm se establece mediante la proporcionalidad del voltaje en un circuito divisor con la resistencia utilizada.
 
 ### Ejercicio 5
 
