@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://seeklogo.com/images/U/u-cayetano-heredia-logo-CA435ADF8C-seeklogo.com.png" width="200">
-  <h1 align="center">Práctica 1: Manejo de Protoboard</h1>
+  <h1 align="center">Explore IoT</h1>
 </p>
 
 ## Introducción
