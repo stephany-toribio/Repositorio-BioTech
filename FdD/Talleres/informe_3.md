@@ -178,6 +178,6 @@ Sin embargo, al realizar los cálculos, se obtuvo un valor total de 330 Ω, supe
 </table>
 
 
-## Introducción
+## Resultados
 
 ## Conclusiones
