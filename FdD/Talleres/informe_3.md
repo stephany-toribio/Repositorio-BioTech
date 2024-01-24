@@ -11,9 +11,9 @@ Su importancia radica en su capacidad para agilizar el proceso de diseño y prue
 
 ## Materiales
 
-Kit de electrónica básica (Arduino UNO, luz led, cables, resistencias, protoboard) y un multimetro
+Explore IoT Kit (Arduino MKR WiFi 1010, MKR IoT Carrier)
 
-## Implementación y desarrollo de los ejercicios: 
+## Actividades 
 
 ### Actividad 1: Conoce el Kit
 
