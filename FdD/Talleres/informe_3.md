@@ -15,7 +15,7 @@ Kit de electrónica básica (Arduino UNO, luz led, cables, resistencias, protobo
 
 ## Implementación y desarrollo de los ejercicios: 
 
-### Ejercicio 1
+### Ejercicio 1: Conoce el Kit
 
 En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivalentes a 100kΩ cada una. Se observa que las resistencias R1 y R2 están dispuestas en serie, mientras que la resistencia R3 se encuentra en paralelo con ambas. En primer lugar, calculamos la resistencia total sumando R1 (100kΩ) y R2 (100kΩ), obteniendo 200kΩ. Luego, sumamos este resultado con la inversa de R3, dando como resultado final 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 3). El dispositivo arrojó un resultado aproximado a 66,7kΩ (Figura 2), corroborando así nuestras estimaciones.
 
@@ -47,7 +47,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
         </td>
 </table>
 
-### Ejercicio 2
+### Ejercicio 2: Visualizando datos en el Cloud
 
 En este ejercicio, contamos con un circuito que posee 5 resistencias como referencia (Figura 5). Se optó por utilizar 5 resistencias equivalentes de 100kΩ cada una. Primero, sumamos R1 y R2 en serie, y luego sumamos la inversa de este resultado con la inversa de las resistencias R3 y R4. La inversa de esta suma, junto con la inversa de R5, nos da una resistencia total de 40kΩ. Como observación, R5 se considera como un cable, ya que se conecta en los mismos nodos que las resistencias en paralelo R4 y R3, sin afectar la resistencia total. Este resultado fue corroborado mediante un multímetro, que marcó aproximadamente 40,01kΩ.  Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 7). El dispositivo arrojó un resultado  a 40,01kΩ (Figura 6), corroborando así nuestras estimaciones.
 
