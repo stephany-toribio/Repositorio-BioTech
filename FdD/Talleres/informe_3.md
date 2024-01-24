@@ -176,3 +176,5 @@ Sin embargo, al realizar los cálculos, se obtuvo un valor total de 330 Ω, supe
         <p align="center" class="note text-center note-white">FUENTE: Figura 20. Ejercicio de diseño titulado "Ejercicios Nivel Dragón" elaborado en Tinkercad. Captura de pantalla propia.</p>
         </td>      
 </table>
+
+### Conclusiones
