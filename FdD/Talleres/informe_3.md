@@ -15,7 +15,7 @@ Kit de electrónica básica (Arduino UNO, luz led, cables, resistencias, protobo
 
 ## Implementación y desarrollo de los ejercicios: 
 
-### Ejercicio 1: Conoce el Kit
+### Actividad 1: Conoce el Kit
 
 En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivalentes a 100kΩ cada una. Se observa que las resistencias R1 y R2 están dispuestas en serie, mientras que la resistencia R3 se encuentra en paralelo con ambas. En primer lugar, calculamos la resistencia total sumando R1 (100kΩ) y R2 (100kΩ), obteniendo 200kΩ. Luego, sumamos este resultado con la inversa de R3, dando como resultado final 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 3). El dispositivo arrojó un resultado aproximado a 66,7kΩ (Figura 2), corroborando así nuestras estimaciones.
 
@@ -47,7 +47,7 @@ En base al gráfico proporcionado (Figura 1), se eligieron resistencias equivale
         </td>
 </table>
 
-### Ejercicio 2: Visualizando datos en el Cloud
+### Actividad 2: Visualizando datos en el Cloud
 
 En este ejercicio, contamos con un circuito que posee 5 resistencias como referencia (Figura 5). Se optó por utilizar 5 resistencias equivalentes de 100kΩ cada una. Primero, sumamos R1 y R2 en serie, y luego sumamos la inversa de este resultado con la inversa de las resistencias R3 y R4. La inversa de esta suma, junto con la inversa de R5, nos da una resistencia total de 40kΩ. Como observación, R5 se considera como un cable, ya que se conecta en los mismos nodos que las resistencias en paralelo R4 y R3, sin afectar la resistencia total. Este resultado fue corroborado mediante un multímetro, que marcó aproximadamente 40,01kΩ.  Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 7). El dispositivo arrojó un resultado  a 40,01kΩ (Figura 6), corroborando así nuestras estimaciones.
 
@@ -79,7 +79,7 @@ En este ejercicio, contamos con un circuito que posee 5 resistencias como refere
         </td>
 </table>
 
-### Ejercicio 3
+### Actividad 3
 
 En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias equivalentes a 100kΩ cada una. En primer lugar, determinamos la resistencia total mediante la suma de las resistencias en serie, considerando las combinaciones de (R1 con R3), (R5 con R6) y (R2 con R4). Luego, sumamos las inversas de cada resultado en serie, obteniendo una resistencia total de 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 11), que arrojó un resultado de 66,67kΩ (Figura 10).
 
@@ -111,7 +111,7 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
         </td>
 </table>
 
-### Ejercicio 4
+### Actividad 4
 
 En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo aplicando de la ley de Ohm para calcular la resistencia que se de adecue al led, finalizando las operaciones se puede apreciar que el resultado de dicha operación es de 300 Ω. pasamos a la parte experimental como se puede observar en la siguiente imagen:
 
@@ -139,7 +139,7 @@ Se despejo de la relación entre las resistencias para el estimado correspondien
 
 El "Circuito Divisor de Tensión" se define como un arreglo de resistencias que divide un voltaje de entrada en una proporción específica. La relación con la Ley de Ohm se establece mediante la proporcionalidad del voltaje en un circuito divisor con la resistencia utilizada.
 
-### Ejercicio 5
+### Actividad 5: Sensor de proximidad
 
 En el ejercicio de reducción de señal, al operar con una fuente de 5V y aplicar la ley de Ohm para calcular la resistencia óptima para el LED, se obtiene un resultado de 300 Ω. Este cálculo se basa en la relación entre la tensión de la fuente, la caída de tensión a través del LED y la corriente que se desea pasar a través del LED.
 
