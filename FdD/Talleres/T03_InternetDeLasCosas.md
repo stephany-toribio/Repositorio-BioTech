@@ -262,6 +262,8 @@ El objetivo principal fue desarrollar un código que permitiera al sensor detect
 
 Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debido a las restricciones de tiempo que enfrentamos. A continuación se presenta el código desarrollado y sus funcionalidades:
 
+**Video de desempeño disponible en:** https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4
+
 <table>
     <tr>   
         <td style="border: 0px">
@@ -273,6 +275,73 @@ Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debid
         <p align="center"><strong>Figura 10: Resultado experimental del multimetro</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="400" height="380">
         <p align="center" class="note text-center note-white">FUENTE: Figura 10. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
+        </td>      
+
+<p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="600" height="500"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
+
+### Actividad 4 
+
+Finalmente, incorporamos una extensión al código que posibilita el cambio de color de los LEDs RGB en función de la temperatura ambiente. En situaciones de frío, los LEDs se iluminarán en tonalidades azules; mientras que en entornos cálidos, adoptarán tonos rojos.
+
+<p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4" width="600" height="500"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
+
+Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito (Figura 14) en el protoboard para verificar nuestros cálculos con un multímetro (Figura 15), confirmando la precisión del cálculo y la validez del diseño del circuito.
+
+<table>
+    <tr>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 14: Circuito en el protoboard</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis4.jpg" width="360" height="300"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 14. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
+        </td>
+        <td style="border: 0px"> 
+        <p align="center"><strong>Figura 15: Resultado experimental del multimetro</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="360" height="300"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 15. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
+        </td>
+</table>
+
+El "Circuito Divisor de Tensión" se define como un arreglo de resistencias que divide un voltaje de entrada en una proporción específica. La relación con la Ley de Ohm se establece mediante la proporcionalidad del voltaje en un circuito divisor con la resistencia utilizada.
+
+### Actividad 5
+
+En el ejercicio de reducción de señal, al operar con una fuente de 5V y aplicar la ley de Ohm para calcular la resistencia óptima para el LED, se obtiene un resultado de 300 Ω. Este cálculo se basa en la relación entre la tensión de la fuente, la caída de tensión a través del LED y la corriente que se desea pasar a través del LED.
+
+Al momento de incorporar las resistencias, nos encontramos con la limitación de no disponer de una resistencia con el valor exacto necesario para nuestro circuito. En consecuencia, optamos por utilizar tres resistencias de 220 Ω cada una. La estrategia consistió en conectar dos resistencias en serie y una en paralelo, como se ilustra en la imagen adjunta.
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="360" height="300"></p>
+
+
+
+
+Sin embargo, al realizar los cálculos, se obtuvo un valor total de 330 Ω, superando ligeramente el requisito de 300 Ω necesario para el funcionamiento adecuado del LED. Este resultado nos lleva a replantear la configuración de resistencias o a considerar la adquisición de resistencias con valores más precisos para cumplir con las especificaciones del circuito.
+
+
+
+
+
+### Ejercicios desarrollados en Tinkercad
+
+<table>
+    <tr>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 18: Divisor de tensión con potenciómetro en el ejercicio 1</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink1.jpg" width="360" height="300"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 18. Ejercicio de diseño titulado "Ejercicios Nivel Pollito - Gato" elaborado en Tinkercad. Captura de pantalla propia.</p>
+        </td>  
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 19: Divisor de tensión con potenciómetro en el ejercicio 2</strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink2.jpg" width="360" height="300">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 19. Ejercicio de diseño titulado "Ejercicios Nivel Pollito - Gato" elaborado en Tinkercad. Captura de pantalla propia.</p>
+        </td>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 20: Divisor de tensión con potenciómetro en el ejercicio 3</strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink3.jpg" width="360" height="300">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 20. Ejercicio de diseño titulado "Ejercicios Nivel Dragón" elaborado en Tinkercad. Captura de pantalla propia.</p>
         </td>      
 </table>
 
