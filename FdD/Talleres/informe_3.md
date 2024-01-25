@@ -11,7 +11,11 @@ Su importancia radica en su capacidad para agilizar el proceso de diseño y prue
 
 ## Materiales
 
-Explore IoT Kit (Arduino MKR WiFi 1010, MKR IoT Carrier)
+Explore IoT Kit 
+  - Arduino MKR WiFi 1010
+  - MKR IoT Carrier
+  - Micro USB cable
+  - Sensor de movimiento PIR + cable
 
 ## Actividades 
 
@@ -111,7 +115,7 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
         </td>
 </table>
 
-### Actividad 4
+### Actividad 4: Sensor de proximidad
 
 En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo aplicando de la ley de Ohm para calcular la resistencia que se de adecue al led, finalizando las operaciones se puede apreciar que el resultado de dicha operación es de 300 Ω. pasamos a la parte experimental como se puede observar en la siguiente imagen:
 
@@ -139,7 +143,7 @@ Se despejo de la relación entre las resistencias para el estimado correspondien
 
 El "Circuito Divisor de Tensión" se define como un arreglo de resistencias que divide un voltaje de entrada en una proporción específica. La relación con la Ley de Ohm se establece mediante la proporcionalidad del voltaje en un circuito divisor con la resistencia utilizada.
 
-### Actividad 5: Sensor de proximidad
+### Actividad 5
 
 En el ejercicio de reducción de señal, al operar con una fuente de 5V y aplicar la ley de Ohm para calcular la resistencia óptima para el LED, se obtiene un resultado de 300 Ω. Este cálculo se basa en la relación entre la tensión de la fuente, la caída de tensión a través del LED y la corriente que se desea pasar a través del LED.
 
