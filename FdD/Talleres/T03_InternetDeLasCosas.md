@@ -51,6 +51,78 @@ Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguie
 
 bla bla bla 
 
+```cpp 
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+float temperature = 0;
+float humidity = 0;
+ 
+void setup() {
+  Serial.begin(9600);
+  //Wait to open the Serial monitor to start the program and see details on errors
+  
+ 
+  //Set if it has the Enclosure mounted
+  CARRIER_CASE = false;
+  //Initialize the IoTSK carrier and output any errors in the serial monitor
+  carrier.begin();
+}
+
+void loop() {
+  // read the sensor values
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+ 
+  //Update touch buttons
+  carrier.Buttons.update();
+ 
+  // print each of the sensor values
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" Â°C");
+ 
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+ 
+  //function to print out values
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+}
+
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+ 
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(2); //medium sized text
+ 
+  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+
 <table>
     <tr>   
         <td style="border: 0px">
