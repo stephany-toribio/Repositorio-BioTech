@@ -178,7 +178,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 5: Evidencias del desempeño de la Actividad 1.</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink3.jpg" width="360" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/desemp1.jpeg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 5. propia.</p>
         </td>      
 </table>
