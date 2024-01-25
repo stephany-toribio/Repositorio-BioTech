@@ -43,7 +43,7 @@ Explore IoT Kit
 Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación *(Figura 2)*. Este paso es fundamental para asegurar que todas las funcionalidades de la MKR IoT Carrier puedan ser aprovechadas. 
 
 <p align="center"><strong>Figura 2: Ensamblado de componentes</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="400" height="400"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="450" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 ## Actividades 
@@ -123,7 +123,7 @@ void printHumidity() {
   carrier.display.println(" %");
 }
 ```
-Realizamos una modificación en el comando "CARRIER_CASE = false" a "CARRIER_CASE = true", ya que estábamos utilizando la MKR IoT Carrier dentro de la caja de plástico.
+Realizamos una modificación en la variable `CARRIER_CASE` = false a `CARRIER_CASE` = true, debido a que estábamos utilizando la MKR IoT Carrier dentro de la caja de plástico.
 
 ```cpp 
 void setup() {
