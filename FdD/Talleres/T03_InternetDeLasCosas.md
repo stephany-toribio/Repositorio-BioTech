@@ -12,10 +12,10 @@
 - Mg. Moises Stevend Meza Rodriguez
 
 <strong>Integrantes:</strong>
-- Mishel 
-- John
+- Mishell Camila Maravi Melgar
+- John Jairo Rodriguez Aguirre
 - Stephany Marilyn Toribio Alvarado
-- Stefano 
+- Stefano Jesús Ortega Herencia
 
 ## Introducción
 
