@@ -274,21 +274,9 @@ Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debid
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="400" height="380">
         <p align="center" class="note text-center note-white">FUENTE: Figura 10. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
         </td>      
-</table>
-
-<table>
-    <tr>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 11: Circuito en el protoboard</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_corazon.jpeg" width="400" height="350"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 11. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
-        </td>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 12: Diagrama y resolución del ejercicio</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag3.jpg" width="440" height="370"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 12. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
-        </td>
-</table>
+<p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="600" height="500"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
 
 ### Actividad 4 
 
