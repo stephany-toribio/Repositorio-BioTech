@@ -22,7 +22,7 @@
 El internet de las cosas, en la era digital actual, ha consolidado su posición como una revolución tecnológica que redefine la interconexión de dispositivos en nuestra vida cotidiana. Este concepto implica la interconexión de objetos físicos a través de la red, permitiéndoles compartir información y llevar a cabo tareas de manera autónoma; desde la integración de electrodomésticos inteligentes hasta la implementación de sensores avanzados, el IoT ha impregnado varios aspectos de nuestra realidad, forjando un panorama digital en constante evolución.
 
 <p align="center"><strong>Figura 1: Explore IoT</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/IoT-2.jpg" width="300" height="700"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/IoT-2.jpg" width="700" height="300"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 1. </p>
 
 ## Importancia del  IoT
