@@ -453,6 +453,11 @@ void activateAlarm()
 
 ## Conclusiones
 
+En conclusión, los experimentos realizados con el kit Explore IoT demostraron como estas tecnologías se encuentran realmente en nuestra vida diaria.
+
+Los problemas técnicos que enfrentamos al escribir el código subrayan lo importante que es ser flexible y resolver problemas cuando trabajamos en proyectos de Internet de las Cosas, pues es crucial tener habilidades prácticas y técnicas para superar este tipo de obstáculos.
+
+La conexión entre el sensor de movimiento PIR y los LEDs que cambian de color resalta lo interesante y atractivo que puede ser el Internet de las Cosasy como estos pueden ayudarnos a crear soluciones más complejas y personalizadas que mejoren nuestra experiencia diaria.
 
 
 ## Bibliografía
