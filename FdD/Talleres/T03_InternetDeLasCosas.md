@@ -173,7 +173,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: Visualización de la humedad del laboratorio.</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink2.jpg" width="360" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/humed.png" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 4. propia</p>
         </td>   
         <td style="border: 0px">
@@ -457,4 +457,4 @@ void activateAlarm()
 
 - Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS?. Dynamo IoT https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/
 
-- Explore IoT kit (2024). Lección. Internet de las cosas. Explore IoT Kit. https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
+Explore IoT kit (2024). Lección. Internet de las cosas. Explore IoT Kit. https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
