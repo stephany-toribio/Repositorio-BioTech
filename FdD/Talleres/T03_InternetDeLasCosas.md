@@ -27,7 +27,8 @@ El internet de las cosas, en la era digital actual, ha consolidado su posición 
 
 ## Importancia del  IoT
 
-La importancia del Internet de las Cosas (IoT) radica en su capacidad para transformar la manera en que interactuamos con el entorno y cómo las máquinas se comunican entre sí para recopilar, analizar y actuar sobre la información que generan.
+La importancia del Internet de las Cosas (IoT) radica en su capacidad para transformar nuestra interacción con el entorno y la comunicación entre máquinas, las cuales la recopilan, análizan y actúann en base a la información que generan. 
+Esto se refleja en la mejora de la eficiencia y optimización de procesos industriales, la creación de hogares inteligentes que simplifican la vida diaria, la promoción de la sostenibilidad mediante la reducción de costos operativos, y el avance hacia una atención médica más personalizada. El IoT no solo impacta la industria y el hogar, sino que también transforma sectores completos, desde la fabricación hasta la agricultura, y contribuye a la evolución de ciudades inteligentes mediante la monitorización en tiempo real.
 
 ## Materiales
 
