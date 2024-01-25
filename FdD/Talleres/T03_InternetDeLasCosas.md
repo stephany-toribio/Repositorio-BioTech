@@ -157,52 +157,98 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 3: Visualización de la temperatura del laboratorio</strong></p>
+        <p align="center"><strong>Figura 3: Visualización de la temperatura del laboratorio.</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink1.jpg" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 3. propia.</p>
         </td>  
         <td style="border: 0px">
-        <p align="center"><strong>Figura 4: Visualización de la humedad del laboratorio</strong></p>
+        <p align="center"><strong>Figura 4: Visualización de la humedad del laboratorio.</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink2.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 4. propia</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 5: Evidencias del desempeño de la Actividad 1</strong></p>
+        <p align="center"><strong>Figura 5: Evidencias del desempeño de la Actividad 1.</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink3.jpg" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 5. propia.</p>
         </td>      
 </table>
 
-### Actividad 2: Sensor de Temperatura + LED RGB
+### Actividad 2: Desafio - Conversión de la temperatura registrada por el sensor al sistema de unidades Kelvin y Fahrenheit.
 
-bla bla 
+---------Lo explicas----
+
+Las variables `temperatureFh` y `temperatureKv` se han creado para almacenar la temperatura en grados Fahrenheit y Kelvin, respectivamente. Estas variables se utilizarán para mantener los resultados de las conversiones de temperatura a diferentes escalas y permitir la visualización de la temperatura en distintas unidades.
+
+```cpp
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+float temperature = 0;
+float temperatureFh = 0
+float temperatureKv = 0
+```
+
+En este fragmento de código, se registra la temperatura actual en grados Celsius en la variable `temperature`, y se almacenan las conversiones a grados Fahrenheit y Kelvin en las variables `temperatureFh` y `temperatureKv`, respectivamente. Además, se actualiza el estado de los botones táctiles para detectar interacciones del usuario. Se verifica si el botón táctil `TOUCH0` ha sido presionado para mostrar información detallada sobre la temperatura en diversas unidades.
+
+```cpp
+void loop() {
+  temperature = carrier.Env.readTemperature();
+  temperatureFh = carrier.Env.readTemperatureFh();
+  temperatureKv = carrier.Env.readTemperatureKv();
+
+  carrier.Buttons.update();
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+    printTemperatureFh();
+    printTemperatureKv();
+  }
+}
+```
+En estas funciones, se realiza la conversión de la temperatura en grados Celsius almacenada en la variable `temperature` a grados Fahrenheit (`temperatureFh`) y Kelvin (`temperatureKv`). Luego, se actualiza la pantalla para mostrar las temperaturas convertidas en grados Fahrenheit y Kelvin, respectivamente. Se destaca la interacción con el botón táctil `TOUCH0`.
+
+```cpp
+void printTemperatureFh() {
+  temperatureFh = (9/5) * temperature + 32;
+  carrier.display.fillScreen(ST77XX_RED); 
+  carrier.display.setTextColor(ST77XX_WHITE); 
+  carrier.display.setTextSize(6); 
+ 
+  carrier.display.setCursor(30, 50); 
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); 
+  carrier.display.setCursor(40, 120); 
+  carrier.display.print(temperatureFh);
+  carrier.display.print(" °F");
+}
+
+void printTemperatureKv() {
+  temperatureKv = temperature + 273.15;
+  carrier.display.fillScreen(ST77XX_RED); 
+  carrier.display.setTextColor(ST77XX_WHITE); 
+  carrier.display.setTextSize(6); 
+ 
+  carrier.display.setCursor(30, 50); 
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); 
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperatureKv);
+  carrier.display.print(" °K");
+}
+```
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 5: Gráfico proporcionado de la guía</strong></p>
+        <p align="center"><strong>Figura 6: Temperatura en grados Fahrenheit del laboratorio</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="370" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 5. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato".</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 6. Elaboración propia</p>
         </td>  
         <td style="border: 0px">
-        <p align="center"><strong>Figura 6: Resultado experimental del multimetro</strong></p>
+        <p align="center"><strong>Figura 7: Temperatura en grados Kelvin del laboratorio</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="350" height="320">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 6. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 7. Elaboración propia.</p>
         </td>      
-</table>
-
-<table>
-    <tr>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 7: Circuito en el protoboard</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis2.jpg" width="380" height="350"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 7. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
-        </td>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 8: Diagrama y resolución del ejercicio</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag2.jpg" width="420" height="400">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 8. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
-        </td>
 </table>
 
 ### Actividad 3: Sensor PIR
