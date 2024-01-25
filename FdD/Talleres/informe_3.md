@@ -16,6 +16,10 @@ Explore IoT Kit
   - Micro USB cable
   - Sensor de movimiento PIR + cable
 
+## Ensamblado
+
+Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra en la Figura 1.
+
 ## Actividades 
 
 ### Actividad 1: Conoce el Kit
