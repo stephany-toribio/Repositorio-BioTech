@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://seeklogo.com/images/U/u-cayetano-heredia-logo-CA435ADF8C-seeklogo.com.png" width="200">
+  <img src="https://seeklogo.com/images/U/u-cayetano-heredia-logo-CA435ADF8C-seeklogo.com.png" width="300">
   <h1 align="center">Explore IoT</h1>
 </p>
 
-<p><strong>Docentes:</strong></p>
+<strong>Docentes:</strong>
 - Mg Umbert Lewis De La Cruz
 - Mg. Paulo Camilo Vela Antón 
 - Dr. Harry Anderson Rivera Tito  
@@ -11,13 +11,11 @@
 - Ing. Juan Manuel Zuñiga Mamani 
 - Mg. Moises Stevend Meza Rodriguez
 
-<p><strong>Integrantes:</strong></p>
+<strong>Integrantes:</strong>
 - Mishel 
 - John
 - Stephany Marilyn Toribio Alvarado
 - Stefano 
-</p>
-
 
 ## Introducción
 
