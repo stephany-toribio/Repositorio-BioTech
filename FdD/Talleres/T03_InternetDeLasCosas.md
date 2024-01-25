@@ -168,7 +168,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 3: Visualización de la temperatura del laboratorio.</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink1.jpg" width="360" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.jpeg" width="360" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 3. propia.</p>
         </td>  
         <td style="border: 0px">
