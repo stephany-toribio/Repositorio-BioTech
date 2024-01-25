@@ -23,11 +23,12 @@ El internet de las cosas, en la era digital actual, ha consolidado su posición 
 
 <p align="center"><strong>Figura 1: Internet de las cosas (IoT)</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/IoT-2.jpg" width="700" height="300"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 1. Dynamo IOT (s.f) La tecnología IoT reemplazará el sistema de rastreo GPS? https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/ </p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 1. Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS? https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/ </p>
 
 ## Importancia del  IoT
 
-La importancia del Internet de las Cosas (IoT) radica en su capacidad para transformar la manera en que interactuamos con el entorno y cómo las máquinas se comunican entre sí para recopilar, analizar y actuar sobre la información que generan.
+La importancia del Internet de las Cosas (IoT) radica en su capacidad para transformar nuestra interacción con el entorno y la comunicación entre máquinas, las cuales la recopilan, análizan y actúann en base a la información que generan. 
+Esto se refleja en la mejora de la eficiencia y optimización de procesos industriales, la creación de hogares inteligentes que simplifican la vida diaria, la promoción de la sostenibilidad mediante la reducción de costos operativos, y el avance hacia una atención médica más personalizada. El IoT no solo impacta la industria y el hogar, sino que también transforma sectores completos, desde la fabricación hasta la agricultura, y contribuye a la evolución de ciudades inteligentes mediante la monitorización en tiempo real.
 
 ## Materiales
 
@@ -285,3 +286,10 @@ Sin embargo, al realizar los cálculos, se obtuvo un valor total de 330 Ω, supe
 ## Resultados
 
 ## Conclusiones
+
+## Bibliografía
+
+Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS?. Dynamo IoT https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/
+
+Explore IoT kit (2024). Lección. Internet de las cosas. Explore IoT Kit. https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
+
