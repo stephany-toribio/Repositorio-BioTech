@@ -185,7 +185,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
 
 ### Actividad 2: Desafio - Conversión de la temperatura registrada por el sensor al sistema de unidades Kelvin y Fahrenheit.
 
----------Lo explicas----
+El desafío asignado consistió en la implementación de la temperatura registrada por el sensor a otro sistema de unidades (Kelvin y Fahrenheit). Este desafío se abordó mediante la extensión del código ya existente, incluyendo funciones específicas para realizar las conversiones necesarias, a continuación detallamos cada una de ellas:
 
 En este fragmento de código, registra la temperatura actual en grados Celsius en la variable `temperature`, y se almacenan las conversiones a grados Fahrenheit y Kelvin en las variables `temperatureFh` y `temperatureKv`, respectivamente. Además, se actualiza el estado de los botones táctiles para detectar interacciones del usuario y verifica si el botón táctil `TOUCH0`, `TOUCH1` o `TOUCH2` ha sido presionado para mostrar información detallada sobre la temperatura en diversas unidades.
 
@@ -257,7 +257,10 @@ void printTemperatureKv() {
 
 ### Actividad 3: Sensor PIR
 
-En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias equivalentes a 100kΩ cada una. En primer lugar, determinamos la resistencia total mediante la suma de las resistencias en serie, considerando las combinaciones de (R1 con R3), (R5 con R6) y (R2 con R4). Luego, sumamos las inversas de cada resultado en serie, obteniendo una resistencia total de 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 11), que arrojó un resultado de 66,67kΩ (Figura 10).
+Para esta tarea, se realizó la conexión del Sensor de Movimiento PIR a la placa de desarrollo. 
+El objetivo principal fue desarrollar un código que permitiera al sensor detectar la presencia de un cuerpo a una distancia específica. Cuando el sensor identificara la proximidad, se activaría un zumbador (buzzer) y se encenderían los LEDs de color rojo.
+
+Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debido a las restricciones de tiempo que enfrentamos. A continuación se presenta el código desarrollado y sus funcionalidades:
 
 <table>
     <tr>   
