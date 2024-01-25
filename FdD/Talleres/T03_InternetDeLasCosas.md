@@ -123,7 +123,7 @@ void printHumidity() {
   carrier.display.println(" %");
 }
 ```
-
+**Desafio:** convertir la temperatura de Celsius a otra escala (Fahrenheit o Kelvin).
 <table>
     <tr>   
         <td style="border: 0px">
