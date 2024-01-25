@@ -23,7 +23,7 @@ El internet de las cosas, en la era digital actual, ha consolidado su posición 
 
 <p align="center"><strong>Figura 1: Internet de las cosas (IoT)</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/IoT-2.jpg" width="700" height="300"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 1. Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS? https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/ </p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 1. Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS? https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/</p>
 
 ## Importancia del  IoT
 
@@ -312,26 +312,149 @@ void activateAlarm() {
 
 **Video de desempeño disponible en:** https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4
 
-<table>
-    <tr>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 9: Gráfico proporcionado de la guía</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer3.png" width="380" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 9. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón".</p>
-        </td>  
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 10: Resultado experimental del multimetro</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_3.jpg" width="400" height="380">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 10. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Ejercicio nivel dragón". Elaboración propia.</p>
-        </td>      
+## Código completo de las Actividades
 
-<p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="600" height="500"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
+```cpp
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+
+float temperature = 0;
+float humidity = 0;
+
+const int pirPin = A5;
+bool motionDetected = false;
+void setup()
+{
+    Serial.begin(9600);
+
+    CARRIER_CASE = true;
+    carrier.begin();
+    pinMode(pirPin, INPUT);
+}
+
+void loop()
+{
+    temperature = carrier.Env.readTemperature();
+    temperatureFh = carrier.Env.readTemperatureFh();
+    temperatureKv = carrier.Env.readTemperatureKv();
+    humidity = carrier.Env.readHumidity();
+
+    motionDetected = digitalRead(pirPin) == HIGH;
+    carrier.Buttons.update();
+
+    if (carrier.Buttons.onTouchDown(TOUCH0))
+    {
+        printTemperature();
+    }
+    if (carrier.Buttons.onTouchDown(TOUCH1))
+    {
+        printHumidity();
+    }
+    if (carrier.Buttons.onTouchDown(TOUCH2))
+    {
+        printTemperatureFh();
+        ;
+    }
+    if (carrier.Buttons.onTouchDown(TOUCH3))
+    {
+        printTemperatureKv();
+    }
+
+    if (motionDetected)
+    {
+        activateAlarm();
+    }
+
+    if (temperature > 30)
+    {
+        carrier.leds.setPixelColor(0, 255, 0, 0);
+        carrier.leds.setPixelColor(1, 255, 0, 0);
+        carrier.leds.setPixelColor(2, 255, 0, 0);
+        carrier.leds.setPixelColor(3, 255, 0, 0);
+        carrier.leds.setPixelColor(4, 255, 0, 0);
+    }
+    else
+    {
+        carrier.leds.setPixelColor(0, 0, 0, 255);
+        carrier.leds.setPixelColor(1, 0, 0, 255);
+        carrier.leds.setPixelColor(2, 0, 0, 255);
+        carrier.leds.setPixelColor(3, 0, 0, 255);
+        carrier.leds.setPixelColor(4, 0, 0, 255);
+    }
+    carrier.leds.show();
+}
+
+void printTemperature()
+{
+
+    carrier.display.fillScreen(ST77XX_RED);
+    carrier.display.setTextColor(ST77XX_WHITE);
+    carrier.display.setTextSize(6);
+
+    carrier.display.setCursor(30, 55);
+    carrier.display.print("Temp: ");
+    carrier.display.setTextSize(4);
+    carrier.display.setCursor(40, 120);
+    carrier.display.print(temperature);
+    carrier.display.print(" C");
+}
+
+void printTemperatureFh()
+{
+    temperatureFh = (9 / 5) * temperature + 32;
+    carrier.display.fillScreen(ST77XX_RED);
+    carrier.display.setTextColor(ST77XX_WHITE);
+    carrier.display.setTextSize(6);
+
+    carrier.display.setCursor(30, 50);
+    carrier.display.print("Temp: ");
+    carrier.display.setTextSize(4);
+    carrier.display.setCursor(40, 120);
+    carrier.display.print(temperatureFh);
+    carrier.display.print(" °F");
+}
+
+void printTemperatureKv()
+{
+    temperatureKv = temperature + 273.15;
+    carrier.display.fillScreen(ST77XX_RED);
+    carrier.display.setTextColor(ST77XX_WHITE);
+    carrier.display.setTextSize(6);
+
+    carrier.display.setCursor(30, 50);
+    carrier.display.print("Temp: ");
+    carrier.display.setTextSize(4);
+    carrier.display.setCursor(40, 120);
+    carrier.display.print(temperatureKv);
+    carrier.display.print(" °K");
+}
+void printHumidity()
+{
+
+    carrier.display.fillScreen(ST77XX_BLUE);
+    carrier.display.setTextColor(ST77XX_WHITE);
+    carrier.display.setTextSize(4);
+
+    carrier.display.setCursor(20, 110);
+    carrier.display.print("Humi: ");
+    carrier.display.print(humidity);
+    carrier.display.println(" %");
+}
+
+void activateAlarm()
+{
+    carrier.Buzzer.sound(500);
+    delay(500);
+    carrier.Buzzer.noSound();
+    delay(500);
+}
+
+```
+
 ## Conclusiones
 
 ## Bibliografía
 
-Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS?. Dynamo IoT https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/
+- Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS?. Dynamo IoT https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/
 
-Explore IoT kit (2024). Lección. Internet de las cosas. Explore IoT Kit. https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
+- Explore IoT kit (2024). Lección. Internet de las cosas. Explore IoT Kit. https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things

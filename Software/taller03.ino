@@ -1,3 +1,4 @@
+```cpp
 #include <Arduino_MKRIoTCarrier.h>
 MKRIoTCarrier carrier;
 
@@ -131,3 +132,5 @@ void activateAlarm()
     carrier.Buzzer.noSound();
     delay(500);
 }
+
+```
