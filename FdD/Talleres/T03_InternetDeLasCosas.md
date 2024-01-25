@@ -262,6 +262,8 @@ El objetivo principal fue desarrollar un código que permitiera al sensor detect
 
 Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debido a las restricciones de tiempo que enfrentamos. A continuación se presenta el código desarrollado y sus funcionalidades:
 
+**Video de desempeño disponible en:** https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4
+
 <table>
     <tr>   
         <td style="border: 0px">
@@ -283,8 +285,6 @@ Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debid
 En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo aplicando de la ley de Ohm para calcular la resistencia que se de adecue al led, finalizando las operaciones se puede apreciar que el resultado de dicha operación es de 300 Ω. pasamos a la parte experimental como se puede observar en la siguiente imagen:
 
 En este ejercicio, se llevó a cabo la implementación de resistencias con el objetivo de obtener una salida de 1.1V a partir de una entrada de 5V. Se empleó el "Circuito Divisor de Tensión", basado en la Ley de Ohm, para calcular el voltaje de salida reducido. El procedimiento teórico se desarrolló de la siguiente manera (Figura 13):
-
-**Video de desempeño disponible en:** https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4
 
 <p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4" width="600" height="500"></p>
