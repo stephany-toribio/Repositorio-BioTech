@@ -35,11 +35,23 @@ Explore IoT Kit
   - Micro USB cable
   - Sensor de movimiento PIR + cable
 
+## Ensamblado
+
+Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación (Figura 1):
+
+<p align="center"><strong>Figura 1: Diagrama y resolución del ejercicio</strong></p>
+<p align="center"><img src="(https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg)"width="600" height="500"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 1. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+
+
 ## Actividades 
 
 ### Actividad 1: Conoce el Kit
 
 
+  **DESAFÍO**
+
+  
 <table>
     <tr>   
         <td style="border: 0px">
@@ -68,7 +80,7 @@ Explore IoT Kit
         </td>
 </table>
 
-### Actividad 2: Visualizando datos en el Cloud
+### Actividad 2: Sensor de Temperatura + LED RGB
 
 bla bla 
 
@@ -100,7 +112,7 @@ bla bla
         </td>
 </table>
 
-### Actividad 3
+### Actividad 3: Sensor PIR
 
 En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias equivalentes a 100kΩ cada una. En primer lugar, determinamos la resistencia total mediante la suma de las resistencias en serie, considerando las combinaciones de (R1 con R3), (R5 con R6) y (R2 con R4). Luego, sumamos las inversas de cada resultado en serie, obteniendo una resistencia total de 66,67kΩ. Posteriormente, montamos el circuito en el protoboard para verificar nuestros cálculos con un multímetro (Figura 11), que arrojó un resultado de 66,67kΩ (Figura 10).
 
@@ -132,7 +144,7 @@ En base al gráfico proporcionado (Figura 9). Se optó por utilizar resistencias
         </td>
 </table>
 
-### Actividad 4: Sensor de proximidad
+### Actividad 4 
 
 En el siguiente ejercicio de reducción de señal trabajamos con 5V, así mismo aplicando de la ley de Ohm para calcular la resistencia que se de adecue al led, finalizando las operaciones se puede apreciar que el resultado de dicha operación es de 300 Ω. pasamos a la parte experimental como se puede observar en la siguiente imagen:
 
