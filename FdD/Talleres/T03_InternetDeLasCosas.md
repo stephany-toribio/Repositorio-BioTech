@@ -50,7 +50,7 @@ Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguie
 
 ### Actividad 1: Ejecutar el código para la lectura de temperatura y humedad de la sección "Conoce el Kit"
 
-bla bla bla 
+Las limitaciones que se presentaron al momento del uso fueron: incluir la bblioteca y que el valor de CARRIER_CASE debia ser True por que se esta usando la caja d eplastico (mas info en la teoria de explore)
 
 ```cpp 
 #include <Arduino_MKRIoTCarrier.h>
@@ -65,7 +65,7 @@ void setup() {
   
  
   //Set if it has the Enclosure mounted
-  CARRIER_CASE = false;
+  CARRIER_CASE = true;
   //Initialize the IoTSK carrier and output any errors in the serial monitor
   carrier.begin();
 }
@@ -123,33 +123,54 @@ void printHumidity() {
   carrier.display.println(" %");
 }
 ```
+Para una mejor visualizacion en el DISPLAY se hicieron como modificaciones el tamaño de la letra y la ubicación del cursor para el texto en las funciones printTemperature() y printHumidity().
+
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 55); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+ 
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(4); //medium sized text
+ 
+  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+El código modificado se ejecutó de manera satisfactoria. A continuación, se presenta el desempeño idóneo de la presente actividad, mostrando los valores de temperatura y humedad.
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 1: Gráfico proporcionado de la guía</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="370" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 1. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato".</p>
+        <p align="center"><strong>Figura 3: Visualización de la temperatura del laboratorio</strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink1.jpg" width="360" height="300"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. propia.</p>
+        </td>  
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 4: Visualización de la humedad del laboratorio</strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink2.jpg" width="360" height="300">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 4. propia</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 2: Resultado experimental del multimetro</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="320">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 2. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
-        </td>
-</table>
-
-<table>
-    <tr>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 3: Circuito en el protoboard</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="370" height="380"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
-        </td>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 4: Diagrama y resolución del ejercicio</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="420" height="400">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 4. Ejercicio de del curso de Fundamentos de Diseño 2024-0, "Ejercicios Nivel Pollito - Gato". Elaboración propia.</p>
-        </td>
+        <p align="center"><strong>Figura 5: Evidencias del desempeño de la Actividad 1</strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink3.jpg" width="360" height="300">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 5. propia.</p>
+        </td>      
 </table>
 
 ### Actividad 2: Sensor de Temperatura + LED RGB
