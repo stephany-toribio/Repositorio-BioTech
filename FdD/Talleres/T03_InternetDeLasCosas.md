@@ -47,12 +47,10 @@ Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguie
 
 ## Actividades 
 
-### Actividad 1: Conoce el Kit
+### Actividad 1: Ejecutar el código para la lectura de temperatura y humedad de la sección "Conoce el Kit"
 
+bla bla bla 
 
-  **DESAFÍO**
-
-  
 <table>
     <tr>   
         <td style="border: 0px">
