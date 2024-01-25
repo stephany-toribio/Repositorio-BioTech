@@ -258,9 +258,57 @@ void printTemperatureKv() {
 ### Actividad 3: Sensor PIR
 
 Para esta tarea, se realizó la conexión del Sensor de Movimiento PIR a la placa de desarrollo. 
-El objetivo principal fue desarrollar un código que permitiera al sensor detectar la presencia de un cuerpo a una distancia específica. Cuando el sensor identificara la proximidad, se activaría un zumbador (buzzer) y se encenderían los LEDs de color rojo.
+El objetivo principal fue desarrollar un código que permitiera al sensor detectar la presencia de un cuerpo a una distancia específica. Cuando el sensor identificara la proximidad, se activaría un zumbador (buzzer). Finalmente, incorporamos una extensión al código que posibilita el cambio de color de los LEDs RGB en función de la temperatura ambiente. En situaciones de frío, los LEDs se iluminarán en tonalidades azules; mientras que en entornos cálidos, adoptarán tonos rojos.
 
-Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debido a las restricciones de tiempo que enfrentamos. A continuación se presenta el código desarrollado y sus funcionalidades:
+El fragmento de código permite detectar la presencia de movimiento mediante el sensor PIR. La variable `motionDetected` se inicializa en `false` que se utilizará para almacenar el estado de detección de movimiento y `pirPin` como entrada para conectarse a un sensor de movimiento PIR. 
+
+```cpp
+const int pirPin = A5; 
+bool motionDetected = false;
+ 
+void setup() {
+  Serial.begin(9600);
+
+  CARRIER_CASE = true;
+  carrier.begin();
+  pinMode(pirPin, INPUT);
+}
+```
+
+Si se detecta movimiento (`motionDetected` es `true`), se activa un zumbador mediante la función `activateAlarm()`. Posteriormente, se verifica si la temperatura (`temperature`) supera los 30 grados Celsius, en cuyo caso, se iluminan los LEDs con un color rojo. Caso contrario, se iluminan de un color azul. 
+
+```cpp
+void loop() {if (motionDetected) {
+    activateAlarm();
+  }
+
+  if (temperature > 30) {
+    carrier.leds.setPixelColor(0, 255, 0, 0);
+    carrier.leds.setPixelColor(1, 255, 0, 0);
+    carrier.leds.setPixelColor(2, 255, 0, 0);
+    carrier.leds.setPixelColor(3, 255, 0, 0);
+    carrier.leds.setPixelColor(4, 255, 0, 0);
+  } else {
+    carrier.leds.setPixelColor(0, 0, 0, 255);
+    carrier.leds.setPixelColor(1, 0, 0, 255);
+    carrier.leds.setPixelColor(2, 0, 0, 255);
+    carrier.leds.setPixelColor(3, 0, 0, 255);
+    carrier.leds.setPixelColor(4, 0, 0, 255);
+  }
+    carrier.leds.show(); 
+}
+```
+
+La función `activateAlarm()` se encarga de activar el zumbador (buzzer). Para lograr esto, emite un sonido mediante `carrier.Buzzer.sound(500)`, espera 500 milisegundos con `delay(500)`, luego desactiva el sonido con `carrier.Buzzer.noSound()` y espera nuevamente 500 milisegundos antes de retornar. 
+
+```cpp
+void activateAlarm() {
+  carrier.Buzzer.sound(500);  
+  delay(500);
+  carrier.Buzzer.noSound();  
+  delay(500);
+}
+```
 
 **Video de desempeño disponible en:** https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4
 
@@ -280,33 +328,6 @@ Sin embargo, no pudimos cumplir con todos los requisitos de esta actividad debid
 <p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag4.jpg" width="600" height="500"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
-
-### Actividad 4 
-
-Finalmente, incorporamos una extensión al código que posibilita el cambio de color de los LEDs RGB en función de la temperatura ambiente. En situaciones de frío, los LEDs se iluminarán en tonalidades azules; mientras que en entornos cálidos, adoptarán tonos rojos.
-
-<p align="center"><strong>Figura 13: Diagrama y resolución del ejercicio</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/Buzzer.mp4" width="600" height="500"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 13. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
-
-Se despejo de la relación entre las resistencias para el estimado correspondiente y se asigno el valor de 100kΩ a la resistencia 1 (R2) para determinar la resistencia 2 (R2). El resultado de la resistencia 2 (R2) fue 28.2kΩ. Este resultado se validó experimentalmente montando el circuito (Figura 14) en el protoboard para verificar nuestros cálculos con un multímetro (Figura 15), confirmando la precisión del cálculo y la validez del diseño del circuito.
-
-<table>
-    <tr>   
-        <td style="border: 0px">
-        <p align="center"><strong>Figura 14: Circuito en el protoboard</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis4.jpg" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 14. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
-        </td>
-        <td style="border: 0px"> 
-        <p align="center"><strong>Figura 15: Resultado experimental del multimetro</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_4.jpg" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 15. Ejercicio del curso de Fundamentos de Diseño 2024-0, "Circuito Divisor de Tensión". Elaboración propia.</p>
-        </td>
-</table>
-
-## Resultados
-
 ## Conclusiones
 
 ## Bibliografía
@@ -314,4 +335,3 @@ Se despejo de la relación entre las resistencias para el estimado correspondien
 Dynamo IOT (2021) La tecnología IoT reemplazará el sistema de rastreo GPS?. Dynamo IoT https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/
 
 Explore IoT kit (2024). Lección. Internet de las cosas. Explore IoT Kit. https://explore-iot.arduino.cc/iotsk/module/iot-starter-kit/lesson/internet-of-things
-
