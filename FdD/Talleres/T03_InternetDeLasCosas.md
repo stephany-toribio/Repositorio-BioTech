@@ -50,7 +50,7 @@ Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguie
 
 ### Actividad 1: Ejecutar el código para la lectura de temperatura y humedad de la sección "Conoce el Kit"
 
-Las limitaciones que se presentaron al momento del uso fueron: incluir la bblioteca y que el valor de CARRIER_CASE debia ser True por que se esta usando la caja d eplastico (mas info en la teoria de explore)
+Para la actividad 1, en un principio, abrimos el Editor Online de Arduino, donde creamos un sketch para construir gradualmente el código que nos proporcionaría los datos de temperatura y humedad del sensor HTS221. Sin embargo, durante la ejecución del código, nos enfrentamos a inconvenientes técnicos al intentar incorporar la biblioteca necesaria.
 
 ```cpp 
 #include <Arduino_MKRIoTCarrier.h>
