@@ -123,6 +123,18 @@ void printHumidity() {
   carrier.display.println(" %");
 }
 ```
+Realizamos una modificación en el comando "CARRIER_CASE = false" a "CARRIER_CASE = true", ya que estábamos utilizando la MKR IoT Carrier dentro de la caja de plástico.
+
+```cpp 
+void setup() {
+  Serial.begin(9600);
+  
+  CARRIER_CASE = true;
+  carrier.begin();
+}
+```
+
+
 Para una mejor visualizacion en el DISPLAY se hicieron como modificaciones el tamaño de la letra y la ubicación del cursor para el texto en las funciones printTemperature() y printHumidity().
 
 ```cpp
