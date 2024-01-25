@@ -42,7 +42,7 @@ Explore IoT Kit
 Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación (Figura 1). Este paso es fundamental para asegurar que todas las funcionalidades de la MKR IoT Carrier puedan ser aprovechadas. 
 
 <p align="center"><strong>Figura 1: Ensamblado de componentes</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="500" height="400"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="400" height="400"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 1. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 ## Actividades 
