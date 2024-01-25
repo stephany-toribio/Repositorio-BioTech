@@ -43,7 +43,7 @@ Explore IoT Kit
 Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación *(Figura 2)*. Este paso es fundamental para asegurar que todas las funcionalidades de la MKR IoT Carrier puedan ser aprovechadas. 
 
 <p align="center"><strong>Figura 2: Ensamblado de componentes</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="350" height="300"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="400" height="400"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 ## Actividades 
@@ -51,8 +51,6 @@ Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguie
 ### Actividad 1: Ejecutar el código para la lectura de temperatura y humedad de la sección "Conoce el Kit"
 
 Para la actividad 1, en un principio, abrimos el Editor Online de Arduino, donde creamos un sketch para construir gradualmente el código que nos proporcionaría los datos de temperatura y humedad del sensor HTS221. Sin embargo, durante la ejecución del código, nos enfrentamos a inconvenientes técnicos al intentar incorporar la biblioteca necesaria, debido a esto, decidimos trabajar en el Software: Arduino IDE para poder cumplir con lo asignado.
-
-**Código para la lectura de temperatura y humedad:**
 
 ```cpp 
 #include <Arduino_MKRIoTCarrier.h>
