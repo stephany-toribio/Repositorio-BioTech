@@ -50,7 +50,7 @@ Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguie
 
 ### Actividad 1: Ejecutar el código para la lectura de temperatura y humedad de la sección "Conoce el Kit"
 
-Para la actividad 1, en un principio, abrimos el Editor Online de Arduino, donde creamos un sketch para construir gradualmente el código que nos proporcionaría los datos de temperatura y humedad del sensor HTS221. Sin embargo, durante la ejecución del código, nos enfrentamos a inconvenientes técnicos al intentar incorporar la biblioteca necesaria.
+Para la actividad 1, en un principio, abrimos el Editor Online de Arduino, donde creamos un sketch para construir gradualmente el código que nos proporcionaría los datos de temperatura y humedad del sensor HTS221. Sin embargo, durante la ejecución del código, nos enfrentamos a inconvenientes técnicos al intentar incorporar la biblioteca necesaria, debido a esto, decidimos trabajar en el Software: Arduino IDE para poder cumplir con lo asignado.
 
 ```cpp 
 #include <Arduino_MKRIoTCarrier.h>
