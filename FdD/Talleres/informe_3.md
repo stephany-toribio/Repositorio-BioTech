@@ -5,9 +5,8 @@
 
 ## Introducción
 
-El protoboard es una herramienta esencial en electrónica con características clave que lo hacen valioso para la creación y prueba de circuitos. Permite una interconexión eficiente de componentes electrónicos de manera rápida y sin requerir conexiones permanentes, brindando una plataforma versátil para el desarrollo de circuitos.
+El internet de las cosas, en la era digital actual, ha consolidado su posición como una revolución tecnológica que redefine la interconexión de dispositivos en nuestra vida cotidiana. Este concepto implica la interconexión de objetos físicos a través de la red, permitiéndoles compartir información y llevar a cabo tareas de manera autónoma; desde la integración de electrodomésticos inteligentes hasta la implementación de sensores avanzados, el IoT ha impregnado varios aspectos de nuestra realidad, forjando un panorama digital en constante evolución.
 
-Su importancia radica en su capacidad para agilizar el proceso de diseño y prueba de circuitos electrónicos y un prototipado rapido. 
 
 ## Materiales
 
