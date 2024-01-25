@@ -21,7 +21,7 @@ Explore IoT Kit
 Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación (Figura 1):
 
 <p align="center"><strong>Figura 1: Diagrama y resolución del ejercicio</strong></p>
-<p align="center"><img src="(https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg)" width="600" height="500"></p>
+<p align="center"><img src="(https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg)"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 1. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
