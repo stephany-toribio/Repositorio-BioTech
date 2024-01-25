@@ -187,7 +187,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
 
 ### Actividad 2: Desafio - Conversión de la temperatura registrada por el sensor al sistema de unidades Kelvin y Fahrenheit.
 
----------Lo explicas----
+El desafío asignado consistió en la implementación de la temperatura registrada por el sensor a otro sistema de unidades (Kelvin y Fahrenheit). Este desafío se abordó mediante la extensión del código ya existente, incluyendo funciones específicas para realizar las conversiones necesarias, a continuación detallamos cada una de ellas:
 
 Las variables `temperatureFh` y `temperatureKv` se han creado para almacenar la temperatura en grados Fahrenheit y Kelvin, respectivamente. Estas variables se utilizarán para mantener los resultados de las conversiones de temperatura a diferentes escalas y permitir la visualización de la temperatura en distintas unidades.
 
