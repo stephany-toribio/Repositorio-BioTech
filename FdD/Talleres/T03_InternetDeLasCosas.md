@@ -169,17 +169,17 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
         <td style="border: 0px">
         <p align="center"><strong>Figura 3: Visualización de la temperatura del laboratorio.</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.jpeg" width="360" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 3. propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Visualización de la temperatura del laboratorio - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: Visualización de la humedad del laboratorio.</strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/humed.png" width="360" height="300">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 4. propia</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Visualización de la humedad del laboratorio - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 5: Evidencias del desempeño de la Actividad 1.</strong></p>
+        <p align="center"><strong>Figura 5: </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/desemp1.jpeg" width="360" height="300">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 5. propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Desempeño de la Act1 - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>      
 </table>
 
@@ -245,13 +245,13 @@ void printTemperatureKv() {
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 6: Temperatura en grados Fahrenheit del laboratorio</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer2.png" width="370" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 6. Elaboración propia</p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/fh.png" width="370" height="300"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 6. Temperatura en grados Fahrenheit del laboratorio - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 7: Temperatura en grados Kelvin del laboratorio</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_2.jpg" width="350" height="320">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 7. Elaboración propia.</p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/kelvin.jpg" width="350" height="320">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 7. Temperatura en grados Kelvin del laboratorio - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>      
 </table>
 
@@ -452,6 +452,8 @@ void activateAlarm()
 ```
 
 ## Conclusiones
+
+
 
 ## Bibliografía
 
