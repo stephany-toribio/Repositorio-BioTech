@@ -12,10 +12,10 @@
 - Mg. Moises Stevend Meza Rodriguez
 
 <strong>Integrantes:</strong>
-- Mishel 
-- John
+- Mishell Camila Maravi Melgar
+- John Jairo Rodriguez Aguirre
 - Stephany Marilyn Toribio Alvarado
-- Stefano 
+- Stefano Jesús Ortega Herencia
 
 ## Introducción
 
@@ -23,7 +23,8 @@ El internet de las cosas, en la era digital actual, ha consolidado su posición 
 
 ## Importancia del  IoT
 
-bla bla bla 
+La importancia del Internet de las Cosas (IoT) radica en su capacidad para transformar la manera en que interactuamos con el entorno y cómo las máquinas se comunican entre sí.
+
 
 ## Materiales
 
