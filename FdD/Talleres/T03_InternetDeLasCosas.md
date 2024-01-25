@@ -23,7 +23,7 @@ El internet de las cosas, en la era digital actual, ha consolidado su posición 
 
 <p align="center"><strong>Figura 1: Explore IoT</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/IoT-2.jpg" width="700" height="300"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 1. </p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 1. Dynamo IOT (s.f) La tecnología IoT reemplazará el sistema de rastreo GPS? https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/ </p>
 
 ## Importancia del  IoT
 
