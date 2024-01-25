@@ -21,7 +21,7 @@
 
 El internet de las cosas, en la era digital actual, ha consolidado su posición como una revolución tecnológica que redefine la interconexión de dispositivos en nuestra vida cotidiana. Este concepto implica la interconexión de objetos físicos a través de la red, permitiéndoles compartir información y llevar a cabo tareas de manera autónoma; desde la integración de electrodomésticos inteligentes hasta la implementación de sensores avanzados, el IoT ha impregnado varios aspectos de nuestra realidad, forjando un panorama digital en constante evolución.
 
-<p align="center"><strong>Figura 1: Explore IoT</strong></p>
+<p align="center"><strong>Figura 2: Internet de las cosas (IoT)</strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/IoT-2.jpg" width="700" height="300"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 1. Dynamo IOT (s.f) La tecnología IoT reemplazará el sistema de rastreo GPS? https://dynamoiot.com/la-tecnologia-iot-reemplazara-el-sistema-de-rastreo-gps/ </p>
 
@@ -39,11 +39,11 @@ Explore IoT Kit
 
 ## Ensamblado
 
-Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación (Figura 1). Este paso es fundamental para asegurar que todas las funcionalidades de la MKR IoT Carrier puedan ser aprovechadas. 
+Inicialmente, llevamos a cabo el proceso de ensamblaje de los componentes siguiendo las instrucciones proporcionadas en los videos de la lección sobre Internet de las Cosas. El resultado obtenido se muestra a continuación *(Figura 2)*. Este paso es fundamental para asegurar que todas las funcionalidades de la MKR IoT Carrier puedan ser aprovechadas. 
 
-<p align="center"><strong>Figura 1: Ensamblado de componentes</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="400" height="400"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 1. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center"><strong>Figura 2: Ensamblado de componentes</strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="370" height="300"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 2. Ensamblado de componentes - Explore IoT (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 ## Actividades 
 
