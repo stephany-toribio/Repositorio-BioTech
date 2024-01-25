@@ -133,8 +133,6 @@ void setup() {
   carrier.begin();
 }
 ```
-
-
 Para una mejor visualizacion en el DISPLAY se hicieron como modificaciones el tamaño de la letra y la ubicación del cursor para el texto en las funciones printTemperature() y printHumidity().
 
 ```cpp
@@ -189,18 +187,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
 
 ---------Lo explicas----
 
-Las variables `temperatureFh` y `temperatureKv` se han creado para almacenar la temperatura en grados Fahrenheit y Kelvin, respectivamente. Estas variables se utilizarán para mantener los resultados de las conversiones de temperatura a diferentes escalas y permitir la visualización de la temperatura en distintas unidades.
-
-```cpp
-#include <Arduino_MKRIoTCarrier.h>
-MKRIoTCarrier carrier;
- 
-float temperature = 0;
-float temperatureFh = 0
-float temperatureKv = 0
-```
-
-En este fragmento de código, se registra la temperatura actual en grados Celsius en la variable `temperature`, y se almacenan las conversiones a grados Fahrenheit y Kelvin en las variables `temperatureFh` y `temperatureKv`, respectivamente. Además, se actualiza el estado de los botones táctiles para detectar interacciones del usuario. Se verifica si el botón táctil `TOUCH0` ha sido presionado para mostrar información detallada sobre la temperatura en diversas unidades.
+En este fragmento de código, registra la temperatura actual en grados Celsius en la variable `temperature`, y se almacenan las conversiones a grados Fahrenheit y Kelvin en las variables `temperatureFh` y `temperatureKv`, respectivamente. Además, se actualiza el estado de los botones táctiles para detectar interacciones del usuario y verifica si el botón táctil `TOUCH0`, `TOUCH1` o `TOUCH2` ha sido presionado para mostrar información detallada sobre la temperatura en diversas unidades.
 
 ```cpp
 void loop() {
@@ -212,11 +199,16 @@ void loop() {
  
   if (carrier.Buttons.onTouchDown(TOUCH0)) {
     printTemperature();
-    printTemperatureFh();
+    }
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperatureFh();;
+    }
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
     printTemperatureKv();
-  }
+    }
 }
 ```
+
 En estas funciones, se realiza la conversión de la temperatura en grados Celsius almacenada en la variable `temperature` a grados Fahrenheit (`temperatureFh`) y Kelvin (`temperatureKv`). Luego, se actualiza la pantalla para mostrar las temperaturas convertidas en grados Fahrenheit y Kelvin, respectivamente. Se destaca la interacción con el botón táctil `TOUCH0`.
 
 ```cpp
