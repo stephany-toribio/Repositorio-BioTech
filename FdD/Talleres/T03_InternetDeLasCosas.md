@@ -173,7 +173,7 @@ El código modificado se ejecutó de manera satisfactoria. A continuación, se p
         </td>  
         <td style="border: 0px">
         <p align="center"><strong>Figura 4: Visualización de la humedad del laboratorio.</strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/tink2.jpg" width="360" height="300">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/humed.png" width="360" height="300">
         <p align="center" class="note text-center note-white">FUENTE: Figura 4. propia</p>
         </td>   
         <td style="border: 0px">
