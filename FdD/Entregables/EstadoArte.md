@@ -31,12 +31,12 @@ El artículo aborda la importancia de las zonas verdes en entornos urbanos para 
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 3: Mapas de temperatura del aire - Campinas.</strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temper.jpg" width="600" style="margin: auto;"></p>
         <p align="center" class="note text-center note-white">FUENTE: Chaves, J. V. B., Mota, L. T. M., Ribeiro, A. Í., Longo, R. M., Barros, D. B., & Alves, J. R. (2022). Rede de Sensores para avaliação de variáveis meteorológicas em áreas verdes urbanas: Desenvolvimento e aplicações. Sociedade & Natureza, 34, e64675. https://doi.org/10.14393/SN-v34-2022-64675</p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
         <p align="center"><strong>Figura 4: Concentración de CO2 en el aire - Campinas. </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/box_co2.jpg" width="600" style="margin: auto;">
         <p align="center" class="note text-center note-white">FUENTE: Chaves, J. V. B., Mota, L. T. M., Ribeiro, A. Í., Longo, R. M., Barros, D. B., & Alves, J. R. (2022). Rede de Sensores para avaliação de variáveis meteorológicas em áreas verdes urbanas: Desenvolvimento e aplicações. Sociedade & Natureza, 34, e64675. https://doi.org/10.14393/SN-v34-2022-64675</p>
         </td>      
 </table>
