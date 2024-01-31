@@ -23,21 +23,21 @@ Describe el diseño e implementación de un sistema de monitoreo ambiental basad
 
 <p align="center" class="note text-center note-white">FUENTE: Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479</p>
 
-### ARTÍCULO 3: Impacto del cambio climático en la salud
+### ARTÍCULO 3: Rede de Sensores para avaliação de variáveis meteorológicas em áreas verdes urbanas: desenvolvimento e aplicações
 
-El artículo aborda la relación entre el cambio climático y la salud humana, destacando sus efectos en diferentes grupos de edad y específicamente en enfermedades respiratorias, cardiovasculares e infecciosas. Los gases de efecto invernadero, originados en actividades humanas, intensifican condiciones adversas como sequías y temperaturas elevadas, afectando de manera más pronunciada a asmáticos y personas mayores. Se evidencia un impacto en enfermedades cardiovasculares con una relación en forma de "V" entre temperatura y mortalidad cardiovascular durante olas de calor. En la edad pediátrica, los niños son particularmente vulnerables, exhibiendo mayor susceptibilidad a enfermedades, contaminantes y alergias con consecuencias a largo plazo. El aumento de enfermedades alérgicas y respiratorias en niños se atribuye a cambios en temperatura, polen y contaminación.
+El artículo aborda la importancia de las zonas verdes en entornos urbanos para mitigar los impactos negativos del desarrollo urbano insostenible en el clima y el confort ambiental. Propone el desarrollo de una red de sensores para evaluar variables meteorológicas en áreas verdes urbanas con el fin de analizar su influencia en la concentración de CO2, temperatura y humedad relativa. Los resultados del estudio destacan la contribución positiva de las áreas verdes, como las áreas de preservación permanente, en la reducción de la temperatura y la concentración de CO2, así como en el aumento de la humedad en ciertas áreas urbanas. Sin embargo, se observa que la influencia de estas áreas verdes puede variar dependiendo de la ubicación geográfica, con diferentes interacciones en la concentración de CO2.
 
 <table>
     <tr>   
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 3: Relación entre temperatura ambiental y riesgo relativo (RR) de mortalidad cardiovascular.</strong></p>
+        <p align="center"><strong>Figura 3: Mapas de temperatura del aire - Campinas.</strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/temp.png" width="600" style="margin: auto;"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738</p>
+        <p align="center" class="note text-center note-white">FUENTE: Chaves, J. V. B., Mota, L. T. M., Ribeiro, A. Í., Longo, R. M., Barros, D. B., & Alves, J. R. (2022). Rede de Sensores para avaliação de variáveis meteorológicas em áreas verdes urbanas: Desenvolvimento e aplicações. Sociedade & Natureza, 34, e64675. https://doi.org/10.14393/SN-v34-2022-64675</p>
         </td>  
         <td style="border: 0px solid #ddd; padding: 8px;">
-        <p align="center"><strong>Figura 4: Eventuales consecuencias del cambio climático sobre la severidad e incidencia de enfermedades infecciosas. </strong></p>
+        <p align="center"><strong>Figura 4: Concentración de CO2 en el aire - Campinas. </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cambioclimatico.png" width="600" style="margin: auto;">
-        <p align="center" class="note text-center note-white">FUENTE: Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738</p>
+        <p align="center" class="note text-center note-white">FUENTE: Chaves, J. V. B., Mota, L. T. M., Ribeiro, A. Í., Longo, R. M., Barros, D. B., & Alves, J. R. (2022). Rede de Sensores para avaliação de variáveis meteorológicas em áreas verdes urbanas: Desenvolvimento e aplicações. Sociedade & Natureza, 34, e64675. https://doi.org/10.14393/SN-v34-2022-64675</p>
         </td>      
 </table>
 
@@ -122,7 +122,7 @@ https://www.amazon.com/-/es/Awair-Element-Monitor-calidad-interior/dp/B082ZF4H37
 
 - Ortiz, D., Benítez, D. S., Fuertes, W., & Torres, J. (2018). On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks. 2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC), 1-6. https://doi.org/10.1109/ROPEC.2018.8661479
 
-- Oyarzún G., M., Lanas Z., F., Wolff R., M., Quezada L., A., Oyarzún G., M., Lanas Z., F., Wolff R., M., & Quezada L., A. (2021). Impacto del cambio climático en la salud. Revista médica de Chile, 149(5), 738-746. https://doi.org/10.4067/s0034-98872021000500738 
+- Chaves, J. V. B., Mota, L. T. M., Ribeiro, A. Í., Longo, R. M., Barros, D. B., & Alves, J. R. (2022). Rede de Sensores para avaliação de variáveis meteorológicas em áreas verdes urbanas: Desenvolvimento e aplicações. Sociedade & Natureza, 34, e64675. https://doi.org/10.14393/SN-v34-2022-64675 
 
 - Reeder, A. L. (2015). Carbon dioxide monitoring system and associated methods and devices (Patent No. US9182751). United States Patent. https://patents.google.com/patent/US9182751B1/en?q=(sensor+co2)&oq=sensor+co2 
 
