@@ -126,12 +126,12 @@ Al momento de imprimir nuestro modelado 3D ......
     <tr>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 17: </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="370" height="300"></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-03%20at%207.56.42%20AM.jpeg" width="370" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 16. </p>
         </td>   
         <td style="border: 0px">
         <p align="center"><strong>Figura 18: </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="320">
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-03%20at%207.56.42%20AM%20(1).jpeg" width="370" height="320">
         <p align="center" class="note text-center note-white">FUENTE: Figura 17. </p>
         </td>
 </table>
