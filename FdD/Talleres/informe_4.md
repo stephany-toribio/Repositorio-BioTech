@@ -37,7 +37,7 @@ En primer lugar, ingresamos a la plataforma Onshape, en la cual cada integrante 
 Para las dos primeras pruebas tuvimos la referencia de un vaso.
 
 <p align="center"><strong>Figura 1: Referencia de un vaso</strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/armado_arduino.jpeg" width="450" height="430"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso.jpg" width="450" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 1. Globo Yuli. (s. f.). Vaso Acrilico. Globos Yuli. Recuperado 2 de febrero de 2024, de http://globosyuli.com/descartables/vaso-acrilico-n12.html</p>
 
 ### Modelo 1: Construcción del cilindro
