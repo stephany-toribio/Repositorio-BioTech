@@ -44,23 +44,23 @@ Para las dos primeras pruebas tuvimos la referencia de un vaso.
 
 En este modelo, comenzamos dibujando un círculo con un diámetro de 80 mm en un sketch. Nos aseguramos de centrar la figura y luego aplicamos la herramienta "extruir" para convertir el círculo en un objeto tridimensional. Posteriormente, utilizamos la herramienta "shell" para crear un agujero en la figura, dando una apariencia algo similar al vaso, y finalmente aplicamos la función "fillet" para redondear el contorno exterior. A pesar de estos pasos, notamos que el cilindro resultante no se asemejaba al objeto al cual queríamos llegar.
 
-<p align="center"><strong>Figura 2: </strong></p>
+<p align="center"><strong>Figura 2: Herramienta "Center point circle" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo1.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 2. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 2. Onshape. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 3: </strong></p>
+<p align="center"><strong>Figura 3: Herramienta "Extrude" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo2.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 3. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 3. Onshape. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 4: </strong></p>
+<p align="center"><strong>Figura 4: Herramienta "Shell" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 4. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 4. Onshape. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 5: </strong></p>
+<p align="center"><strong>Figura 5: Herramienta "Fillet" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo4.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 5. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 5. Onshape. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 6: </strong></p>
+<p align="center"><strong>Figura 6: Herramienta "cambio de apariencia" y figura final </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo5.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 6. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
