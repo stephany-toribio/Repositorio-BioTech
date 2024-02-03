@@ -30,6 +30,6 @@ Este software es considerado una herramienta importante para el modelado 3D debi
 - Software Onshape 
 - Impresora 3D
 
-## Actividades 
+## Actividades
 
-### Actividad 1: Ejecutar el código para la lectura de temperatura y humedad de la sección "Conoce el Kit"
+### Actividad 1: 
