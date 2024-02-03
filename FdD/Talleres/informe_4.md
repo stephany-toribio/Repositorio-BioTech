@@ -42,7 +42,7 @@ Para las dos primeras pruebas tuvimos la referencia de un vaso.
 
 ### Modelo 1: Construcción del cilindro
 
-En este modelo, comenzamos dibujando un círculo con un diámetro de 80 mm en un sketch. Nos aseguramos de centrar la figura y luego aplicamos la herramienta "extruir" para convertir el círculo en un objeto tridimensional. Posteriormente, utilizamos la herramienta "shell" para crear un agujero en la figura, dando una apariencia algo similar al vaso, y finalmente aplicamos la función "fillet" para redondear el contorno exterior. A pesar de estos pasos, notamos que el cilindro resultante no se asemejaba al objeto al cual queríamos llegar.
+En este modelo, comenzamos dibujando un círculo con un diámetro de 80 mm en un sketch. Nos aseguramos de centrar la figura *(figura 2)* y luego aplicamos la herramienta "extruir" para convertir el círculo en un objeto tridimensional *(figura 3)*. Posteriormente, utilizamos la herramienta "shell" para crear un agujero en la figura, dando una apariencia algo similar al vaso *(figura 4)*, y finalmente aplicamos la función "fillet" para redondear el contorno exterior *(figura 5)*. A pesar de estos pasos, notamos que el cilindro resultante no se asemejaba al objeto al cual queríamos llegar.
 
 <p align="center"><strong>Figura 2: Herramienta "Center point circle" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo1.jpg" width="600" height="430"></p>
@@ -98,19 +98,19 @@ En el primer sketch, importamos una imagen del Arduino Uno como una plantilla de
 
 
 En el segundo sketch,  utilizamos la herramienta "line" para trazar la estructura del soporte siguiendo los patrones y contornos de la imagen importada. 
-<p align="center"><strong>Figura 13: </strong></p>
+<p align="center"><strong>Figura 13: Herramienta "Line" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act2.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 13. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
 Seguidamente, le dimos las dimensiones adecuadas para asegurarnos de que la estructura tenga las medidas correctas y se ajuste al diseño original de la estructura del Arduino.
-<p align="center"><strong>Figura 14: </strong></p>
+<p align="center"><strong>Figura 14: Dimensiones </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act6.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 14. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
 Luego, creamos un tercer sketch donde añadimos cuatro círculos con un diámetro de 3.2 mm. Estos círculos representan los orificios necesarios en la estructura para la fijación de componentes o tornillos. Los ubicamos estratégicamente según la disposición de los componentes en el Arduino.
-<p align="center"><strong>Figura 15: </strong></p>
+<p align="center"><strong>Figura 15: Sketch 3 </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 15. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
@@ -125,19 +125,18 @@ Al momento de imprimir nuestro modelado 3D, nos dimos cuenta de que el Arduino U
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 17: </strong></p>
+        <p align="center"><strong>Figura 17: Soporte del Arduino Uno </strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-03%20at%207.56.42%20AM.jpeg" width="370" height="300"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 16. </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 16. Impresión en Bambu Lab P1P. (Fundamentos de Diseño 2024-0).  </p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 18: </strong></p>
+        <p align="center"><strong>Figura 18: Estructura final y Arduino Uno </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-03%20at%207.56.42%20AM%20(1).jpeg" width="370" height="320">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 17. </p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 17. Impresión en Bambu Lab P1P. (Fundamentos de Diseño 2024-0). </p>
         </td>
 </table>
 
 ## Conclusión 
 
-En conclusiónn, al imprimir nuestro diseño 3D nos dimos cuenta de que el Arduino Uno no cabía porque hicimos la estructura exactamente del mismo tamaño que el dispositivo. Sin embargo, en el futuro, tendremos en cuenta dejar un poco más de espacio para evitar este problema y asegurarnos de que todo encaje correctamente.
-Lo realizado en el taller, nos servirá como una experiencia, para ya no comenter los mismos errores en el diseño de nuestro proyecto.
+En conclusión, en el laboratorio de modelado 3D, exploramos la tecnología prácticamente y comprendimos la importancia del diseño preciso para una impresión exitosa. Enfatizamos la configuración de la impresión y el modelado, utilizando la impresora Bambu Lab P1P, la más rápida disponible. Reconocimos que la impresión 3D va más allá de los prototipos rápidos, siendo una herramienta transformadora en diversos campos. A pesar de algunas dificultades con las medidas, aprendimos a corregirlas y a utilizar nuestros nuevos conocimientos para mejorar nuestro proyecto.
 
