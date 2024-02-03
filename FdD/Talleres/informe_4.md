@@ -120,7 +120,7 @@ Una vez completados los tres bosquejos y teniendo la estructura completa en 2D, 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act4.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 16. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-Al momento de imprimir nuestro modelado 3D ......
+Al momento de imprimir nuestro modelado 3D, nos dimos cuenta de que el Arduino Uno no encajaba en la estructura. Esto se debió a que creamos el modelo con las dimensiones exactas del dispositivo, sin considerar que debíamos hacerlo un poco más grande para que pudiera encajar adecuadamente.
 
 <table>
     <tr>   
@@ -137,4 +137,7 @@ Al momento de imprimir nuestro modelado 3D ......
 </table>
 
 ## Conclusión 
+
+En conclusiónn, al imprimir nuestro diseño 3D nos dimos cuenta de que el Arduino Uno no cabía porque hicimos la estructura exactamente del mismo tamaño que el dispositivo. Sin embargo, en el futuro, tendremos en cuenta dejar un poco más de espacio para evitar este problema y asegurarnos de que todo encaje correctamente.
+Lo realizado en el taller, nos servirá como una experiencia, para ya no comenter los mismos errores en el diseño de nuestro proyecto.
 
