@@ -68,15 +68,15 @@ En este modelo, comenzamos dibujando un círculo con un diámetro de 80 mm en un
 
 En el segundo modelo, buscamos mejorar los resultados del primero mediante el uso de distintas funciones. Para esto, primero creamos un sketch y empleamos la herramienta "line" para esbozar la mitad de la forma de un vaso, seguido de ello, asignamos medidas a cada lado, para el largo 100 mm, para el lado superior 40 mm, y para el inferior 25 mm. Luego, utilizando la función "revolution", logramos darle una forma tridimensional a la figura. Posteriormente, aplicamos la herramienta "shell" para crear un agujero en su interior y, al igual que en el modelo anterior, suavizamos los bordes con la función "fillet" para obtener un aspecto más parecido al de un vaso. Finalmente, modificamos el color para lograr un resultado más visualmente atractivo.
 
-<p align="center"><strong>Figura 7: </strong></p>
+<p align="center"><strong>Figura 7: Dimensiones </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso1.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 8. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 8: </strong></p>
+<p align="center"><strong>Figura 8: Herramienta "revolve" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso2.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 8. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Herramienta "Shell" Figura 8. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 9: </strong></p>
+<p align="center"><strong>Figura 9: Herramienta "Fillet" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 9. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
