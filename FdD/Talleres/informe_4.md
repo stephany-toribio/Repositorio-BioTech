@@ -89,27 +89,33 @@ En el segundo modelo, buscamos mejorar los resultados del primero mediante el us
 <p align="center" class="note text-center note-white">FUENTE: Figura 11. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 ### Actividad 3:
-En esta sección, seguimos un proceso en tres etapas para crear una estructura del Arduino, en el primer sketch, importamos una imagen del Arduino para utilizarla como plantilla. Esto nos proporcionó una guía visual para los siguientes pasos.
-En el segundo sketch, utilizando la herramienta "Line", creamos la estructura siguiendo los patrones de la imagen importada. Durante este proceso, incorporamos dimensiones adecuadas para asegurarnos de que la estructura tenga las medidas correctas y se ajuste al diseño original de la estructura del Arduino, posteriormente, creamos un tercer sketch donde añadimos cuatro círculos con un diámetro de 3.2 mm. Estos círculos representan los orificios necesarios en la estructura para la fijación de componentes o tornillos. Los ubicamos estratégicamente según la disposición de los componentes en el Arduino.
-Una vez completados los tres bosquejos y teniendo la estructura completa en 2D, procedimos a darle volumen utilizando herramientas de "extrude" para convertirla en una caja tridimensional. Posteriormente, hicimos un agujero en la parte superior de la estructura completando así el diseño de la estructura del Arduino.
+En esta sección, seguimos un proceso en tres etapas para crear una estructura de soprte para el Arduino Uno, para esta actividad se utilizaron las dimensiones exactas de esta placa.
 
-
-<p align="center"><strong>Figura 12: </strong></p>
+En el primer sketch, importamos una imagen del Arduino Uno como una plantilla de referencia. Esta imagen sirvió como guía visual para asegurarnos de seguir la disposición correcta de los componentes y detalles de la placa.
+<p align="center"><strong>Figura 12: Sketch 1. Estructura de Arduino Uno importada </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act1.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 12. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+
+En el segundo sketch,  utilizamos la herramienta "line" para trazar la estructura del soporte siguiendo los patrones y contornos de la imagen importada. 
 <p align="center"><strong>Figura 13: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act2.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 13. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+
+Seguidamente, le dimos las dimensiones adecuadas para asegurarnos de que la estructura tenga las medidas correctas y se ajuste al diseño original de la estructura del Arduino.
 <p align="center"><strong>Figura 14: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act6.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 14. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+
+Luego, creamos un tercer sketch donde añadimos cuatro círculos con un diámetro de 3.2 mm. Estos círculos representan los orificios necesarios en la estructura para la fijación de componentes o tornillos. Los ubicamos estratégicamente según la disposición de los componentes en el Arduino.
 <p align="center"><strong>Figura 15: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 15. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+
+Una vez completados los tres bosquejos y teniendo la estructura completa en 2D, procedimos a darle volumen utilizando la herramienta  "extrude" para convertirla en una caja tridimensional. Posteriormente, hicimos un agujero en la parte superior de la estructura completando así el diseño del soporte del Arduino.
 <p align="center"><strong>Figura 16: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act4.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 16. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
