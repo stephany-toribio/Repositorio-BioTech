@@ -106,5 +106,21 @@ En el segundo modelo, buscamos mejorar los resultados del primero mediante el us
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act4.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 15. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+Al momento de imprimir nuestro modelado 3D ......
+
+<table>
+    <tr>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 16: </strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="370" height="300"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 16. </p>
+        </td>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 17: </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="320">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 17. </p>
+        </td>
+</table>
+
 ## Conclusión 
 
