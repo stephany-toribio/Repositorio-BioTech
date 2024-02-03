@@ -103,24 +103,28 @@ Una vez completados los tres bosquejos y teniendo la estructura completa en 2D, 
 <p align="center" class="note text-center note-white">FUENTE: Figura 13. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 <p align="center"><strong>Figura 14: </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act3.jpg" width="600" height="430"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act6.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 14. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 <p align="center"><strong>Figura 15: </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act4.jpg" width="600" height="430"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 15. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+
+<p align="center"><strong>Figura 16: </strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act4.jpg" width="600" height="430"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 16. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 Al momento de imprimir nuestro modelado 3D ......
 
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 16: </strong></p>
+        <p align="center"><strong>Figura 17: </strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/ejer1.png" width="370" height="300"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 16. </p>
         </td>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 17: </strong></p>
+        <p align="center"><strong>Figura 18: </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/multimetro_1.jpg" width="370" height="320">
         <p align="center" class="note text-center note-white">FUENTE: Figura 17. </p>
         </td>
