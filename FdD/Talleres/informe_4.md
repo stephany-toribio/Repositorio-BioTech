@@ -33,3 +33,9 @@ Este software es considerado una herramienta importante para el modelado 3D debi
 ## Actividades
 
 ### Actividad 1: 
+En nuestro intento por modelar un objeto específico, seguimos una secuencia meticulosa de pasos. Primero, dibujamos un círculo de 80 mm de diámetro con precisión, asegurándonos de que esté centrado en el sketch. Luego, empleamos la herramienta "extruir" para transformar ese círculo en un objeto tridimensional, esperando capturar la forma deseada.
+
+Avanzamos con confianza hacia la creación de un agujero, utilizando la herramienta "shell" para darle al objeto una apariencia similar a la de un vaso. Sin embargo, al dar este paso, notamos que el resultado no correspondía completamente a nuestra visión original.
+
+Persistimos, aplicando la función "fillet" para suavizar los bordes exteriores del cilindro, con la esperanza de acercarnos más a nuestra meta. Aunque este esfuerzo nos brindó alguna mejora estética, a pesar de nuestros esfuerzos, notamos que seguía existiendo una diferencia notable entre nuestro modelo y el objeto deseado.
+
