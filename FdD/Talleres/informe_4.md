@@ -32,7 +32,7 @@ Este software es considerado una herramienta importante para el modelado 3D debi
 
 ## Desarrollo de actividades 
 
-En primer lugar, ingresamos a la plataforma Onshape, en la cual cada integrante creó un documento, donde realizamos los modelos 1 y 2 con la guía del profesor, estos sirvieron para explorar las funciones que tiene la plataforma y adquirir una base, para después hacer el modelo 3D. 
+En primer lugar, ingresamos a la plataforma Onshape, en la cual cada integrante creó un documento, donde realizamos los modelos 1 y 2 con la guía del profesor, estos sirvieron para explorar las funciones que tiene la plataforma y adquirir una base, para después realizar el modelo 3, que fue la actividad asignada por el profesor. 
 
 Para las dos primeras pruebas tuvimos la referencia de un vaso.
 
