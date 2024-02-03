@@ -88,7 +88,11 @@ En el segundo modelo, buscamos mejorar los resultados del primero mediante el us
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso5.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 11. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-### Actividad : 
+### Actividad 3:
+En esta sección, seguimos un proceso en tres etapas para crear una estructura del Arduino, en el primer sketch, importamos una imagen del Arduino para utilizarla como plantilla. Esto nos proporcionó una guía visual para los siguientes pasos.
+En el segundo sketch, utilizando la herramienta "Line", creamos la estructura siguiendo los patrones de la imagen importada. Durante este proceso, incorporamos dimensiones adecuadas para asegurarnos de que la estructura tenga las medidas correctas y se ajuste al diseño original de la estructura del Arduino, posteriormente, creamos un tercer sketch donde añadimos cuatro círculos con un diámetro de 3.2 mm. Estos círculos representan los orificios necesarios en la estructura para la fijación de componentes o tornillos. Los ubicamos estratégicamente según la disposición de los componentes en el Arduino.
+Una vez completados los tres bosquejos y teniendo la estructura completa en 2D, procedimos a darle volumen utilizando herramientas de "extrude" para convertirla en una caja tridimensional. Posteriormente, hicimos un agujero en la parte superior de la estructura completando así el diseño de la estructura del Arduino.
+
 
 <p align="center"><strong>Figura 12: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/act1.jpg" width="600" height="430"></p>
