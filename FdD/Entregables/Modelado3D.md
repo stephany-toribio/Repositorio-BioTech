@@ -1,4 +1,4 @@
-## Modelado 3D
+## <p align=center>MODELADO 3D</p>
 
 ### Proyecto Preliminar 
 
@@ -8,7 +8,7 @@
 
 <p align="center" class="note text-center note-white">FUENTE: Elaboración Propia</p>
 
-### Tabla de Componentes
+### <p align=center>Tabla de Componentes</p>
 
 <p align="center"><strong>Figura 2: Tabla de Componentes</strong></p>
 
