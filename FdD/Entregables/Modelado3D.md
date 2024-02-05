@@ -2,9 +2,9 @@
 
 ### Proyecto Preliminar 
 
-<p align="center"><strong>Figura 1: Proyecto Preliminar</strong></p>
+<p align="center"><strong>Figura 1: Proyecto Preliminar/Boceto</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bosque_mundial.jpeg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/plano.jpg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Elaboración Propia</p>
 
@@ -40,6 +40,7 @@ Link: https://cad.onshape.com/documents/b4d60ad0c9b6907283886df7/w/c1361196ef088
 
 ### Skectchfab
 
-Link: https://cad.onshape.com/documents/b4d60ad0c9b6907283886df7/w/c1361196ef088a3367ce9b33/e/2936077440fc1b11b2e3b0e6 
+Link: https://skfb.ly/oQEZN
+
 
 
