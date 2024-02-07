@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Figura 1: Proyecto Preliminar/Boceto</strong></p>
 
-<p align="center"><img src="hhttps://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-07%20at%208.12.03%20AM.jpeg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-07%20at%208.12.03%20AM.jpeg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Elaboración Propia</p>
 
