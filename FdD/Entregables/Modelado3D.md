@@ -22,19 +22,19 @@ Link: https://cad.onshape.com/documents/b4d60ad0c9b6907283886df7/w/c1361196ef088
 
 <p align="center"><strong>Figura 3:</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/caja2.jpg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-07%20at%207.05.27%20AM.jpeg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Figura3. Elaboración Propia.</p>
 
 <p align="center"><strong>Figura 4:</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/caja3.jpg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-07%20at%207.07.56%20AM.jpeg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Elaboración Propia.</p>
 
 <p align="center"><strong>Figura 4:</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/cajamodelo.jpg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-07%20at%207.07.56%20AM.jpeg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Elaboración Propia.</p>
 
