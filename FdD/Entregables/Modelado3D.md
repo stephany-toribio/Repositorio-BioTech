@@ -40,7 +40,7 @@ Link: https://cad.onshape.com/documents/75b68f8759b2b91696c4072d/w/8251ffbd18f2a
 
 ### Skectchfab
 
-Link: https://skfb.ly/oQEZN
+Link: https://skfb.ly/oQHUC
 
 
 
