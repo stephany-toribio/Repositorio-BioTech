@@ -12,7 +12,7 @@
 
 <p align="center"><strong>Figura 2: Tabla de Componentes</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/componentes.png" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-07%20at%207.21.57%20AM.jpeg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Figura2. Elaboración Propia.</p>
 
