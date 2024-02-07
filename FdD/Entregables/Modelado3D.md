@@ -18,7 +18,7 @@
 
 ### Onshape
 
-Link: https://cad.onshape.com/documents/b4d60ad0c9b6907283886df7/w/c1361196ef088a3367ce9b33/e/3a576709585dfa8b9ee2d99e 
+Link: https://cad.onshape.com/documents/75b68f8759b2b91696c4072d/w/8251ffbd18f2a76e5b5c8e66/e/e67af082e03c8f9cc42830df 
 
 <p align="center"><strong>Figura 3:</strong></p>
 
