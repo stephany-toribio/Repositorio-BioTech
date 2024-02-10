@@ -37,7 +37,7 @@ Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos ele
 ### Actividad 01
 Comenzamos nuestra primera actividad siguiendo las instrucciones del profesor, quien nos guió a través de la plataforma Flux.ai para configurar un circuito *(figura 2)*. Para esto utilizamos un microprocesador, en nuestro caso, optamos por el ESP32-DEVKIT-V1 *(1)*. Asimismo, agregamos un botón tipo Dip switch *(2)*, una resistencia de 220Ω *(4)*, un LED *(5)* y dos conexiones a tierra (GND) al diseño *(3)*. Luego, procedimos a realizar las conexiones siguiendo las indicaciones brindadas. Esta primera parte fue elaborada en la sección "Schematic" de la plataforma.
 
-<p align="center"><strong>Figura 2:  </strong></p>
+<p align="center"><strong>Figura 1:  </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_f2.png" width="700" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
