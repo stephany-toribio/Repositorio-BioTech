@@ -92,6 +92,8 @@ Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos l
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso2.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Herramienta "Shell" Figura 8. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+
+
 <p align="center"><strong>Figura 9: Herramienta "Shell" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 9. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
@@ -101,7 +103,7 @@ Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos l
 <p align="center" class="note text-center note-white">FUENTE: Figura 10. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 **Simulación en Tinkercad:**
-
+En esta etapa, nos propusimos realizar una simulación en Tinkercat utilizando un código. Logramos superar las limitaciones previas y conseguimos incorporar los LEDs de diferentes colores, asi mismo trabajamos con el Arduino Uno ya que no encontramos un Arduino Nano. Como resultado, obtuvimos una representación visual de un semáforo.
 <p align="center"><strong>Figura 11: Simulación de circuito en Tinkercad </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/simulaci%C3%B3n_smfro.jpeg" width="600" height="330"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 11. Tinkercad. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
