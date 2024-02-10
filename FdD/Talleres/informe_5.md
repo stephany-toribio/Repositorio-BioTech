@@ -25,7 +25,7 @@ Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos ele
 
 <p align="center"><strong>Figura 2:  </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/flux.ai.jpeg" width="400" height="230"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Flux.ai. (s.f) A Better Way to Build PCBs. https://www.flux.ai/p/ </p>
 
 
 ## Materiales
