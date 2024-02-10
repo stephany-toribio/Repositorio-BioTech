@@ -37,18 +37,24 @@ Comenzamos nuestra primera actividad siguiendo las instrucciones del profesor, q
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
-
-Posteriormente, en la sección PBC *(figura 3)*
+ㅤ
+Posteriormente, en la sección PBC *(figura 3)*;
 
 <p align="center"><strong>Figura 3: PCB </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/PCB_t5.jpeg" width="600" height="50"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+Realizamos blabla
 
+<p align="center"><strong>Figura 4: </strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+<p align="center"><strong>Figura 4: </strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-
-<p align="center"><strong>Figura 4: Herramienta "Shell" </strong></p>
+<p align="center"><strong>Figura 4: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
