@@ -109,10 +109,9 @@ Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos l
 <p align="center" class="note text-center note-white">FUENTE: Figura 8. Flux ai (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
-
-<p align="center"><strong>Figura 9: Vista en 3D </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso3.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 9. Flux ai(Fundamentos de Diseño 2024-0). Elaboración propia  .</p>
+<p align="center"><strong>Figura 9: Vista en 2D </strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.36.50%20AM.jpeg" width="600" height="430"></p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 9. (Flux ai 2024-0). Elaboración propia  .</p>
 
 <p align="center"><strong>Figura 10: Herramienta "Fillet" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso4.jpg" width="600" height="430"></p>
