@@ -64,13 +64,13 @@ Realizamos blabla
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 3: Vista superior del circuito (TOP) </strong></p>
-        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="370" height="380"></p>
+        <p align="center"><strong>Figura 3: Vista 3D superior del circuito (TOP) </strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom_act1.jpeg" width="370" height="380"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>   
         <td style="border: 0px"> 
-        <p align="center"><strong>Figura 4: Vista inferior del circuito (BOTTOM) </strong></p>
-        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="420" height="400">
+        <p align="center"><strong>Figura 4: Vista 3D inferior del circuito (BOTTOM) </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%201.58.24%20AM.jpeg" width="420" height="400">
         <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>
 </table>
