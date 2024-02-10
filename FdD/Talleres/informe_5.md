@@ -23,7 +23,7 @@
 
 Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos electrónicos. Es una herramienta basada en navegador que permite diseñar circuitos desde cero. Esta plataforma aprovecha la inteligencia artificial para ayudar a optimizar los diseños y acelerar el proceso de desarrollo de los circuitos.
 
-<p align="center"><strong>Figura 2:  </strong></p>
+<p align="center"><strong>Figura 1:  </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/flux.ai.jpeg" width="400" height="230"></p>
 <p align="center" class="note text-center note-white">FUENTE: Flux.ai. (s.f) A Better Way to Build PCBs. https://www.flux.ai/p/ </p>
 
@@ -37,7 +37,7 @@ Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos ele
 ### Actividad 01
 Comenzamos nuestra primera actividad siguiendo las instrucciones del profesor, quien nos guió a través de la plataforma Flux.ai para configurar un circuito *(figura 2)*. Para esto utilizamos un microprocesador, en nuestro caso, optamos por el ESP32-DEVKIT-V1 *(1)*. Asimismo, agregamos un botón tipo Dip switch *(2)*, una resistencia de 220Ω *(4)*, un LED *(5)* y dos conexiones a tierra (GND) al diseño *(3)*. Luego, procedimos a realizar las conexiones siguiendo las indicaciones brindadas. Esta primera parte fue elaborada en la sección "Schematic" de la plataforma.
 
-<p align="center"><strong>Figura 1:  </strong></p>
+<p align="center"><strong>Figura 2:  </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circuito_f2.png" width="700" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
@@ -56,27 +56,43 @@ Para esto, primero acomodamos cada uno de los componentes para lograr una dispos
 
 Una vez completado este proceso, añadimos la capa "Bottom Copper", que se caracterizaba por ser de color azul. Es importante destacar que, generalmente, la parte superior (Top) de la PCB suele ser de color rojo, mientras que la parte inferior (Bottom) es azul.
 
-<p align="center"><strong>Figura 4: </strong></p>
+<p align="center"><strong>Figura 5: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom%20copper.jpeg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-<p align="center"><strong>Figura 4: </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+Es así, como se llegó al resultado final, a continuación se muestran las vistas 2D y 3D:
 
+
+**Vista 2D de PCB final:**
 <table>
     <tr>   
         <td style="border: 0px">
-        <p align="center"><strong>Figura 3: Vista 3D superior del circuito (TOP) </strong></p>
+        <p align="center"><strong>Figura 6: Vista 2D superior del circuito (TOP) </strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.45.52%20AM.jpeg" width="350" height="350"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        </td>   
+        <td style="border: 0px"> 
+        <p align="center"><strong>Figura 7: Vista 2D inferior del circuito (BOTTOM) </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.46.25%20AM.jpeg" width="350" height="350">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        </td>
+</table>
+
+**Vista 3D de PCB final:**
+<table>
+    <tr>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 8: Vista 3D superior del circuito (TOP) </strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom_act1.jpeg" width="350" height="350"></p>
         <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>   
         <td style="border: 0px"> 
-        <p align="center"><strong>Figura 4: Vista 3D inferior del circuito (BOTTOM) </strong></p>
+        <p align="center"><strong>Figura 9: Vista 3D inferior del circuito (BOTTOM) </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%201.58.24%20AM.jpeg" width="350" height="350">
         <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>
 </table>
+
 
 
 ### Actividad 02
