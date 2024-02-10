@@ -113,9 +113,7 @@ Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos l
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.36.50%20AM.jpeg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 9. (Flux ai 2024-0). Elaboración propia  .</p>
 
-<p align="center"><strong>Figura 10: Herramienta "Fillet" </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso4.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 10. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+
 
 **Simulación en Tinkercad:**
 En esta etapa, nos propusimos realizar una simulación en Tinkercat utilizando un código. Logramos superar las limitaciones previas y conseguimos incorporar los LEDs de diferentes colores, asi mismo trabajamos con el Arduino Uno ya que no encontramos un Arduino Nano. Como resultado, obtuvimos una representación visual de un semáforo.
