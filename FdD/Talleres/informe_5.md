@@ -27,6 +27,5 @@ Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos ele
 - Laptop
 - Plataforma Flux.ai
 
-  <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Simulaci%C3%B3n.jpeg"></p>
 
 ## Desarrollo de actividades 
