@@ -42,21 +42,19 @@ Comenzamos nuestra primera actividad siguiendo las instrucciones del profesor, q
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
-
-
-
-
-Posteriormente, en la sección PBC *(figura 3)*;
+Posteriormente, nos centramos en la sección de PCB, la cual nos permitiría comprender cómo se desarrolla una Placa de Circuito Impreso (PCB) *(ver figura 3)*.
 
 <p align="center"><strong>Figura 3: PCB </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/PCB_t5.jpeg" width="600" height="50"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
-Realizamos blabla
+Para esto, primero acomodamos cada uno de los componentes para lograr una disposición más ordenada y funcional. Luego, ajustamos la forma y el tamaño de la placa, de manera que, sea adecuada para el circuito. Después de eso, nos dedicamos a conectar cuidadosamente cada uno de los componentes en la parte inferior de la placa, conocida como la capa "Bottom" *(figura x)*.
 
 <p align="center"><strong>Figura 4: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/conexiones%202d.jpeg" width="700" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+
+Una vez completado este proceso, añadimos la capa "Bottom Copper", que se caracterizaba por ser de color azul. Es importante destacar que, generalmente, la parte superior (Top) de la PCB suele ser de color rojo, mientras que la parte inferior (Bottom) es azul.
 
 <p align="center"><strong>Figura 4: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom%20copper.jpeg" width="600" height="430"></p>
