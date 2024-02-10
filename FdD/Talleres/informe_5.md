@@ -100,26 +100,26 @@ Es así, como se llegó al resultado final, a continuación se muestran las vist
 En esta segunda actividad, aplicando los conocimientos adquiridos previamente en el uso de Flux.ai,  llevamos a cabo un proyecto asignado por el profesor que implicaba el uso de 7 materiales, optamos por incorporar 3 resistencias estándar de 220 ohmios, junto con 3 LEDs de colores (rojo, amarillo y verde), y un Arduino Nano.
 Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos llevó a tomar la decisión de utilizar LEDS del mismo color. Las conexiones se realizaron de la siguiente manera: el LED rojo se conectó al terminal más largo y al pin 13 del Arduino a través de una resistencia de 220 ohmios, mientras que el terminal más corto se conectó a tierra (GND). Del mismo modo, el LED amarillo se conectó de manera similar al pin 12 del Arduino, y el LED verde al pin 11, cada uno a través de una resistencia de 220 ohmios.
 
-<p align="center"><strong>Figura 7: Esquema </strong></p>
+<p align="center"><strong>Figura 10: Esquema </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Esquema.png" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 8.Fluxai (Fundamentos de Diseño 2024-0) Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 1o.Fluxai (Fundamentos de Diseño 2024-0) Elaboración propia.</p>
 
-<p align="center"><strong>Figura 8: Vista en 2D </strong></p>
+<p align="center"><strong>Figura 11: Vista en 2D </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/conexiones_en_la_placa.png" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 8. Flux ai (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 11. Flux ai (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
-<p align="center"><strong>Figura 9: Vista en 3D </strong></p>
+<p align="center"><strong>Figura 12: Vista en 3D </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.36.50%20AM.jpeg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 9. (Flux ai 2024-0). Elaboración propia  .</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 12. (Flux ai 2024-0). Elaboración propia  .</p>
 
 
 
 **Simulación en Tinkercad:**
 En esta etapa, nos propusimos realizar una simulación en Tinkercat utilizando un código. Logramos superar las limitaciones previas y conseguimos incorporar los LEDs de diferentes colores, asi mismo trabajamos con el Arduino Uno ya que no encontramos un Arduino Nano. Como resultado, obtuvimos una representación visual de un semáforo.
-<p align="center"><strong>Figura 11: Simulación de circuito en Tinkercad </strong></p>
+<p align="center"><strong>Figura 13: Simulación de circuito en Tinkercad </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/simulaci%C3%B3n_smfro.jpeg" width="600" height="330"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 11. Tinkercad. (Fundamentos de Diseño 2024-0). Elaboración propia https://www.tinkercad.com/things/bI90QQHJcij-shiny-migelo/editel?tenant=circuits.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 13. Tinkercad. (Fundamentos de Diseño 2024-0). Elaboración propia https://www.tinkercad.com/things/bI90QQHJcij-shiny-migelo/editel?tenant=circuits.</p>
                    
 
 ### Conclusión
