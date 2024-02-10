@@ -54,7 +54,7 @@ Realizamos blabla
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 <p align="center"><strong>Figura 4: </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom%20copper.jpeg" width="500" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 <p align="center"><strong>Figura 4: </strong></p>
