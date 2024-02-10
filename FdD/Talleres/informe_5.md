@@ -61,6 +61,21 @@ Realizamos blabla
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo3.jpg" width="600" height="430"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
+<table>
+    <tr>   
+        <td style="border: 0px">
+        <p align="center"><strong>Figura 3: Vista superior del circuito (TOP) </strong></p>
+        <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/resis1.jpg" width="370" height="380"></p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        </td>   
+        <td style="border: 0px"> 
+        <p align="center"><strong>Figura 4: Vista inferior del circuito (BOTTOM) </strong></p>
+        <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/diag1.jpg" width="420" height="400">
+        <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        </td>
+</table>
+
+
 ### Actividad 02
 
 En esta segunda actividad, aplicando los conocimientos adquiridos previamente en el uso de Flux.ai,  llevamos a cabo un proyecto asignado por el profesor que implicaba el uso de 7 materiales, optamos por incorporar 3 resistencias estándar de 220 ohmios, junto con 3 LEDs de colores (rojo, amarillo y verde), y un Arduino Nano.
