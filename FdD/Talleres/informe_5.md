@@ -86,17 +86,17 @@ Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos l
 
 <p align="center"><strong>Figura 7: Esquema </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Esquema.png" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 8. (Flux ai 2024-0) Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 8.Fluxai (Fundamentos de Diseño 2024-0) Elaboración propia.</p>
 
 <p align="center"><strong>Figura 8: Vista en 2D </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/conexiones_en_la_placa.png" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Herramienta "Shell" Figura 8. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 8. Flux ai (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
 
 <p align="center"><strong>Figura 9: Vista en 3D </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso3.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 9. (Flux ai 2024-0). Elaboración propia  .</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 9. Flux ai(Fundamentos de Diseño 2024-0). Elaboración propia  .</p>
 
 <p align="center"><strong>Figura 10: Herramienta "Fillet" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso4.jpg" width="600" height="430"></p>
