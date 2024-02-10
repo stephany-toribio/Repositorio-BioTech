@@ -17,17 +17,14 @@
 - John Jairo Rodriguez Aguirre
 - Stefano Jesús Ortega Herencia
 
-## Introducción al Modelado 3D (Onshape)
+## Introducción a Flux.ai
 
 <p align="justify">
 
-Onshape es un software CAD basado en la nube que permite el modelado paramétrico, la colaboración en tiempo real y el acceso desde cualquier dispositivo con conexión a internet. Su capacidad de guardar automáticamente el historial de versiones facilita la gestión de cambios y el seguimiento del progreso del diseño.
-
-Este software es considerado una herramienta importante para el modelado 3D debido a su accesibilidad, capacidad de colaboración y herramientas integradas para simulaciones y pruebas de rendimiento.
+Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos electrónicos. Es una herramienta basada en navegador que permite diseñar circuitos desde cero. Esta plataforma aprovecha la inteligencia artificial para ayudar a optimizar los diseños y acelerar el proceso de desarrollo de los circuitos.
 
 ## Materiales
 - Laptop
-- Software Onshape 
-- Impresora 3D
+- Plataforma Flux.ai
 
 ## Desarrollo de actividades 
