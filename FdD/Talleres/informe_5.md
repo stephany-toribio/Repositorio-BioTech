@@ -37,7 +37,10 @@ Comenzamos nuestra primera actividad siguiendo las instrucciones del profesor, q
 <p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
-ㅤ
+
+
+
+
 Posteriormente, en la sección PBC *(figura 3)*;
 
 <p align="center"><strong>Figura 3: PCB </strong></p>
