@@ -83,8 +83,8 @@ En esta segunda actividad, aplicando los conocimientos adquiridos previamente en
 
 **Simulación en Tinkercad:**
 
-<p align="center"><strong>Figura 11: Herramienta "Cambio de apariencia" e imagen final </strong></p>
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso5.jpg" width="600" height="430"></p>
+<p align="center"><strong>Figura 11: Simulación de circuito en Tinkercad </strong></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/simulaci%C3%B3n_smfro.jpeg" width="600" height="330"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 11. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
