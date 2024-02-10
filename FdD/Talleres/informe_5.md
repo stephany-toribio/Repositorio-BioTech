@@ -27,7 +27,6 @@ Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos ele
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/flux.ai.jpeg" width="400" height="230"></p>
 <p align="center" class="note text-center note-white">FUENTE: Flux.ai. (s.f) A Better Way to Build PCBs. https://www.flux.ai/p/ </p>
 
-
 ## Materiales
 - Laptop
 - Plataforma Flux.ai
@@ -58,7 +57,7 @@ Una vez completado este proceso, añadimos la capa "Bottom Copper", que se carac
 
 <p align="center"><strong>Figura 5: </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom%20copper.jpeg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 5. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 Es así, como se llegó al resultado final, a continuación se muestran las vistas 2D y 3D:
 
@@ -69,12 +68,12 @@ Es así, como se llegó al resultado final, a continuación se muestran las vist
         <td style="border: 0px">
         <p align="center"><strong>Figura 6: Vista 2D superior del circuito (TOP) </strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.45.52%20AM.jpeg" width="350" height="350"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 6. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>   
         <td style="border: 0px"> 
         <p align="center"><strong>Figura 7: Vista 2D inferior del circuito (BOTTOM) </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%206.46.25%20AM.jpeg" width="350" height="350">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 7. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>
 </table>
 
@@ -84,12 +83,12 @@ Es así, como se llegó al resultado final, a continuación se muestran las vist
         <td style="border: 0px">
         <p align="center"><strong>Figura 8: Vista 3D superior del circuito (TOP) </strong></p>
         <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/bottom_act1.jpeg" width="350" height="350"></p>
-        <p align="center" class="note text-center note-white">FUENTE: Figura 3. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 8. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>   
         <td style="border: 0px"> 
         <p align="center"><strong>Figura 9: Vista 3D inferior del circuito (BOTTOM) </strong></p>
         <img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/WhatsApp%20Image%202024-02-10%20at%201.58.24%20AM.jpeg" width="350" height="350">
-        <p align="center" class="note text-center note-white">FUENTE: Figura 4. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+        <p align="center" class="note text-center note-white">FUENTE: Figura 9. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
         </td>
 </table>
 
