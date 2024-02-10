@@ -29,14 +29,13 @@ Flux.ai es una plataforma de diseño de hardware que ayuda a crear circuitos ele
 
 ## Desarrollo de actividades
 
-
 ### Actividad 01
+Comenzamos nuestra primera actividad siguiendo las instrucciones del profesor, quien nos guió a través de la plataforma Flux.ai para configurar un circuito. para esto utilizamos un microprocesador. Optamos por el ESP32-DEVKIT-V1, asimismo, agregamos un botón tipo Dip switch, una resistencia de 220 ohmios, un LED y dos conexiones a tierra (GND) al diseño. 
+Luego, procedimos a realizar las conexiones siguiendo las indicaciones brindadas *(figura 2)*.
 
-En este modelo, comenzamos dibujando un círculo con un diámetro de 80 mm en un sketch. Nos aseguramos de centrar la figura *(figura 2)* y luego aplicamos la herramienta "extruir" para convertir el círculo en un objeto tridimensional *(figura 3)*. Posteriormente, utilizamos la herramienta "shell" para crear un agujero en la figura, dando una apariencia algo similar al vaso *(figura 4)*, y finalmente aplicamos la función "fillet" para redondear el contorno exterior *(figura 5)*. A pesar de estos pasos, notamos que el cilindro resultante no se asemejaba al objeto al cual queríamos llegar.
-
-<p align="center"><strong>Figura 2: Herramienta "Center point circle" </strong></p>
+<p align="center"><strong>Figura 2:  </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo1.jpg" width="600" height="430"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 2. Onshape. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+<p align="center" class="note text-center note-white">FUENTE: Figura 2. Flux.ai. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 <p align="center"><strong>Figura 3: Herramienta "Extrude" </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/circulo2.jpg" width="600" height="430"></p>
@@ -79,4 +78,3 @@ En el segundo modelo, buscamos mejorar los resultados del primero mediante el us
 <p align="center" class="note text-center note-white">FUENTE: Figura 11. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
 
 
-## Desarrollo de actividades 
