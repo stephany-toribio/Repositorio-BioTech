@@ -53,7 +53,7 @@ Luego, procedimos a realizar las conexiones siguiendo las indicaciones brindadas
 
 ### Actividad 02
 
-En el segundo modelo, buscamos mejorar los resultados del primero mediante el uso de distintas funciones. Para esto, primero creamos un sketch y empleamos la herramienta "line" para esbozar la mitad de la forma de un vaso, seguido de ello, asignamos medidas a cada lado, para el largo 100 mm, para el lado superior 40 mm, y para el inferior 25 mm *(figura 7)*. Luego, utilizando la función "revolve", logramos darle una forma tridimensional a la figura *(figura 8)*. Posteriormente, aplicamos la herramienta "shell" para crear un agujero en su interior, con el borde del contorno en 3 mm *(figura 9)* y, al igual que en el modelo anterior, suavizamos los bordes; esta vez, con el redio de 2mm, con la función "fillet" para obtener un aspecto más parecido al de un vaso *(figura 10)*. Finalmente, modificamos el color para lograr un resultado más visualmente atractivo *(figura 11)*.
+En esta segunda actividad, aplicando los conocimientos adquiridos previamente en el uso de Flux.ai,  llevamos a cabo un proyecto asignado por el profesor que implicaba el uso de 7 materiales, optamos por incorporar 3 resistencias estándar de 220 ohmios, junto con 3 LEDs de colores (rojo, amarillo y verde), un Arduino Uno y un protoboar. *(figura 11)*.
 
 <p align="center"><strong>Figura 7: Dimensiones </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso1.jpg" width="600" height="430"></p>
