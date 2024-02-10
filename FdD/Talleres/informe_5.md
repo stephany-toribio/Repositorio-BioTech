@@ -107,5 +107,8 @@ En esta etapa, nos propusimos realizar una simulación en Tinkercat utilizando u
 <p align="center"><strong>Figura 11: Simulación de circuito en Tinkercad </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/simulaci%C3%B3n_smfro.jpeg" width="600" height="330"></p>
 <p align="center" class="note text-center note-white">FUENTE: Figura 11. Tinkercad. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
+                   https://www.tinkercad.com/things/bI90QQHJcij-shiny-migelo/editel?tenant=circuits
+
 ### Conclusión
+
  En conclusión pudimos completar nuestro trabajo según lo propuesto, y durante el proceso, adquirimos un profundo entendimiento de la importancia de utilizar Flux IA en nuestros proyectos. Aprendimos a utilizar de manera efectiva las diversas herramientas proporcionadas, lo que nos permitió crear un trabajo que cumplía con nuestras expectativas. Además, exploramos la funcionalidad de visualización esquemático y las conexiones en la placa, así como una vista en 3D, lo que nos permitió comprender y nos brindó una perspectiva más amplia de nuestro proyecto. Con la ayuda de Tinkercad, hemos logrado visualizar las conexiones y el código para simular nuestro proyecto, lo que ha sido fundamental para comprender cómo funciona en la práctica. Esta herramienta nos ha proporcionado una valiosa prueba de concepto, permitiéndonos validar la viabilidad y eficacia de nuestro trabajo antes de su implementación física.
