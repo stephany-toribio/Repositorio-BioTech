@@ -63,7 +63,8 @@ Realizamos blabla
 
 ### Actividad 02
 
-En esta segunda actividad, aplicando los conocimientos adquiridos previamente en el uso de Flux.ai,  llevamos a cabo un proyecto asignado por el profesor que implicaba el uso de 7 materiales, optamos por incorporar 3 resistencias estándar de 220 ohmios, junto con 3 LEDs de colores (rojo, amarillo y verde), un Arduino Uno y un protoboar. *(figura 11)*.
+En esta segunda actividad, aplicando los conocimientos adquiridos previamente en el uso de Flux.ai,  llevamos a cabo un proyecto asignado por el profesor que implicaba el uso de 7 materiales, optamos por incorporar 3 resistencias estándar de 220 ohmios, junto con 3 LEDs de colores (rojo, amarillo y verde), y un Arduino Nano.
+Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos llevó a tomar la decisión de utilizar LEDS del mismo color. Las conexiones se realizaron de la siguiente manera: el LED rojo se conectó al terminal más largo y al pin 13 del Arduino a través de una resistencia de 220 ohmios, mientras que el terminal más corto se conectó a tierra (GND). Del mismo modo, el LED amarillo se conectó de manera similar al pin 12 del Arduino, y el LED verde al pin 11, cada uno a través de una resistencia de 220 ohmios.
 
 <p align="center"><strong>Figura 7: Dimensiones </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/vaso1.jpg" width="600" height="430"></p>
