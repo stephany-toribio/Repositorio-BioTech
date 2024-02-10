@@ -106,8 +106,8 @@ Enfrentamos el desafío de no encontrar LEDS de diferentes colores, lo que nos l
 En esta etapa, nos propusimos realizar una simulación en Tinkercat utilizando un código. Logramos superar las limitaciones previas y conseguimos incorporar los LEDs de diferentes colores, asi mismo trabajamos con el Arduino Uno ya que no encontramos un Arduino Nano. Como resultado, obtuvimos una representación visual de un semáforo.
 <p align="center"><strong>Figura 11: Simulación de circuito en Tinkercad </strong></p>
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/simulaci%C3%B3n_smfro.jpeg" width="600" height="330"></p>
-<p align="center" class="note text-center note-white">FUENTE: Figura 11. Tinkercad. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>
-                   https://www.tinkercad.com/things/bI90QQHJcij-shiny-migelo/editel?tenant=circuits
+<p align="center" class="note text-center note-white">FUENTE: Figura 11. Tinkercad. (Fundamentos de Diseño 2024-0). Elaboración propia.</p>https://www.tinkercad.com/things/bI90QQHJcij-shiny-migelo/editel?tenant=circuits
+                   
 
 ### Conclusión
 
