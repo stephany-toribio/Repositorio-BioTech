@@ -10,7 +10,7 @@
 
 ### Diagrama de flujo
 
-<p align="center"><strong>Figura 2: Tabla de Componentes</strong></p>
+<p align="center"><strong>Figura 2: Diagrama de flujo</strong></p>
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Diagrama%20de%20flujo%20BioTech.drawio.png" width="600" style="margin: auto;"></p>
 
