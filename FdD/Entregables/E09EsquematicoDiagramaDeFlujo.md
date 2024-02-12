@@ -1,6 +1,6 @@
-## <p align=center>MODELADO 3D</p>
+## <p align=center>Essquemático electrónico y diagrama de flujo</p>
 
-### Esquemático electrónico
+### Esquemático del circuito electrónico
 
 <p align="center"><strong>Figura 1: Esquemático electrónico</strong></p>
 
