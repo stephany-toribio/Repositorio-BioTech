@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/esq_circuito.jpeg" width="600" style="margin: auto;"></p>
 
-<p align="center" class="note text-center note-white">FUENTE: Rodriguez, J. (2024). Esquema medidor del nivel de CO2 Y TEMPERATURA. EasyEDA. https://drive.google.com/file/d/14RXz4kt8n5-sO2G_wlYZ8QRES3XchsXH/view?usp=sharing</p>
+<p align="center" class="note text-center note-white">FUENTE: Rodriguez, J. (2024). Esquema medidor del nivel de CO2 Y TEMPERATURA. EasyEDA. thtps://drive.google.com/file/d/14RXz4kt8n5-sO2G_wlYZ8QRES3XchsXH</p>
 
 ### Diagrama de flujo
 
