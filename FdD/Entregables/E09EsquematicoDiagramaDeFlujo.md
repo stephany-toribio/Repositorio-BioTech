@@ -21,8 +21,8 @@
 
 <p align="center"><strong>Figura 3: Mediciones de la concentración de CO2 y temperatura en el ambiente en la Av. Habich</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Diagrama%20de%20flujo%20BioTech.drawio.png" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Hardware/Modelado%203D/sthabich.jpg" width="450" style="margin: auto;"></p>
 
 <p align="center"><strong>Figura 4: Video de la reocolección de datps en la Av. Habich</strong></p>
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Diagrama%20de%20flujo%20BioTech.drawio.png" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Videos/StefanoHabich.mp4" width="600" style="margin: auto;"></p>
