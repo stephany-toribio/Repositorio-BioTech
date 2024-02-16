@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Figura 1: Esquemático electrónico</strong></p>
 
-<p align="center"><img src=https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Diagrama_circuito.jpeg" width="600" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/Diagrama_circuito.jpeg" width="600" style="margin: auto;"></p>
 
 <p align="center" class="note text-center note-white">FUENTE: Rodriguez, J. (2024). Esquema medidor del nivel de CO2 Y TEMPERATURA. EasyEDA.
  https://drive.google.com/file/d/1ucTHhfU_2w816DdatrHQp2yvMig4me2k/view?usp=sharing </p>
