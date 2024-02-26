@@ -1,18 +1,18 @@
-<h1 align="center">Bienvenidos al grupo BIOTECH 😎</h1>
+<h1 align="center">Bienvenidos al equipo BIOTECH 😎</h1>
 
 Somos un equipo conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia que tiene como propósito impulsar soluciones eficaces y eco sostenibles que creen un impacto positivo en nuestro entorno.
 Si desea conocer más sobre nosotros, le invitamos a explorar nuestro
 <a href="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/E01SobreNosotros.md" target="_blank">perfil institucional</a>.
 
-<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/GrupalBioTech.jpg" width="700" style="margin: auto;"></p>
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/GrupalBioTech.jpg" width="750" style="margin: auto;"></p>
 
 ## Tabla de Contenido
 - [Tabla de Contenido](#tabla-de-contenido)
-- [Informacion sobre el Proyecto](#informacion-sobre-el-proyecto)
+- [Información sobre el Proyecto](#información-sobre-el-proyecto)
 - [Referencias](#referencias)
 - [Contacto](#contacto)
 
-## Informacion sobre el Proyecto
+## Información sobre el Proyecto
 
 **Proyecto: Sistema de Monitoreo de CO2 y Temperatura para el Desarrollo Urbano Sostenible (ODS 11)**
 
