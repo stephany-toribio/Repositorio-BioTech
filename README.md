@@ -42,5 +42,10 @@ Moran, M. (2023, 15 septiembre). Ciudades - Desarrollo sostenible. Desarrollo So
 
 Estamos abiertos a la continuación del proyecto, preguntas o sugerencias. Puede ponerse en contacto con nosotros a través de los siguientes medios:
 
-- Correo electrónico: stephany.toribio@upch.pe
-- Perfil de GitHub: stephany-toribio
+- 📧 Correo electrónico: stephany.toribio@upch.pe
+- 💻 Perfil de GitHub: stephany-toribio
+
+Además, te invitamos a echar un vistazo a nuestros logros alcanzados en los hitos 1 y 2 del curso "Fundamentos de Diseño" | Grupo 02, correspondientes al período 2024-0:
+
+- [Hito 1:](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/Hitos/Hito1-BioTech.pdf)
+- [Hito 2:](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/Hitos/Hito2-BioTech.pdf)
