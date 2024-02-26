@@ -1,11 +1,7 @@
-- Mishell Camila Maravi Melgar
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mishell_camila.png)
-  
-- Stephany Marilyn Toribio Alvarado 
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/stephany_marilyn.png)
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/stephany_marilyn.png" width="1000" style="margin: auto;"></p>
 
-- John Jairo Rodriguez Aguirre
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/john_jairo.png)
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/mishell_camila.png" width="1000" style="margin: auto;"></p>
 
-- Stefano Jesús Ortega Herencia
-![](https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/stefano_jesus.png)
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/john_jairo.png" width="1000" style="margin: auto;"></p>
+
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/stefano_jesus.png" width="1000" style="margin: auto;"></p>
