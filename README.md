@@ -4,6 +4,8 @@ Somos un equipo conformado por estudiantes de Ingeniería Ambiental e Informáti
 Si desea conocer más sobre nosotros, le invitamos a explorar nuestro
 <a href="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/FdD/Entregables/E01SobreNosotros.md" target="_blank">perfil institucional</a>.
 
+<p align="center"><img src="https://github.com/stephany-toribio/Repositorio-BioTech/blob/main/Imagenes/GrupalBioTech.jpg" width="1000" style="margin: auto;"></p>
+
 ## Tabla de Contenido
 - [Tabla de Contenido](#tabla-de-contenido)
 - [Informacion sobre el Proyecto](#informacion-sobre-el-proyecto)
