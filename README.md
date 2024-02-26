@@ -8,29 +8,37 @@ Si desea conocer más sobre nosotros, le invitamos a explorar nuestro
 - [Tabla de Contenido](#tabla-de-contenido)
 - [Informacion sobre el Proyecto](#informacion-sobre-el-proyecto)
 - [Referencias](#referencias)
+- [Contacto](#contacto)
 
 ## Informacion sobre el Proyecto
 
-**Proyecto: Desarrollo Urbano Sostenible para Ciudades Inclusivas (ODS 11)**
+**Proyecto: Sistema de Monitoreo de CO2 y Temperatura para el Desarrollo Urbano Sostenible (ODS 11)**
 
-Este proyecto tiene como obejtivo analizar y promover el desarrollo urbano sostenible, enfocandose en la ODS 11 "Ciudades y Comunidades Sostenibles". Buscamos entender cómo la planificación urbana permite mejorar la calidad de vida contribuir al desarrollo sostenible y promover la inclusion.
+Este proyecto se enfoca en desarrollar un sistema de monitoreo de CO2 y temperatura como parte de la iniciativa para promover el desarrollo urbano sostenible, con énfasis en el ODS 11 "Ciudades y Comunidades Sostenibles". El objetivo principal es comprender y abordar los desafíos ambientales en entornos urbanos, utilizando datos precisos y en tiempo real.
 
 - **Visión:**
 
-Integrar ciudades inclusivas y sostenibles, donde se mejore la calidad de vida de todos los habitantes meidante la planificación urbana equitativa .
+Crear ciudades resilientes y sostenibles, donde el monitoreo preciso de la calidad del aire y la temperatura contribuya a la salud y el bienestar de todos los ciudadanos. Nos esforzamos por integrar soluciones innovadoras que promuevan entornos urbanos saludables y habitables.
 
 - **Misión:**
 
-Promover el desarrollo urbano sostenible, garantizando la inclusión y accesibilidad. 
+Nuestra misión es liderar el desarrollo y la implementación de sistemas de monitoreo de CO2 y temperatura, asegurando que las comunidades urbanas tengan acceso a información ambiental relevante y oportuna. Buscamos promover la sostenibilidad ambiental y la inclusión social al proporcionar datos confiables que respalden la toma de decisiones informadas en la planificación urbana y la gestión ambiental.
 
 - **Objetivo General:**
 
-Desarrollar un modelo urbano que promueva la sostenibilidad ambiental, inclusion; abracando los objetivos de la ODS 11.
+Desarrollar e implementar un sistema de monitoreo de CO2 y temperatura para apoyar la planificación urbana sostenible y la toma de decisiones informadas.
 
 - **Estrategias y Acciones a tomar :**
-     - Medidas en la calidad de aire. 
-     - Mejorar la organizacion y gestion de zonas, tomando en cuenta la reduccion del impacto   ambiental negativo de las ciudades. 
-
+    - Diseño e implementación de sensores para monitorear los niveles de CO2 y temperatura en áreas urbanas.
+    - Análisis de datos para identificar patrones y tendencias que afecten la calidad del aire y el clima urbano.
+    - Integración de los resultados del monitoreo en la planificación urbana y las políticas medioambientales locales.
 ## Referencias
 
 Moran, M. (2023, 15 septiembre). Ciudades - Desarrollo sostenible. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/cities/ 
+
+## Contacto 
+
+Estamos abiertos a la continuación del proyecto, preguntas o sugerencias. Puede ponerse en contacto con nosotros a través de los siguientes medios:
+
+- Correo electrónico: stephany.toribio@upch.pe
+- Perfil de GitHub: stephany-toribio
